@@ -67,7 +67,7 @@ project:: ModuleManual
                 what:: The "black financial model" avoids raising funds, loans, and running in the red
                 how:: Click the link and read to learn about the black model financial philosophy
                 why:: Applying the black financial philosophy increases profit and prevents bankruptcy
-                where:: https://github.com/codecartelcodes/ModuleManual/blob/61b07979eb0dd4b9e406dabf0a7150eaf2bd3a36/modulemanual_todo.txt
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/black_finanacial_model.md
                 when::
                 who::
 
