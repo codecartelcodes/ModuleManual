@@ -1,18 +1,18 @@
 # project:: ModuleManual
-    - what:: The Module Manual includes business admin, marketing, sales, and customer support
-    - how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
-    - why::
-    - where::
-    - when::
-    - who::
+  - what:: The Module Manual includes business admin, marketing, sales, and customer support
+  - how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
+  - why::
+  - where::
+  - when::
+  - who::
 
     ## phase:: Review the Overview
-        - what:: The stages within this phase provide an overview of the business opportunity
-        - how:: Please read all rows and click the links in the links column to see the resources
-        - why:: Learn how to start and manage a Module and generate over a million in revenue
-        - where:: 
-        - when::
-        - who::
+       - what:: The stages within this phase provide an overview of the business opportunity
+       - how:: Please read all rows and click the links in the links column to see the resources
+       - why:: Learn how to start and manage a Module and generate over a million in revenue
+       - where:: 
+       - when::
+       - who::
 
         ### stage:: Learn about the Module
             - what:: The Module is a company that provides marketing, sales, and customer service
@@ -23,12 +23,12 @@
             - who::
 
             #### task:: Read the brief overview
-                - what:: There is a very brief overview to outline the idea 
-                - how:: Click the link to the right and read the document
-                - why:: The brief overview provides the purpose quickly
-                - where:: [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn-IjDXRs/)
-                - when::
-                - who::
+                 - what:: There is a very brief overview to outline the idea 
+                 - how:: Click the link to the right and read the document
+                 - why:: The brief overview provides the purpose quickly
+                 - where:: [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn-IjDXRs/)
+                 - when::
+                 - who::
 
             **task:: Read the Module Overview**
                 - what:: The Module Overview defines the key components of a Module business
