@@ -1,8 +1,11 @@
-project:: ModuleManual
+project:: ModuleManual<br>
 &nbsp;&nbsp;what:: The Module Manual includes business admin, marketing, sales, and customer support<br>
 &nbsp;&nbsp;how:: All phases, stages, and tasks are written with what, how, why, where, when, who <br>
 &nbsp;&nbsp;why::<br>
 &nbsp;&nbsp;where::<br>
+&nbsp;&nbsp;where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/black_finanacial_model.md<br>
+&nbsp;&nbsp;where:: docs/black_finanacial_model.md<br>
+&nbsp;&nbsp;where:: [Black Financial Model](docs/black_finanacial_model.md)<br>
 &nbsp;&nbsp;when::<br>
 &nbsp;&nbsp;who::<br>
 
@@ -10,7 +13,7 @@ project:: ModuleManual
 &nbsp;&nbsp;&nbsp;&nbsp;what:: The stages within this phase provide an overview of the business opportunity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;how:: Please read all rows and click the links in the links column to see the resources<br>
 &nbsp;&nbsp;&nbsp;&nbsp;why:: Learn how to start and manage a Module and generate over a million in revenue<br>
-&nbsp;&nbsp;&nbsp;&nbsp;where:: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;where::<br>
 &nbsp;&nbsp;&nbsp;&nbsp;when::<br>
 &nbsp;&nbsp;&nbsp;&nbsp;who::<br>
 
