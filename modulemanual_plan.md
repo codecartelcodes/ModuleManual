@@ -6,7 +6,7 @@
   * when::
   * who::
 
-  ## phase:: Review the Overview
+  * ## phase:: Review the Overview
     * what:: The stages within this phase provide an overview of the business opportunity
     * how:: Please read all rows and click the links in the links column to see the resources
     * why:: Learn how to start and manage a Module and generate over a million in revenue
@@ -14,7 +14,7 @@
     * when::
     * who::
 
-    ### stage:: Learn about the Module
+    * ### stage:: Learn about the Module
       * what:: The Module is a company that provides marketing, sales, and customer service
       * how:: Complete all tasks in this stage and ask questions during the phone interviews
       * why:: Learn about the vision, scope of work, financials, and project management plan
@@ -22,7 +22,7 @@
       * when::
       * who::
 
-      #### task:: Read the brief overview
+      * #### task:: Read the brief overview
         * what:: There is a very brief overview to outline the idea 
         * how:: Click the link to the right and read the document
         * why:: The brief overview provides the purpose quickly
@@ -30,7 +30,7 @@
         * when::
         * who::
 
-      #### task:: Read the Module Overview
+      * #### task:: Read the Module Overview
         * what:: The Module Overview defines the key components of a Module business
         * how:: Click the link, read the document, and read it occasionally to define roles
         * why:: It is critical that the Manager understand the Module and manage the roles
