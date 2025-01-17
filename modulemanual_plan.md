@@ -7,12 +7,12 @@
   * who::
 
   ## phase:: Review the Overview
-     * what:: The stages within this phase provide an overview of the business opportunity
-     * how:: Please read all rows and click the links in the links column to see the resources
-     * why:: Learn how to start and manage a Module and generate over a million in revenue
-     * where:: 
-     * when::
-     * who::
+    * what:: The stages within this phase provide an overview of the business opportunity
+    * how:: Please read all rows and click the links in the links column to see the resources
+    * why:: Learn how to start and manage a Module and generate over a million in revenue
+    * where:: 
+    * when::
+    * who::
 
     ### stage:: Learn about the Module
       * what:: The Module is a company that provides marketing, sales, and customer service
