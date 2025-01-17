@@ -1,34 +1,34 @@
 project:: ModuleManual
-&nbsp;what:: The Module Manual includes business admin, marketing, sales, and customer support
-&nbsp;how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
-&nbsp;why::
-&nbsp;where::
-&nbsp;when::
-&nbsp;who::
+&nbsp;&nbsp;what:: The Module Manual includes business admin, marketing, sales, and customer support<br>
+&nbsp;&nbsp;how:: All phases, stages, and tasks are written with what, how, why, where, when, who <br>
+&nbsp;&nbsp;why::<br>
+&nbsp;&nbsp;where::<br>
+&nbsp;&nbsp;when::<br>
+&nbsp;&nbsp;who::<br>
 
-&nbsp;phase:: Review the Overview
-&nbsp;&nbsp;what:: The stages within this phase provide an overview of the business opportunity
-&nbsp;&nbsp;how:: Please read all rows and click the links in the links column to see the resources
-&nbsp;&nbsp;why:: Learn how to start and manage a Module and generate over a million in revenue
-&nbsp;&nbsp;where:: 
-&nbsp;&nbsp;when::
-&nbsp;&nbsp;who::
+&nbsp;&nbsp;phase:: Review the Overview<br>
+&nbsp;&nbsp;&nbsp;&nbsp;what:: The stages within this phase provide an overview of the business opportunity<br>
+&nbsp;&nbsp;&nbsp;&nbsp;how:: Please read all rows and click the links in the links column to see the resources<br>
+&nbsp;&nbsp;&nbsp;&nbsp;why:: Learn how to start and manage a Module and generate over a million in revenue<br>
+&nbsp;&nbsp;&nbsp;&nbsp;where:: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;when::<br>
+&nbsp;&nbsp;&nbsp;&nbsp;who::<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;stage:: Learn about the Module
-&nbsp;&nbsp;&nbsp;&nbsp;what:: The Module is a company that provides marketing, sales, and customer service
-&nbsp;&nbsp;&nbsp;&nbsp;how:: Complete all tasks in this stage and ask questions during the phone interviews
-&nbsp;&nbsp;&nbsp;&nbsp;why:: Learn about the vision, scope of work, financials, and project management plan
-&nbsp;&nbsp;&nbsp;where:: 
-&nbsp;&nbsp;&nbsp;when::
-&nbsp;&nbsp;&nbsp;who::
+&nbsp;&nbsp;&nbsp;&nbsp;stage:: Learn about the Module<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what:: The Module is a company that provides marketing, sales, and customer service<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how:: Complete all tasks in this stage and ask questions during the phone interviews<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why:: Learn about the vision, scope of work, financials, and project management plan<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where:: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when::<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who::<br>
 
->>>>>> #### task:: Read the brief overview
->>>>>>>> what:: There is a very brief overview to outline the idea 
->>>>>>>> how:: Click the link to the right and read the document
->>>>>>>> why:: The brief overview provides the purpose quickly
->>>>>>>> where:: [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn>IjDXRs/)
->>>>>>>> when::
->>>>>>>> who::
+task:: Read the brief overview<br>
+what:: There is a very brief overview to outline the idea <br>
+how:: Click the link to the right and read the documenT<br>
+why:: The brief overview provides the purpose quickly<br>
+where:: [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn>IjDXRs/)<br>
+when::<br>
+who::<br>
 
 > #### task:: Read the Module Overview
 > what:: The Module Overview defines the key components of a Module business
