@@ -1,26 +1,26 @@
 # project:: ModuleManual
-+ what:: The Module Manual includes business admin, marketing, sales, and customer support
-+ how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
-+ why::
-+ where::
-+ when::
-+ who::
+&nbsp; what:: The Module Manual includes business admin, marketing, sales, and customer support
+&nbsp; how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
+&nbsp; why::
+&nbsp; where::
+&nbsp; when::
+&nbsp; who::
 
-+ ## phase:: Review the Overview
-+ what:: The stages within this phase provide an overview of the business opportunity
-+ how:: Please read all rows and click the links in the links column to see the resources
-+ why:: Learn how to start and manage a Module and generate over a million in revenue
-+ where:: 
-+ when::
-+ who::
+&nbsp; phase:: Review the Overview
+&nbsp;&nbsp; what:: The stages within this phase provide an overview of the business opportunity
+&nbsp;&nbsp; how:: Please read all rows and click the links in the links column to see the resources
+&nbsp;&nbsp; why:: Learn how to start and manage a Module and generate over a million in revenue
+&nbsp;&nbsp; where:: 
+&nbsp;&nbsp; when::
+&nbsp;&nbsp; who::
 
-+ + ### stage:: Learn about the Module
-+ + what:: The Module is a company that provides marketing, sales, and customer service
-+ + how:: Complete all tasks in this stage and ask questions during the phone interviews
-+ + why:: Learn about the vision, scope of work, financials, and project management plan
-+ + where:: 
-+ + when::
-+ + who::
+&nbsp;&nbsp;&nbsp;&nbsp; ### stage:: Learn about the Module
+&nbsp;&nbsp;&nbsp;&nbsp; what:: The Module is a company that provides marketing, sales, and customer service
+&nbsp;&nbsp;&nbsp;&nbsp; how:: Complete all tasks in this stage and ask questions during the phone interviews
+&nbsp;&nbsp;&nbsp;&nbsp; why:: Learn about the vision, scope of work, financials, and project management plan
+&nbsp;&nbsp;&nbsp; where:: 
+&nbsp;&nbsp;&nbsp; when::
+&nbsp;&nbsp;&nbsp; who::
 
 >>>>>> #### task:: Read the brief overview
 >>>>>>>> what:: There is a very brief overview to outline the idea 
