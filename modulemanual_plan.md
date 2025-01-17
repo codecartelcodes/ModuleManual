@@ -1,45 +1,54 @@
+# Project: ModuleManual
 
-# project:: ModuleManual
-    + what:: The Module Manual includes business admin, marketing, sales, and customer support
-    + how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
-    + why::
-    + where::
-    + when::
-    + who::
+## Overview
+- **What:** The Module Manual includes business admin, marketing, sales, and customer support.
+- **How:** All phases, stages, and tasks are written with what, how, why, where, when, who.
+- **Why:** 
+- **Where:** 
+- **When:** 
+- **Who:** 
 
-    ## phase:: Review the Overview
-        + what:: The stages within this phase provide an overview of the business opportunity
-        + how:: Please read all rows and click the links in the links column to see the resources
-        + + why:: Learn how to start and manage a Module and generate over a million in revenue
-        + where:: 
-        + when::
-        + who::
+---
 
-        ### stage:: Learn about the Module
-            + what:: The Module is a company that provides marketing, sales, and customer service
-            + how:: Complete all tasks in this stage and ask questions during the phone interviews
-            + why:: Learn about the vision, scope of work, financials, and project management plan
-            + where:: 
-            + when::
-            + who::
+## Phase: Review the Overview
+- **What:** The stages within this phase provide an overview of the business opportunity.
+- **How:** Please read all rows and click the links in the links column to see the resources.
+- **Why:** Learn how to start and manage a Module and generate over a million in revenue.
+- **Where:** 
+- **When:** 
+- **Who:** 
 
-            #### task:: Read the brief overview
-                + what:: There is a very brief overview to outline the idea 
-                + how:: Click the link to the right and read the document
-                + why:: The brief overview provides the purpose quickly
-                + where:: [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn-IjDXRs/)
-                + when::
-                + who::
+---
 
-            **task:: Read the Module Overview**
-                + what:: The Module Overview defines the key components of a Module business
-                + how:: Click the link, read the document, and read it occasionally to define roles
-                + why:: It is critical that the Manager understand the Module and manage the roles
-                + where:: <https://docs.google.com/document/d/1jKOFLq3GQBapNlYGZ1p8erklKoFvEtYMbY-kerZtHzA/>
-                + when::
-                + who::
+### Stage: Learn about the Module
+- **What:** The Module is a company that provides marketing, sales, and customer service.
+- **How:** Complete all tasks in this stage and ask questions during the phone interviews.
+- **Why:** Learn about the vision, scope of work, financials, and project management plan.
+- **Where:** 
+- **When:** 
+- **Who:** 
 
-            task:: Learn the Modus Operandi
+---
+
+#### Task: Read the Brief Overview
+- **What:** There is a very brief overview to outline the idea.
+- **How:** Click the link to the right and read the document.
+- **Why:** The brief overview provides the purpose quickly.
+- **Where:** [GoogleDoc](https://docs.google.com/document/d/1sb5Rw64CejTscp4KLafbDIZ5wuzqAtuWnEyn-IjDXRs/)
+- **When:** 
+- **Who:** 
+
+---
+
+#### Task: Read the Module Overview
+- **What:** The Module Overview defines the key components of a Module business.
+- **How:** Click the link, read the document, and review it occasionally to define roles.
+- **Why:** It is critical that the Manager understand the Module and manage the roles.
+- **Where:** [GoogleDoc](https://docs.google.com/document/d/1jKOFLq3GQBapNlYGZ1p8erklKoFvEtYMbY-kerZtHzA/)
+- **When:** 
+- **Who:** 
+
+           task:: Learn the Modus Operandi
                 + what:: The Module Modus Operandi is an overview of how the Module works
                 + how:: Click the link, read the document, and visualize the business logistics
                 + why::
