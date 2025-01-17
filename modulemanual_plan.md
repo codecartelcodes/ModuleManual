@@ -1,10 +1,10 @@
 # project:: ModuleManual
-> what:: The Module Manual includes business admin, marketing, sales, and customer support
-> how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
-> why::
-> where::
-> when::
-> who::
+&nbsp;&nbsp; what:: The Module Manual includes business admin, marketing, sales, and customer support
+&nbsp;&nbsp; how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
+&nbsp;&nbsp; why::
+&nbsp;&nbsp; where::
+&nbsp;&nbsp; when::
+&nbsp;&nbsp; who::
 
 &nbsp;&nbsp; ## phase:: Review the Overview
 &nbsp;&nbsp;&nbsp;&nbsp; what:: The stages within this phase provide an overview of the business opportunity
