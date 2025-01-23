@@ -1,0 +1,5089 @@
+project:: ModuleManual 
+    what:: The Module Manual includes business admin, marketing, sales, and customer support 
+    how:: All phases, stages, and tasks are written with what, how, why, where, when, who 
+    why:: 
+    where:: 
+    when:: 
+    who:: 
+
+    phase:: Review the Overview 
+        what:: The stages within this phase provide an overview of the business opportunity 
+        how:: Please read all rows and click the links in the links column to see the resources 
+        why:: Learn how to start and manage a Module and generate over a million in revenue 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Learn about the Module 
+            what:: The Module is a company that provides marketing, sales, and customer service 
+            how:: Complete all tasks in this stage and ask questions during the phone interviews 
+            why:: Learn about the vision, scope of work, financials, and project management plan 
+            where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/module_concept.md 
+            when:: 
+            who:: 
+
+            task:: Learn the Module definitions 
+                what:: The Module Overview defines the key components of a Module business 
+                how:: Click the link, read the document, and read it occasionally to define roles 
+                why:: It is critical that the Manager understand the Module and manage the roles 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/module_definitions.md
+                when:: 
+                who:: 
+
+            task:: Learn the Modes
+                what:: The Module Modus Operandi is an overview of how the Module works 
+                how:: Click the link, read the document, and visualize the business logistics 
+                why:: 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/module_mode.md
+                when:: 
+                who:: 
+
+            task:: Learn the client criteria 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/client_criteria.md
+                when:: 
+                who:: 
+
+            task:: Learn the Manager requirements 
+                what:: There are basic requirements a Manger must have to own a Module 
+                how:: Click the link to the right, read the document about the requirements 
+                why:: The Manager learns whether they are willing to manage a Module 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/manager_requirements.md
+                when:: 
+                who:: 
+
+            task:: Learn the "Black" Financial Model 
+                what:: The "black financial model" avoids raising funds, loans, and running in the red 
+                how:: Click the link and read to learn about the black model financial philosophy 
+                why:: Applying the black financial philosophy increases profit and prevents bankruptcy 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/black_finanacial_model.md 
+                when:: 
+                who:: 
+
+            task:: Review the Black Financial Model 
+                what:: The "black financial model" is a spreadsheet that shows the forecasting model 
+                how:: Click the link, read all six sheets until the financial model is clearly understood 
+                why:: The spreadsheet shows the financial projections and how to hit revenue goals 
+                where:: https://docs.google.com/spreadsheets/d/1Qs5_iuvQ7Ptg3yYmtLBUrsmmRrVT8hietkQXH46Aa4c 
+                when:: 
+                who:: 
+
+            task:: Learn the Module financials 
+                what:: The Manager is responsible for tracking the Module finances 
+                how:: Click  the link, read the "Learn the Bookkeeping" document 
+                why:: The Manager must understand how the record keeping works 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/module_financials.md 
+                when:: 
+                who:: 
+
+        stage:: Learn about the Method 
+            what:: The Method is the replaceable business opportunity focused on an industry 
+            how:: Read all of the documents and get a demonstration by the creator of the site 
+            why:: The Method defines the pain points, customer avatars, and the stakeholders 
+            where:: 
+            when:: 
+            who:: 
+
+        stage:: Analyze the competitors 
+            what:: A Marketing Competitor Analysis reviews the competitor brand & web presence 
+            how:: The agency searches the Internet and notes where and how competitors appear 
+            why:: Analyzing competitors' efforts provides valuable insights for marketing strategies 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: List the competitors
+                what:: 
+                how:: based on value proposition 
+                why:: awareness of competitors and the competition 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/competitors_list.md 
+                when:: 
+                who:: 
+
+            task:: Conduct a competitor analysis 
+                what:: A competitor analysis is a document detailing Method competitors
+                how:: List the competitors' strengths, weaknesses, websites, & customers 
+                why:: Copying competitors marketing efforts may provide a good example
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/competitors_analysis.md 
+                when:: 
+                who:: 
+
+            task:: Collect the ad copy of the competitors 
+                what:: Ad copy that offers a similar value proposition is found 
+                how:: Search for competitor ads and select one that is fitting 
+                why:: An ad that is in use has a higher probability of working 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/competitors_ads.md 
+                when:: 
+                who:: 
+
+        stage:: Discover Customers 
+            what:: 
+            how:: 
+            why:: 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Add Sales Playbook (Stage 1) here 
+                what:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: sales playbook (stage 1) 
+
+        stage:: Attend phone interviews 
+            what:: Interviews are conducted between the potential Manager and the Mentors 
+            how:: Schedule calls and talk with the Manager Mentor and Creator of the Manual 
+            why:: Potential Managers will get a clear understanding how to manage a Module 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Call the Mentor 
+                what:: The Mentor knows the concepts on the Manual and supports the Manager 
+                how:: Schedule a call with the Mentor to discuss the Manager role and the Manual 
+                why:: The Mentor answers all questions verbally and also by updating the Manual 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Call the Mastermind 
+                what:: The Mastermind designed, defined, and wrote most of the rows on the Manual 
+                how:: Click the calendar link to schedule an appointment to have a phone conference 
+                why:: The Mastermind answers all questions about the Manual, Model, and software 
+                where::
+                when:: 
+                who:: 
+
+    phase:: Start the Systems 
+        what:: The infrastructure is composed of several automated systems and documents 
+        how:: Complete all of the stages between "Start the Systems" and "Raise the funds" 
+        why:: The infrastructure provides the support that the Module needs at very low costs 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Learn how to use this Manual 
+            what:: This file containing phases, stages, and tasks is called the "Manual" 
+            how:: Read about how to use the features of this Manual and test each feature 
+            why:: The Manual is used as a simple project management system and repository 
+            where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/manual_usage.md 
+            when:: 
+            who:: 
+
+            task:: Learn to RTFM 
+                what:: Learn to rely on the Manual to answer questions about business operations 
+                how:: Please take the time to study this entire Manual until you can find things
+                why:: The Manual is the key reference and project management plan for the Module 
+                where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/rtfm.md 
+                when:: 
+                who:: 
+
+            task:: Copy the Manual 
+                what:: A copy of this Manual should be on the Module's Google Drive 
+                how:: Click "File" above, "Make a Copy", enter "Manual" and click "OK" 
+                why:: The Module will use a separate Manual system to manage tasks 
+                where:: 
+                when:: 
+                who:: 
+                notes:: This assumes you have a Google Drive! 
+
+            task:: Learn how to use the Filter 
+                what:: The Filter Funnel and Filter View are functions built into Google Sheets 
+                how:: Click the link and read the details of how to use the filter functionality 
+                why:: Filtering reduces the rows displayed so that it is not overwhelming 
+                where:: https://docs.google.com/document/d/1fS5Ah9wqALoBtCYT63QT0XVCwaqLAbMK1psW4at1pmk/ 
+                when:: 
+                who:: 
+
+            task:: Learn how to create new lines in cells 
+                what:: New lines are hard returns inside the cells of the Google Sheet 
+                how:: Click Ctrl+Enter on PC, or Click Command+Enter on a Macintosh 
+                why:: Creating new rows in cells makes the text much easier to read 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn to read the stages completely 
+                what:: The stages are groupings of related tasks that take less than a day 
+                how:: Read the entire stage section before completing the tasks in the stage 
+                why:: Reading the stage will provide answers to frequently asked questions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn to use the details and notes columns 
+                what:: The details column holds permanent info while the notes column changes 
+                how:: Enter contact info and permanent details and updates in the notes column 
+                why:: Separating the static and dynamic information helps keep the sheet clear 
+                where:: https://docs.google.com/document/d/1SuMJLlEpsr60bLvM8IhHADkt4bH3PhXlLTJktIFxE7M/ 
+                when:: 
+                who:: 
+
+            task:: Learn how to find text on this sheet 
+                what:: The "Find in Sheet" functionality allows you to enter text 
+                how:: Type Ctrl+F and enter the text that you are searching for in the form 
+                why:: You will need to search for information in the sheet every so often 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how to set deadlines dynamically 
+                what:: The deadlines specify the latest dates that stages and tasks are completed 
+                how:: Click the link to learn how to dynamically generate the deadlines for all stages 
+                why:: Setting the deadlines so each stage takes one day provides realistic estimates 
+                where:: https://docs.google.com/document/d/183MvupKyZ-YYWcAszovTEys0bxH8VkuS4hvDaLvwfxs/ 
+                when:: 
+                who:: 
+
+            task:: Learn how to adjust rows to fit data 
+                what:: The row height can be adjusted and the whitespace removed from the cells 
+                how:: Click the link and read the directions on how to tidy up the spreadsheet rows 
+                why:: Adjusting all the rows can make hidden data visible and remove whitespace 
+                where:: https://docs.google.com/document/d/1B5v9asVBEcBWaQ8kIG_IO25yZVesLhBHYKIiSpFi4kw/ 
+                when:: 
+                who:: 
+
+            task:: Learn how to delegate tasks 
+                what:: The Manual allows tasks to be delegated to specific team members 
+                how:: Type the name of a team member in the owner column to assign a task 
+                why:: Tasks can be filtered and displayed based on a team member's name 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how to add tasks 
+                what:: Each task is added as a separate row with WHAT, HOW, WHY sentences 
+                how:: Right click on the sheet and click "Insert row" and add one task per row 
+                why:: Adding one task per row is more clear and allows the tasks to be filtered 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how to write rows 
+                what:: Each row includes the who, what, when, where, how, & why details 
+                how:: Click the link, read the document, and practice writing a some rows 
+                why:: Clearly written rows make it more likely the tasks will be completed 
+                where:: https://docs.google.com/document/d/1bxJevhHRyk9Mo7tLYqQ02c2sE_MIQfo4IQIx08PHRuw/ 
+                when:: 
+                who:: 
+
+            task:: Learn how to complete tasks 
+                what:: Completed tasks are removed from this sheet and added to the done sheet 
+                how:: Highlight the row, Ctrl+X, click the "done" sheet, Ctrl+V to paste near the top 
+                why:: Moving the tasks declutters this sheet and creates an archive to store details 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how to use the version history 
+                what:: The version history shows who made changes, when, and what changed 
+                how:: Hold Ctrl+Alt+Shift+H at the same time to display the history of this sheet 
+                why:: The version history makes it easy to recover overwritten and deleted data 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how to see the whole sheet 
+                what:: This Manual spreadsheet is designed to be screen width or printed 
+                how:: Adjust the columns so that no columns wrap the text (except notes) 
+                why:: The information is narrow enough to be seen on a laptop or printed 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Create a Module name 
+            what:: The Module name is the brand name for the business 
+            how:: Choose a name that is easy to hear, understand, & spell 
+            why:: A good brand name helps facilitate marketing and selling 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about the Laws of Marketing 
+                what:: The "22 Immutable Laws of Marketing" is a great book on branding 
+                how:: Click the link and read the overview of the each chapter in the book 
+                why:: Learning about the immutable laws helps with choosing a good name 
+                where:: https://www.samuelthomasdavies.com/book-summaries/business/the-22-immutable-laws-marketing 
+                when:: 
+                who:: 
+
+            task:: Use the Namelix website 
+                what:: The Namelix website has an algorithm that generates brand name suggestions 
+                how:: Enter marketing sales keywords, select "Medium names", click "Name Style" 
+                why:: Using a name generator helps reduce the time and stress of creating a name 
+                where:: https://namelix.com 
+                when:: 
+                who:: 
+
+            task:: Generate name from Namelix 
+                what:: The Namelix site shows "Brand keywords", Name Length, Name Style 
+                how::  Click "Name Style", click "Rhyming words", click the "Generate" button 
+                why::   The name will be unique and memorable and therefore easy to brand 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Search for the brand name 
+                what:: A name search is conducted when creating a new business 
+                how:: Click the link, search for the name, and see if it is already used 
+                why:: Avoiding existing brand names prevents trademark infringement 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Search for the domain name 
+                what:: A website is used to check to see if a domain is available 
+                how:: Click the link and enter names until finding an unused name 
+                why:: The domain name will be registered to match the brand name 
+                where:: https://www.namesilo.com/?rid=d7ea099bt 
+                when:: 
+                who:: 
+
+        stage:: Set up a business email account 
+            what:: There should be a group email account dedicated for the Module 
+            how:: Follow the directions to set up a new email address for the Module 
+            why:: A Module email is required to get an Employer Identification Number 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Log out of all gmail accounts 
+                what:: There is a registration website to create a Gmail Account 
+                how:: Log out of all Gmail accounts and then click the link 
+                why:: The new account will store Module emails separately 
+                where:: https://mail.google.com 
+                when:: 
+                who:: 
+
+            task:: Select the appropriate Gmail account 
+                what:: The Gmail website shows a page that selects different Gmail accounts 
+                how:: Click "Use another account", "Create account", "To manage my business" 
+                why:: The Module needs a separate email account for business emails only 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create an email username and password 
+                what:: There is a form to provide a name, desired username, and password 
+                how:: Enter the Manager name, desired username, password, and click next 
+                why:: Gmail requires a username and password for the account configuration 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Verify the identifying information 
+                what:: The Gmail website has a form asking for the Manager's identifying information 
+                how:: Enter phone number, recovery email address, birthday, gender, and click next 
+                why:: Google requests identifying settings for security purposes and account recovery 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Verify the cell phone number 
+                what:: The Gmail page shows form that asks for the a cell phone number 
+                how:: Click send for verification code, enter verification code, click verify 
+                why:: This is done to verify the number provided is correct 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Opt-in to video calls and messages 
+                what:: There is a form asking if you'd like to opt in to accept video calls & messages 
+                how:: Click "Yes I'm in" to configure the Gmail account for video calls and messages 
+                why:: Clicking "I'm in" enables video calls and sending and receiving text messages 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Agree to Google's terms 
+                what:: The Gmail website shows a Terms and Conditions page 
+                how:: Click "I agree" to agree to Gmail's terms and conditions 
+                why:: Accepting the terms and gives access to the gmail service 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Settings page 
+                what:: The Gmail website has a settings area to configure the Module email 
+                how:: Click the settings gear icon in the upper right corner and click "See all settings" 
+                why:: The Module email SMTP, security, and IMAP settings must be configured 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enable IMAP Access 
+                what:: The Gmail page shows the title "Settings" and the menu with configurations 
+                how:: Click "Forwarding and POP/IMAP", "Enable" "IMAP access", "Save Changes" 
+                why:: The CRM setup won't work and trigger a gmail warning without these settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Security page 
+                what:: The Gmail page shows the title "Settings" and a menu with configurations 
+                how:: Click "Accounts and Import", "Other Google Account settings", & "Security" 
+                why:: The Gmail Security web page contains several important security settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: 
+                what:: The Gmail page shows "Security" & "2-Step Verification" with "ON" set 
+                how:: Click the back arrow, click the right arrow next to "App Passwords" 
+                why:: The app password allows SuiteCRM to send and receive account email 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Click the arrow next to 2-Step Verification.  At the bottom of the 2-Step Verification page, there is "App passwords".  Click the right arrow, Create an app password 
+
+            task:: Generate a Gmail app password 
+                what:: The Gmail page shows "Google Account" and "App Passwords" 
+                how:: Select "Other" below "Select App" and enter "SuiteCRM", click "Generate" 
+                why:: The app password allows SuiteCRM to send and receive account email 
+                where:: 
+                when:: 
+                who:: 
+                notes:: obsolete 
+
+            task:: Save the Gmail app password 
+                what:: The Gmail popup shows "Your app password for your device" 
+                how:: Copy the app password (highlighted in yellow) from the popup 
+                why:: The app password will be required when configuring SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Disable the Captcha security 
+                what:: The Google.com page shows "Allow access to your Google account" 
+                how:: Click the link, the "Continue" button, & see "Account access enabled" 
+                why:: The CRM emailing system is not able to pass the Gmail Captcha test 
+                where:: http://accounts.google.com/b/0/DisplayUnlockCaptcha 
+                when:: 
+                who:: 
+                notes:: obsolete? 
+
+        stage:: Set up the telephony 
+            what:: A telephony account will provide users with a phone number to use for business 
+            how:: Complete the tasks to set up a new phone number and forward it to other numbers 
+            why:: The Module must have a business phone number that forwards to various people 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Select Module email account 
+                what:: There is a "Choose a Google Voice number" web form 
+                how:: Log out of gmail, select a city, select a phone number 
+                why::  The Google voice number must be linked to a number 
+                where:: https://voice.google.com/u/0/signup 
+                when:: 
+                who:: 
+
+            task:: Verify existing cell phone number 
+                what:: There is a web page to verify the existing phone number 
+                how:: Click "Verify", enter a cell phone number, and click "Send code" 
+                why:: Google needs to verify the cell phone number to forward calls 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Accept Google's terms and conditions 
+                what:: There is a "Terms and Conditions" web page 
+                how:: Click "Accept" to accept the terms and conditions 
+                why:: Google's terms and conditions must be accepted 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Claim the Google voice number 
+                what:: There is a page to claim the new Google voice number 
+                how:: Enter the code that was sent to the phone, and click claim 
+                why:: This is a verification process to assure the number provided is actually correct 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Learn about the CRM 
+            what:: A CRM is a system that handles Customer Relationship Management 
+            how:: Read the tutorials, watch some videos, and practice using a demo CRM 
+            why:: The CRM helps automate and manage a standard operating procedure 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about SuiteCRM 
+                what:: There are videos, tutorials, and a demonstration site to learn SuiteCRM 
+                how:: Watch the video, Search for SuiteCRM, read tutorials, and use the demo 
+                why:: SuiteCRM is high quality and free for unlimited users for the entire Module 
+                where:: https://www.youtube.com/watch?v=U2su-fDfSTY 
+                when:: 
+                who:: 
+                notes:: https://reviews.financesonline.com/p/suitecrm/ 
+
+            task:: Demo SuiteCRM 
+                what:: The Softaculous page shows Install, Overview, Features, Screenshots, Demo tabs 
+                how:: Wait for the login page to display, enter "admin" and "pass" in the login form 
+                why:: The demo SuiteCRM site provides a place to test and learn the features hands on 
+                where:: http://www.softaculous.com/demos/SuiteCRM 
+                when:: 
+                who:: 
+
+        stage:: Set up cloud hosting 
+            what:: Cloud hosting is the service that displays the CRM website of the Module 
+            how:: Complete the process of creating and configuring a cloud hosting account 
+            why:: The CRM software and capture pages must be hosted on a hosting service 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Create a AWS Account 
+                what:: The AWS (Amazon Web Services) account provides services 
+                how:: Click the link, "Create a new account", and create an account 
+                why:: The AWS account provides the server to host a SuiteCRM site 
+                where:: https://aws.amazon.com/console/ 
+                when:: 
+                who:: 
+
+            task:: Log into the AWS Console 
+                what:: The AWS Amazon page shows "Sign in to the Console" 
+                how:: Click "Sign in to the Console", enter email, click "next" 
+                why:: An AWS Amazon account is required to use Bitnami 
+                where:: https://aws.amazon.com/console/ 
+                when:: 
+                who:: 
+
+            task:: Sign in to the AWS Console 
+                what:: The AWS Amazon page shows "Root user sign in" 
+                how:: Enter AWS password, click the "Sign in" button 
+                why:: Signing into the console provides access to two keys 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Access Keys 
+                what:: The AWS Amazon page shows the username on the upper right 
+                how:: Click the username, "My Security Credentials", "Access keys" 
+                why:: Locating and storing the access keys helps link AWS to Bitnami 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Download the AWS keys 
+                what:: The AWS Amazon page shows "Your Security Credentials" 
+                how:: Click "Create Access Key", "Show Access Key", "Download key file" 
+                why:: Bitnami will require the two access keys to install SuiteCRM quickly 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Bitnami account 
+                what:: The Bitnami page shows "Create your Bitnami Account" 
+                how:: Click the link, use the form, check boxes, & save credentials 
+                why:: Bitnami creates a SuiteCRM website on the Amazon cloud 
+                where:: https://bitnami.com/account/sign_up 
+                when:: 
+                who:: 
+
+            task:: Browse to the Bitnami site 
+                what:: The Bitnami sign in page shows a "Sign In with Email" form 
+                how:: Click the link, enter the Module Bitnami username and pass 
+                why:: The Bitnami service installs a SuiteCRM website more easily 
+                where:: https://bitnami.com/sign_in 
+                when:: 
+                who:: 
+
+            task:: Sign into Bitnami 
+                what:: The Bitnami page shows "Sign In with Email" and a login form 
+                how:: Enter the Module email, Bitnami password, and click "Sign In" 
+                why:: Signing into Bitnami reveals the various easy-to-install services 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to launch SuiteCRM 
+                what:: The Bitnami web page shows "Bitnami Library" on the left 
+                how:: Find the text "SuiteCRM", mouse over the logo, click "Launch" 
+                why:: "Launching" SuiteCRM starts the installation and configuration 
+                where:: https://aws.bitnami.com 
+                when:: 
+                who:: 
+
+            task:: Browse to link the accounts 
+                what:: The Bitnami page shows "New Virtual Machine" 
+                how:: Click "here" on "Click here to link your cloud account." 
+                why:: The Bitnami account must be linked to a AWS account 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Unlock the Bitnami Vault 
+                what:: The Bitnami page shows "Unlock Your Bitnami Vault" 
+                how:: Enter the Bitnami Vault password, click on "Unlock" 
+                why:: Unlocking the Bitnami Vault gives access to passwords 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Link the Amazon & Bitnami accounts 
+                what:: The Bitnami page shows "Add AWS credentials" and a form 
+                how:: Enter the AWS Access Key ID, Secret Access Key, click "Continue" 
+                why:: Entering the keys allows Bitnami to access and admin the account 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Launch SuiteCRM 
+                what:: The AWS Bitnami page shows "You're all done!" 
+                how:: Click the "Launch" button in the center of the page 
+                why:: "Launching" SuteCRM here starts the installation 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a SuiteCRM server 
+                what:: The Bitnami page shows "New Virtual Machine" and a cloud account 
+                how:: Enter "suitecrm-server" for the name & click the blue "Create" button 
+                why:: Creating SuiteCRM provides the web address to access the CRM site 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Copy the SuiteCRM address 
+                what:: The Bitnami page shows "suitecrm-server" and Application Info" 
+                how:: Copy the IP address (like "3.93.9.127") right below "Server Info" 
+                why:: The IP address is the web address needed to log in to SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the credentials 
+                what:: The Bitnami page shows "suitecrm-server" and Application Info" 
+                how:: Click "Show" below "CREDENTIALS", copy & save the password 
+                why:: The default credentials are required to log in and use SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Download the .PEM file 
+                what:: The Bitnami page shows "suitecrm-server" and Application Info" 
+                how:: Click ".PEM", browse to a location to save the file, click "Save" 
+                why:: The .PEM file provides rarely used software access to SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Download the .PKK file 
+                what:: The Bitnami page shows "suitecrm-server" and Application Info" 
+                how:: Click ".PKK", browse to a location to save the file, click "Save" 
+                why:: The .PKK file provides rarely used software access to SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: chmod the pem and ppk files 
+                what:: chmod is a command that changes the access permissions of a file 
+                how:: Skip this optional task or run "chmod 400 *.ppk", "chmod 400 *.pem" 
+                why:: AWS requires that the pem and ppk files have private file permissions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Log into the Module SuiteCRM 
+                what:: The IP address of the SuiteCRM website shows the login page 
+                how:: Go to the IP address, enter "user" for username, the password 
+                why:: The login to SuiteCRM site gives access to the system and data 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Update the admin account 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click the profile icon, "Profile" and edit the username, names, and password fields 
+                why:: The Bitnami default account should be changed from "user" and more personalized 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Configure the CRM 
+            what:: Configure parts of the Customer Relationship Management system 
+            how:: Follow the directions to automate and track all customer interactions 
+            why:: Using the CRM improves sales performance and customer retention 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about security groups 
+                what:: SuiteCRM security groups contain roles for users that define access rights 
+                how:: Click the link, learn how groups & roles apply to users and limit user abilities 
+                why:: Creating a security group helps promote data privacy and helps prevent theft 
+                where:: https://docs.suitecrm.com/admin/administration-panel/roles-and-security-groups/ 
+                when:: 
+                who:: 
+
+            task:: Browse to Group Management 
+                what:: The upper right corner of the dashboard shows the username 
+                how:: Click username, "Admin", "Security Suite Group Management" 
+                why:: Creating security groups helps restrict access to specific teams 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a security group 
+                what:: SuiteCRM shows the "SECURITY SUITE MANAGEMENT" configuration page 
+                how:: Click "Create a Security Group", enter "Salesforce" as the Security group name 
+                why:: Creating a security group is required to create the Motivator role in future steps 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the security group 
+                what:: SuiteCRM page shows the CREATE form requiring a name and assignment 
+                how:: Enter "Security Group for the Motivator Role" as the description, click SAVE 
+                why:: Saving the security group governs the users by preventing most user errors 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to Role Management 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "Role Management", "Create Role" and enter "Motivator" 
+                why:: Creating a Motivator role for the sales representatives governs the data accessibility 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Role 
+                what:: The SuiteCRM page show the "CREATE" form to establish a role 
+                how:: Enter "Motivator role for sales reps" as the description, click SAVE 
+                why:: Creating the Motivator roles limits the functionality sales reps use 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about the role matrix 
+                what:: SuiteCRM shows the role name and 56 x 8 settings on the role matrix page 
+                how:: Click the link, watch the video to learn how & why to configure the role matrix 
+                why:: Configuring the role matrix hides functionality to make SuiteCRM more simple 
+                where:: https://www.youtube.com/watch?v=ke6PcwY2UTU 
+                when:: 
+                who:: 
+
+            task:: Configure the role matrix 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "Role Management", "Motivator", click and read this link: 
+                why:: Configuring the role matrix prevents Motivators from taking all of the customer data 
+                where:: https://docs.google.com/document/d/1IPsoStxOfONownMIVsXXloRPw_1KB7mXqfpiXsY1VJI/ 
+                when:: 
+                who:: 
+
+            task:: Browse to the Users page 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "User Management", "Create New User" to see the form 
+                why:: Creating Users lets Motivators log in, access customer records, and use the CRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a User 
+                what:: SuiteCRM shows a "CREATE" form with a tab to set a temporary password 
+                how:: Enter a username, the user's last name, email, a password, and click SAVE 
+                why:: Creating the User will cause an intial login email to be sent to the Motivator 
+                where:: 
+                when:: 
+                who:: MicroManager 
+
+            task:: Assign a Role 
+                what:: The "User Profile" page shows a "SECURITY GROUPS MANAGEMENT" and "ROLES" 
+                how:: Scroll down, click "Create" under ROLES, click Select, click the role name on the popup 
+                why:: Assigning a role to a Motivator reduces access to administration, functionality, and data 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Test the role settings 
+                what:: SuiteCRM displays functionality and data based on the User's role 
+                how:: Log out, log in as the new User, see the limited functionality & data 
+                why:: Logging in as the new User will demonstrate how the website differs 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Delete a User 
+                what:: SuiteCRM shows a "User Profile" tab and an "ACTIONS" pull down menu 
+                how:: Browse to the Users page, click the User, ACTIONS button, select Delete 
+                why:: Deleting users allows the Manager to create, use, and delete test accounts 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Set up email management 
+            what:: Email management is the writing, editing, split testing, and tracking of outgoing emails 
+            how:: Emails are sent to Members and the response rate of each email template is tracked 
+            why:: Email has a long track record of being the first thing people check and use each day 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Browse to the SuiteCRM email settings 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "Email Settings", to see the EMAIL SETTINGS web page 
+                why:: The "Email Settings" page configures the main SuiteCRM email account with SMTP 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Configure SuiteCRM for gmail 
+                what:: The SuiteCRM page shows "SMTP Mail Server", "Username:", "Password" 
+                how:: Click "Gmail", see smtp.gmail.com, enter port 465, select "SSL", use defaults 
+                why:: Gmail accounts can send out 15000 emails to leads per month through SMTP 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Changed address bar to https (rather than http) 
+
+            task:: Send the SuiteCRM test email 
+                what:: The SuiteCRM page shows a "Send Test Email" popup form 
+                how:: Enter email, Gmail app password, click "SEND TEST EMAIL" 
+                why:: Testing proves that SuiteCRM is authorized to send email out 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Allow users to send emails 
+                what:: The SuiteCRM SMTP form shows "Users may send as themselves" 
+                how:: Checkmark the box to the right of "Users may send as themselves" 
+                why:: The SuiteCRM Compose Email form will fail without it checkmarked 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Check for the test email 
+                what:: The SuiteCRM test email will be sent to the Module email account 
+                how:: Log in the Module email account, check the inbox & spam folders 
+                why:: Checking the email will show if the email goes in the spam folder 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the SMTP configuration 
+                what:: The SuiteCRM page shows the title "EMAIL SETTINGS" 
+                how:: Browse to the very bottom of the page and click "SAVE" 
+                why:: SuiteCRM does not save the configuration automatically 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the SuiteCRM email settings 
+                what:: The username is displayed in the upper right corner under the profile icon 
+                how:: Click username, "Admin", "Inbound Email", and see the page titled "HOME" 
+                why:: SuiteCRM can check the Module email account and import inbound emails 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to Group Mail configuration 
+                what:: The left side of the SuiteCRM page shows "New Group Mail Account" 
+                how:: Click "New Group Mail Account", see words "Mail Account Information" 
+                why:: The group mail system allows several users to access the same email 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start configuring the IMAP settings 
+                what:: The SuiteCRM page shows a "Mail Account Information" form 
+                how:: Click "Prefill Gmail Defaults", enter Module email for "User Name" 
+                why:: SuiteCRM will log into Module email using the Module password 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter the app password 
+                what:: The SuiteCRM page shows a "Mail Account Information" form 
+                how:: Enter Module email "Gmail app password" in the password field 
+                why:: SuiteCRM will log into Module email using the Module password 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Configure the IMAP email folders 
+                what:: The SuiteCRM Group Mail Account page shows a form 
+                how:: Enter "TRASH" for Trash Folder, "SENT" for Sent Folder 
+                why:: SuiteCRM monitors the email in the inbox & trash folders 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish configuring the IMAP settings 
+                what:: The SuiteCRM "Mail Account Information" form shows form fields to configure IMAP 
+                how:: Enter Module name for "From Name", Module email for "From Address", check box 
+                why:: Clicking the box will automatically set the reply to settings to match the from setting 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Test the IMAP Configuration 
+                what::  The SuiteCRM Group Mail Account configuration form has a button for testing 
+                how:: Click "SAVE" and "TEST SETTINGS" to see a confirmation the connection works 
+                why:: SuiteCRM will display a popup to show the connection works & download email 
+                where:: 
+                when:: 
+                who:: 
+                notes:: * It said connection successful, but no download link available 
+
+            task:: Browse to Bounce Email Account 
+                what:: The bounce email account is handles the bounce notifications for a campaign 
+                how:: Click username, "Admin", "Inbound Email", "New Bounce Handling Account" 
+                why:: A bounce email account configuration is required to create an email campaign 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Bounce Email Account 
+                what:: The SuiteCRM page shows a "Mail Account Information" form 
+                how:: Enter the same values in the form as used for the IMAP settings 
+                why:: SuiteCRM will check for emails that bounce and update records 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the Bounce email config 
+                what:: The SuiteCRM page shows a "Mail Account Information" form 
+                how:: Finish configuring the bounce email account, then click "SAVE" 
+                why:: SuiteCRM does not automatically save the bounce configurations 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about SuiteCRM Leads 
+                what:: In the Manual, a Lead is a person who filled out a contact form 
+                how:: Click the link, read the page, review the SuiteCRM Leads page 
+                why:: The concept of Leads is referred to heavily in the Manual below 
+                where:: https://docs.suitecrm.com/user/core-modules/leads/ 
+                when:: 
+                who:: 
+
+            task:: Browse to Create Lead 
+                what:: The SuiteCRM dashboard shows an "ALL" pulldown on the top menu 
+                how:: Click "ALL", scroll down, click "Leads", "Create Lead", see "CREATE" 
+                why:: A Test Lead must be created and added to the test email Target List 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save a Test Lead 
+                what:: The SuiteCRM dashboard shows the "CREATE" lead form 
+                how:: Fill in the form with the name "Test Lead" and click "SAVE" 
+                why:: Creating the lead with a test email shows how email works 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the target list form 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", use the scrollbar to scroll down, click "Targets - Lists" 
+                why:: The target email list sets which leads will be emailed or excluded 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Target List 
+                what:: The SuiteCRM dashboard shows "TARGETS - LISTS" 
+                how:: Click "Create Target List", enter a list name, click "SAVE" 
+                why:: A Target List is required when creating an email Campaign 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add the Test Lead to the list 
+                what:: The SuiteCRM dashboard shows the Target List name 
+                how:: Click LEADS, Create, Select, checkbox, and "SELECT" 
+                why:: The target list must include at least one lead to function 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about Email Templates 
+                what:: The SuiteCRM Docs page teaches how to use variables in emails 
+                how:: Click the link, learn how to create email templates using variables 
+                why:: SuiteCRM will customize each email sent with the name of the lead 
+                where:: https://docs.suitecrm.com/user/core-modules/emailtemplates 
+                when:: 
+                who:: 
+
+            task:: Browse to the Email Template 
+                what:: SuiteCRM shows the main dashboard with an "ALL" drop-down menu 
+                how:: Click "ALL", browse to the bottom of the menu, click "Email - Templates" 
+                why:: The email template system is used to create most of the emails sent out 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the CREATE page 
+                what:: SuiteCRM shows a page titled "EMAIL - TEMPLATES" 
+                how:: Click "Create Email Template", see the "CREATE" form 
+                why:: The CREATE form is used for creating email templates 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a response email 
+                what:: A lead response email is sent to the person that completes the capture form 
+                how:: Click the link, use an example, name the email, select "system" for the "Type" 
+                why:: When a person fills out the contact form they will expect an immediate email 
+                where:: https://docs.google.com/document/d/17LkviRsA9u0PpjTpbzzjtb_WVahls8GFKrz4lXsN47M/ 
+                when:: 
+                who:: 
+
+            task:: Drag & drop template boxes 
+                what:: The CREATE form has an email template builder next to "body:" 
+                how:: Enter template name, click the email template builder, edit the box 
+                why:: The template boxes preset the formatting of the columns in an email 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add the name variable 
+                what:: The "Insert Variable" functionality generates variables to add to emails 
+                how:: Click a box, "INSERT", select "Lead" & "First Name" for "Insert Variable" 
+                why:: Adding the first name of a lead personalizes the email and gets results 
+                where:: 
+                when:: 
+                who:: 
+                notes:: * Give directions to add a second variable 
+
+            task:: Learn more about variables 
+                what:: SuiteCRM shows the variable "$lead_first_name" in the email 
+                how:: Use the form to add other variables to learn the functionality 
+                why:: Testing the various variables helps facilitate email customization 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a website link to a box 
+                what:: The rich text editor is a popup that facilitates text formatting and adding links 
+                how:: Click a box, see a rich text editor popup, highlight text, click Insert/edit link icon 
+                why:: Linking allows a person to click a link in the email link for downloads and sites 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the Plain Text Email 
+                what:: The plain text editor creates the non-HTML version of the email 
+                how:: Click "EDIT PLAIN TEXT" and enter the plain text email wording 
+                why:: Some email clients and users do not show HTML emails correctly 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the email template 
+                what:: SuiteCRM shows the CREATE form with the email template builder 
+                how:: Finish composing the email, & click "SAVE" to see an email preview 
+                why:: Each email template must be manually saved & used in campaigns 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the compose email form 
+                what:: SuiteCRM shows the main dashboard with an "ALL" drop-down 
+                how:: Click "ALL", select "Emails", click "Compose" with the left menu 
+                why:: Each time an email is sent a time saving email template is used 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Send a test email using a template 
+                what:: The COMPOSE EMAIL form shows the email and has an airplane send icon 
+                how:: Click the left arrow, click the template name, click OK, edit, click the Send icon 
+                why:: Sending the test email demonstrates how the email looks once it is received 
+                where:: 
+                when:: 
+                who:: 
+                notes:: * Must add step to insert lead email 
+
+            task:: Forward the email to the Mentor 
+                what:: The template test email appears in the test user email account 
+                how:: Log into the test email account, forward the email to the Mentor 
+                why:: Forwarding the email shows the Mentor that the template works 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create each email template 
+                what:: The example email templates are rough draft emails using variables 
+                how:: Click the link, edit the rough emails as needed, create more templates 
+                why:: The SuiteCRM workflows are going to require several email templates 
+                where:: https://docs.google.com/document/d/17LkviRsA9u0PpjTpbzzjtb_WVahls8GFKrz4lXsN47M/ 
+                when:: 
+                who:: 
+                notes:: * The dragdown menus are only for insertion of variables. Does not act as a 'setting' 
+
+            task:: Learn about Campaigns 
+                what:: The SuiteCRM Campaign module tracks marketing campaigns 
+                how:: Click the link and read the SuiteCRM campaign documentation 
+                why:: A Campaign is required to collect leads from the capture pages 
+                where:: https://docs.suitecrm.com/user/core-modules/campaigns/ 
+                when:: 
+                who:: 
+
+            task:: Browse to the campaign form 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", "Campaigns", "Create Campaign", & the "Email" icon 
+                why:: The Campaign form starts a long process of creating a campaign 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Name the campaign 
+                what:: The page shows a CAMPAIGN form that creates a campaign 
+                how:: Enter a campaign name, change status to "active", click NEXT 
+                why:: The status must be set to "Active" for future emails to be sent 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select a target list 
+                what:: The campaign form shows a highlighted "Target Lists" tab 
+                how:: Click the target list below "Add Existing Target List", NEXT 
+                why:: A Campaign must have at least one Target List to process 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select an email template 
+                what:: The campaign form shows a highlighted "Templates" tab 
+                how:: Select the template from the pulldown menu, click NEXT 
+                why:: An email Campaign must have an Email Template defined 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Marketing Email Name 
+                what:: The campaign form shows a Marketing Email Name form 
+                how:: Enter an email name, schedule the send time, click NEXT 
+                why:: Setting the email name allows the campaign to be reused 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the email to send 
+                what:: The Summary page shows a "Send Mail at Scheduled Time" button 
+                how:: Click "Send Mail at Scheduled Time", "View Status" to see all details 
+                why:: The "View Status" button shows a lot more detail than "View Details" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to test the marketing email 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", pulldown & click "Campaigns" & the campaign name 
+                why:: The Campaign page provides the "View Status" and tests emails 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Test the campaign email 
+                what:: The Campaign overview page shows an "ACTIONS" menu 
+                how:: Click "ACTIONS", "Send Test", check the box, click "SEND" 
+                why:: Always review emails because mistakes are very common 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Check the test campaign email 
+                what:: The Campaign test email is instantly sent to the Test Lead 
+                how:: Log in and check the account where the test email was sent 
+                why:: Reviewing the test email demonstrates how the email shows 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start creating a Survey 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", "Surveys", "Create Surveys", & enter a Survey name 
+                why:: The Survey form starts creating an automated survey with reports 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start to create a question 
+                what:: The SuiteCRM dashboard shows the "CREATE" Survey form & name 
+                how:: Select "Public" for Status, enter a description, click "NEW QUESTION" 
+                why:: "NEW QUESTION" is clicked to create each of the five questions below 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a general question 
+                what:: The SuiteCRM dashboard shows "Q1" next to "Questions" 
+                how:: Enter "How satisfied are you with the services we provide?" 
+                why:: The general question gets feedback on the overall service 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a speed question 
+                what:: The SuiteCRM dashboard shows  "Q2" next to "Questions" 
+                how:: Enter "How satisfied are you with how fast our service is?" 
+                why:: Speed is critical for Module services so feedback is needed 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a phone call question 
+                what:: The SuiteCRM dashboard shows  "Q3" next to "Questions" 
+                how:: Enter "How satisfied are you after talking to us by phone?" 
+                why:: This question gets feedback for the Motivator consultations 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a betterment question 
+                what:: The SuiteCRM dashboard shows  "Q4" next to "Questions" 
+                how:: Enter "How can we improve our services to help you better?" 
+                why:: The most valuable feedback to get is how to improve service 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Types and SAVE 
+                what:: The SuiteCRM dashboard shows the "Type" pulldown menus 
+                how:: Select "Rating" questions Q1 - Q4, "Text" for Q5, click "SAVE" 
+                why:: "Rating" displays the 5 stars choice (but "Scale" shows 1-10) 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the campaign form 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", "Campaigns", "Create Campaign", the "Survey" icon 
+                why:: The Campaign form sets up a fully automated survey campaign 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the survey 
+                what:: The page shows a CAMPAIGN form that creates a campaign 
+                how:: Enter a name, select "Active" for "Status", SELECT the survey 
+                why:: The status must be set to "Active" to begin the survey workflow 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select a target list 
+                what:: The CAMPAIGN page shows the darkened "Target List" arrow 
+                how:: Click "NEXT", the Target List below the "Target Lists", "NEXT" 
+                why:: The Target List identifies the Leads that will receive the survey 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the email template 
+                what:: The CAMPAIGN setup page shows "Templates" arrow icon darkened 
+                how:: Select the Survey in the Email Template pulldown menu, click "NEXT" 
+                why:: The Survey email template includes the URL to the correct survey site 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish the Survey campaign 
+                what:: The CAMPAIGN page shows the darkened "Marketing" arrow icon 
+                how:: Enter an email name, enter your preferred settings, & click "NEXT" 
+                why:: The Survey must be manually saved or SuiteCRM will forget settings 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Implement MAS 
+            what:: Marketing Automation Services is the automation of repetitive marketing tasks 
+            how:: Custom workflow rules are configured to automate the repetitive marketing tasks 
+            why:: Automation saves time and money and guarantees that campaigns are completed 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Workflows 
+                what:: A SuiteCRM Workflow defines rules governing automated processes 
+                how:: Click the link, read about workflows and practice with the demo website 
+                why:: Workflows help automate tedious and repetitive daily tasks to save time 
+                where:: https://docs.suitecrm.com/user/advanced-modules/workflow 
+                when:: 
+                who:: 
+
+            task:: Learn the customer journey 
+                what:: The Module Workflow overview shows the complete customer journey 
+                how:: Click the link, read the customer journey including all of the Workflows 
+                why:: The overview illustrates how the workflows work in the sales sequence 
+                where:: https://docs.google.com/document/d/11nrdzsWONdzBco-2oTaoLgvi9uczsyawoIuubdVjrx4/ 
+                when:: 
+                who:: 
+
+            task:: View the Workflow video 
+                what:: Paul Stevens has a good video about SuiteCRM Workflows 
+                how:: Click the link, set the playback speed higher, watch the video 
+                why:: Setting the playback speed higher will reduce the watch time 
+                where:: https://www.youtube.com/watch?v=wuGElTjkoLg 
+                when:: 
+                who:: 
+
+            task:: Browse to the Workflow Module 
+                what:: The SuiteCRM dashboard shows the "ALL" menu on the top row 
+                how:: Click "ALL", use the scrollbar to get to "WorkFlow", click Workflow 
+                why:: The Workflow Module is used to create, review and audit workflows 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create WorkFlow:Assign 
+                what:: The dashboard shows "Create WorkFlow" on the left menu 
+                how:: Click "Create WorkFlow", enter "Assign & Schedule" for Name 
+                why:: A round robin workflow assigns leads to Motivators in rotation 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the module for the workflow 
+                what:: SuiteCRM shows the "CREATE" page with a "BASIC" area 
+                how:: Select "Leads" in the "Workflow Module" drop-down menu 
+                why:: The Workflow automates tasks based on specific modules 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter the Run and Status info 
+                what:: SuiteCRM shows the "CREATE" page with a "BASIC" area 
+                how:: Select "Only on Save" for "Run" and "Active" for the "Status" 
+                why:: Selecting "Always" processes the leads as soon as possible 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the Run On and Description 
+                what:: The dashboard shows the "CREATE" page with a "BASIC" form area 
+                how:: Select "New Records" for "Run On", keep "Repeated Runs" unchecked 
+                why:: Checkmarking "Repeated Runs" will cause the tasks to be run too often 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Condition to the WorkFlow 
+                what:: The SuiteCRM page shows the "CONDITIONS" area of the form 
+                how:: Click "ADD CONDITION" and select "Assigned to" under "Field" 
+                why:: Selecting "Assigned to" applies to records based on assignment 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add an Operator to the Condition 
+                what:: SuiteCRM shows the "CREATE" page with a "CONDITIONS" area 
+                how:: Select "Leads" under "Module", select "Is Null" under the "Operator" 
+                why:: Selecting "Is Null" applies to leads that have not yet been assigned 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add Actions to the WorkFlow 
+                what:: The SuiteCRM page shows a "CREATE" page with a "ACTIONS" form area 
+                how:: Click "ADD ACTION" and use the drop down menu to select "Modify Record" 
+                why:: Selecting "Modify Record" update the Lead records by assigning Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter a name for the Action 
+                what:: The ACTIONS form area shows a form field called "Name:" 
+                how:: Enter "Assign to a Motivator" for the "Name" of the ACTION 
+                why:: Each ACTION has a name to describe what the action does 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Record Type 
+                what:: SuiteCRM shows ACTIONS area 
+                how:: Select "Leads" for "Record Type" 
+                why:: SuiteCRM uses the Leads module 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Field to ACTIONS 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD FIELD", select "Assigned to", select "Round Robin" for the "Value" 
+                why:: Selecting "Round Robin" assigns the leads to Motivators in order by rotation 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select "Role" and "Motivators" 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Select "ALL Users in Role" not "ALL Users",  click "--None--", select Motivator 
+                why:: Setting the form to the "users in a role" only assigns new leads to Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Schedule the initial call 
+                what:: An initial call is scheduled for the Motivator to call the Lead in 15 minutes 
+                how:: Select "Create Record" for "Select Action", enter "Schedule Call" for Name 
+                why:: Motivators should call Leads soon after they complete the application form 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a call 
+                what:: The Calls module facilitates calls, rescheduled calls, and call logs 
+                how:: Select "Calls" for "Record Type", click "ADD FIELD", select "Subject" 
+                why:: Selecting "Calls" for the record type employs the calls module code 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the subject 
+                what:: The subject shows up in the call area 
+                how:: Enter "Initial Call" for the subject value 
+                why:: Setting the subjects identifies the calls 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start scheduling the call 
+                what:: The SuiteCRM page shows a CREATE form and ACTIONS area 
+                how:: Click "ADD FIELD", select "Start Date", "Date", "Date Created", "+" 
+                why:: A call is scheduled for 15 minutes after the Lead record is created 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish scheduling the call 
+                what:: The dashboard shows half the settings for a scheduled call 
+                how:: Select "+", enter 15, select "Minutes" next to the related field 
+                why:: The call is set for 15 minutes after the Lead finishes the form 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Link the call to the Lead 
+                what:: SuiteCRM links the Call system to the Lead system 
+                how:: Click "ADD FIELD", select "Related To", "Field", "ID" 
+                why:: Selecting ID will relate the call to the ID of the Lead 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the call length 
+                what:: Each call is scheduled in the Motivator's calendar 
+                how:: Click "ADD FIELD", select "Duration Minutes", "15" 
+                why:: The initial consultation call is very short in duration 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Link the Motivator 
+                what:: The SuiteCRM page shows a call scheduled for 15 minutes 
+                how:: Click "ADD FIELD", select "Assigned to", "Field", "Assigned to" 
+                why:: SuiteCRM will associate the Call module to the Users module 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Send Email ACTION 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select the "Send Email" action, enter "Email Motivator" 
+                why:: A new ACTION must be added in order to send notifications to the Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Motivator email 
+                what:: The ACTIONS area shows "Send Individual Emails" & "Email Template" 
+                how:: Check "Send Individual Emails", select "New Lead!" for Email Template 
+                why:: The settings will send out individual New Lead! emails to the Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Email form fields 
+                what:: The ACTIONS form area shows an orange plus button under "Email" 
+                how:: Click the plus button, select "To", "Related Field", "Users: Assigned to" 
+                why:: The settings tell SuiteCRM to send emails to "assigned to" Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add another Send Email ACTION 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select the "Send Email" action, enter "Email the Lead" 
+                why:: A separate email action must be added to send different emails to the leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Lead email template 
+                what:: The ACTIONS area shows "Send Individual Emails" & "Email Template" 
+                how:: Check "Send Individual Emails", select "Lead Email!" for Email Template 
+                why:: The settings will send out individual Lead Email! emails to the new leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Lead email 
+                what:: The ACTIONS form area shows an orange plus button under "Email" 
+                how:: Click the plus button, select "To", "Record Email" below "Lead Email!" 
+                why:: The settings send the emails to the "record email" for each new lead 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the Workflow 
+                what:: The "CREATE" form shows "SAVE" buttons top and bottom 
+                how:: Click "SAVE" and see the saved Workflow overview page 
+                why:: SuiteCRM will not automatically save the Workflow settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create Workflow:Reassign 
+                what:: Workflow:Reassign reassigns a Lead that has not been called 
+                how:: Click "Create WorkFlow", enter "Reassign" as the workflow name 
+                why:: Leads should reassigned and called after a Motivator fails to call 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Leads Module 
+                what:: SuiteCRM shows the "CREATE" page with a "BASIC" area 
+                how:: Select WorkFlow Module "Leads", Run On "Modified Records" 
+                why:: Selecting "Leads" tells SuiteCRM which module to work on 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter the Run and Status info 
+                what:: SuiteCRM shows the "CREATE" page with a "BASIC" area 
+                how:: Select "Always" for "Run" and "Active" for status in the menus 
+                why:: Selecting "Always" processes the leads as soon as possible 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start adding a Date condition 
+                what:: SuiteCRM shows the "CREATE" page with the "CONDITIONS" area 
+                how:: Select Leads, Date Modified, Less Than or Equal To, Date, Now, & "-" 
+                why:: Selecting "Less Than or Equal to" tells SuiteCRM to look back in time 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish adding a date condition 
+                what:: SuiteCRM shows the "CREATE" page with the "CONDITIONS" area 
+                how:: Enter "1" in the form field, and "Days" to complete the date condition 
+                why:: Selecting "1 Days" triggers an action if Lead has been ignored a day 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add an assigned condition 
+                what:: SuiteCRM shows the "CREATE" page with a extra "CONDITIONS" ruleset 
+                how:: Click "ADD CONDITION", select Leads, Assigned To, Equal To, Any Change 
+                why:: Selecting Assigned To & Any Change applies to previously assigned Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add an opportunities condition 
+                what:: SuiteCRM shows the assigned ruleset in the CONDITIONS form area 
+                how:: Click "ADD CONTITION", select "Leads", "Opportunity ID", "Value", "" 
+                why:: Leaving "Value" field blank applies to Leads that have not been updated 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a converted condition 
+                what:: The form shows "Date Created", "Assigned To", "Opportunity ID" conditions 
+                how:: Click "ADD CONDITION", select "Leads", "Converted", "Equal To", "Value" 
+                why:: Leaving "Value" unchecked applies to Leads that have not been converted 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a modify record action 
+                what:: SuiteCRM shows the "CREATE" page with the "ACTIONS" area 
+                how:: Click "ADD ACTION", select "Modify Record" for "Select Action" 
+                why:: Selecting "Modify Record" tells SuiteCRM to update the record 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Name the modify record action 
+                what:: SuiteCRM shows "Modify Record" selected in the ACTIONS area 
+                how:: Enter "Reassign to a Motivator", select "Leads" for the Record Type 
+                why:: Naming the action defines the purpose of the rule for future reference 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a reassignment action 
+                what:: SuiteCRM shows the "Reassign to a Motivator" name in the ACTIONS form area 
+                how:: Click "ADD FIELD", select Assigned To, Round Robin, All Users in Role, Motivator 
+                why:: Choosing these settings causes SuiteCRM to assign Motivator using round robin 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Send Email ACTION 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select the "Send Email" action, enter "Email Motivator" 
+                why:: A new ACTION must be added in order to send notifications to the Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select a Motivator email 
+                what:: The ACTIONS area shows "Send Individual Emails" & "Email Template" 
+                how:: Check "Send Individual Emails", select "New Lead!" for Email Template 
+                why:: The settings will send individual emails to the newly assigned Motivator 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Email form fields 
+                what:: The ACTIONS form area shows an orange plus button under "Email" 
+                how:: Click the plus button, select "To", "Related Field", "Users: Assigned to" 
+                why:: The settings tell SuiteCRM to send emails to "assigned to" Motivators 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Send Email ACTION 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select the "Send Email" action, enter "Email Manager" 
+                why:: A new ACTION must be added in order to send notifications to the Manager 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select a Manager email 
+                what:: The ACTIONS area shows "Send Individual Emails" & "Email Template" 
+                how:: Check "Send Individual Emails", select "Reassign" as the Email Template 
+                why:: The email notification helps the Manager know when a Motivator is slow 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Email form fields 
+                what:: The ACTIONS form area shows an orange plus button under "Email" 
+                how:: Click the plus button, select "To", "User", click arrow, select the admin 
+                why:: The rulesets tells SuiteCRM to send the email notice to the Manager 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the Workflow 
+                what:: The "CREATE" form shows "SAVE" buttons top and bottom 
+                how:: Enter a workflow description, click "SAVE", see the workflow 
+                why:: SuiteCRM will not automatically save the Workflow settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Studio 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "Studio", "Opportunities", "Fields", & "ADD FIELD" button 
+                why:: The Studio in the Developer Tools area is where custom database fields are created 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the Data Type 
+                what:: SuiteCRM shows "ADMINISTRATION" selected and a form labeled "Edit Fields" 
+                how:: Select "Datetime" for "Data Type", "custom_closed_won_date", for "Field Name" 
+                why:: The custom field in Opportunities provides a place to save a closed won datetime 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Label the custom field 
+                what:: The "Edit Fields" form displays the "Display Label" form field 
+                how:: Enter "Custom Closed Won Date" in the "Display Label" field 
+                why:: The "Custom Closed Won Date" label identifies the data field 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Describe the custom field 
+                what:: The "Edit Fields form shows the "Help Text" and "Comment Text" form fields 
+                how:: Enter "Date the opportunity is closed & won" for "Help Text" & "Comment Text" 
+                why:: The annotation helps describe the field in different views in SuiteCRM modules 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the custom field 
+                what:: The "Edit Fields" form shows the "SAVE" button at the top of the form 
+                how:: Click "SAVE", "Opportunities" under "Modules" and see the field listed 
+                why:: Seeing the custom field listed proves that it was created successfully 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Workflow Module 
+                what:: The SuiteCRM dashboard shows the "ALL" menu on the top row 
+                how:: Click "ALL", use the scrollbar to get to "WorkFlow", click Workflow 
+                why:: The Workflow Module is used to create, review and audit workflows 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create WorkFlow:DateWon 
+                what:: The dashboard shows "Create WorkFlow" on the left menu 
+                how:: Click "Create WorkFlow", enter "DateWon" for the "Name" 
+                why:: The name "DateWon" is the datetime the opportunity is won 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Opportunites Module 
+                what:: SuiteCRM shows the CREATE Workflow form and a BASIC area 
+                how:: Select "Opportunities" for "Module", "Always" for "Run", & "Active" 
+                why:: The "Custom Closed Won Date" is in the "Opportunities" module 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select All Records 
+                what:: SuiteCRM shows the CREATE Workflow form and BASIC area 
+                how:: Select "Modified Records" for "Run On" and a good "Description" 
+                why:: Selecting "Modified Records" applies to manually modified records 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the condition 
+                what:: SuiteCRM shows the CREATE Workflow form and the CONDITIONS area 
+                how:: Click "ADD CONDITION", select "Opportunities", "Sales Stage", "Equal To" 
+                why:: The "Sales Stage" is manually set by Motivators with "Create Opportunity" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Complete the condition 
+                what:: SuiteCRM shows the CREATE Workflow form and a CONDITIONS area 
+                how:: Select "Value" for "Type", "Closed Won" for "Value" for the CONDITIONS 
+                why:: Selecting "Closed Won" applies when Motivators manually update Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the action 
+                what:: SuiteCRM shows the CREATE Workflow form and the ACTIONS area 
+                how:: Click "ADD ACTION", select "Modify Record", enter "Closed Won Date" 
+                why:: The datetime the opportunity is closed & won will be automatically saved 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the module 
+                what:: The form shows "Modify Record" selected below ACTIONS 
+                how:: Select "Opportunities" for "Record Type", click "ADD FIELD" 
+                why:: Motivators use the Opportunities module to set "closed won" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the custom field 
+                what:: The form shows "--None--" below the "Opportunities" 
+                how:: Select "Custom Closed Won Date", "Date", and "Now" 
+                why:: SuiteCRM will record a timestamp for the "closed won" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the Workflow:DateWon 
+                what:: The CREATE Workflow form shows two "SAVE" buttons 
+                how:: Click "SAVE" at the bottom or top of the "CREATE" form 
+                why:: SuiteCRM does not automatically save Workflow settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create WorkFlow:Drip 
+                what:: The dashboard shows "Create WorkFlow" on the left menu 
+                how:: Click "Create WorkFlow", enter "Drip" as the workflow name 
+                why:: Drip marketing emails are slowly sent to the Lead over time 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter the Module type 
+                what:: SuiteCRM shows the "CREATE" page and a "BASIC" area 
+                how:: Select "Leads" for the "Workflow Module" in the dropdown 
+                why:: The emails are sent to "Leads", so select the Leads module 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the pulldown menus 
+                what:: SuiteCRM shows the "CREATE" page and the "BASIC" area 
+                how:: Select Run "Only in the Scheduler", Run On "Modified Records" 
+                why:: The drip emails should be sent to Leads after they are modified 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Start adding the date condition 
+                what:: SuiteCRM shows the "CREATE" page and the "ADD CONDITIONS" button 
+                how:: Click "ADD CONDITION", select Leads, Date Created, Equal To, Date, Now, "-" 
+                why:: The "Equal To" condition limits the application to records created 1 day before 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish adding the date condition 
+                what:: SuiteCRM shows the "Drip" workflow and "CONDITIONS" 
+                how:: Enter "1" in the form field, select "Days" in the last pulldown 
+                why:: The email is sent 1 Day after the Lead record was created 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add a Send Email ACTION 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select the "Send Email" action, enter "Send Drip Email" 
+                why:: A new ACTION must be added in order to send drip emails to modified Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use the drip template 
+                what:: The ACTIONS area shows "Send Individual Emails" & "Email Template" 
+                how:: Check "Send Individual Emails", select "Drip Email" for Email Template 
+                why:: The settings will send individual drip emails during the email campaign 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Email form fields 
+                what:: The ACTIONS form area shows an orange plus button under "Email" 
+                how:: Click the plus button, select "To", "Record Email" under "ACTIONS" 
+                why:: SuiteCRM sends the drip emails to Leads that are related by the field 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save Workflow:Drip 
+                what:: The "CREATE" form shows "SAVE" buttons top and bottom 
+                how:: Enter a workflow description, click "SAVE", see the workflow 
+                why:: SuiteCRM does not automatically save the Workflow settings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create WorkFlow:Survey 
+                what:: The dashboard shows "Create WorkFlow" on the left menu 
+                how:: Click "Create WorkFlow", enter "Survey" as workflow Name 
+                why:: Survey emails are sent to the Leads that purchase services 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Leads Module 
+                what:: SuiteCRM shows the CREATE Workflow form and the BASIC area 
+                how:: Select "Opportunities" for Module, "Only in the Scheduler" for "Run" 
+                why:: Selecting the "Opportunities" module applies to Leads that purchase 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select Modified Records 
+                what:: SuiteCRM shows the CREATE Workflow form and BASIC area 
+                how:: Select "Modified Records" for "Run On" and enter a description 
+                why:: Selecting "Modified Records" applies to Leads that are not new 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the first condition 
+                what:: SuiteCRM shows the CREATE Workflow form and the CONDITIONS area 
+                how:: Click "ADD CONDITION", select "Opportunities", "Sales Stage", "Equal To" 
+                why:: The "Sales Stage" is manually set by Motivators with "Create Opportunity" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Complete the first condition 
+                what:: SuiteCRM shows the CREATE Workflow form and a CONDITIONS area 
+                how:: Select "Value", for "Type", "Closed Won" for "Value" for the first condition 
+                why:: Selecting "Closed Won" applies when Motivators manually update Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the second condition 
+                what:: SuiteCRM shows the CREATE Workflow form and the "CONDITIONS" area 
+                how:: Click "ADD CONDITION", select "Opportunities", "Custom Closed Won Date" 
+                why:: The "Custom Closed Won Date" is when a Motivator updated the sales stage 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create an action 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" form area 
+                how:: Click "ADD ACTION", select "Send Email", enter "Send Survey Email" for Name 
+                why:: A new ACTION must be added in order to send survey emails to related Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the email template 
+                what:: The SuiteCRM page shows the "CREATE" form with a "ACTIONS" area 
+                how:: Checkmark "Send Individual Emails", select "Survey" for "Email Template" 
+                why:: The Survey template provides the way ask questions and track responses 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Leads Module 
+                what:: There is a orange plus button below "Email" in the ACTIONS area of the form 
+                how:: Click the plus button below "Email", select "To", "Related Field", "Leads:Leads" 
+                why:: The Leads module combines email template with the email for individual Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the Workflow:Survey 
+                what:: SuiteCRM dashboard shows the CREATE form and the CONDITIONS area 
+                how:: Select "Less Than", "Date", "Now", "-", enter "1", select "Weeks", click "SAVE" 
+                why:: The survey is sent a week after the Lead buys services and is can be served 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Begin backups 
+            what:: Beginning the backups schedules automated snapshots and manual backups 
+            how:: The hosting services are configured to take periodic snapshots of the systems 
+            why:: The ability to restore files, data, and configurations is very critical for a Module 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Create an Elastic IP 
+                what:: The AWS Console shows "NETWORK & SECURITY" on the left menu 
+                how:: Click "NETWORK & SECURITY", "Elastic IPs", "Allocate New Address" 
+                why:: Creating an Elastic IP allows subsequent instances to use the same IP 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Point the IP to the instance 
+                what:: The Amazon AWS Console shows the new "permanent" Elastic IP & details 
+                how:: Click "Actions", "Associate Address", select the running Instance, "Associate" 
+                why:: Associating the Elastic IP to the instance updates the IP address of SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set up automated Snapshots 
+                what:: The AWS Console shows "Lifecycle Manager" below on the left menu 
+                how:: Click the link, "Lifecycle Manager", "Create Snapshot Lifecycle Policy" 
+                why:: Using the Lifecycle Manager makes scheduling snapshots more simple 
+                where:: https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Home: 
+                when:: 
+                who:: 
+
+            task:: Select the instance to save 
+                what:: The Amazon AWS Console shows "Create Snapshot Lifecycle Policy" 
+                how:: Enter "Snapshot", pulldown & select "Instance", "Name", the "Instance" 
+                why:: Selecting the instance by name is more simple than using other identities 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add all the other tags 
+                what:: The "Target with these tags" form field area has several tags 
+                how:: Select each of the tags, select the instance based on the tag 
+                why:: The policy works more reliably when all the tags are selected 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Set the Policy Schedule 
+                what:: The Amazon AWS Console shows a "Policy Schedule" form area 
+                how:: Select "24" hours, "Count" for Retention type, enter "2" for "Retain" 
+                why:: The settings will make sure that two copies of the server are saved 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create the Policy 
+                what:: The Amazon AWS Console shows a "Create Policy" button 
+                how:: Scroll to the page bottom, click "Create Policy", see "Success" 
+                why:: Creating the policy finishes the form and starts the snapshots 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: See a Snapshot 
+                what:: The Amazon AWS Console shows "Snapshots" below on the left menu 
+                how:: Wait one day, log into the AWS Console, click "Snapshots" and see one 
+                why:: Seeing a Snapshot proves that the set "Lifecycle Manager Policy" works 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn ssh and PHPMyAdmin access 
+                what:: The ssh and PHPMyAdmin programs provide extra access to the servers 
+                how:: Click the link, read the document to learn other ways to access data & files 
+                why:: It is good to be aware of other ways to access the files & data of SuiteCRM 
+                where:: https://docs.google.com/document/d/1W9Vy3i4lKIJuSuOMSLtINNNB4fEj4ksjgj34V7A6OE0/ 
+                when:: 
+                who:: 
+
+            task:: Find the Snapshot ID and size 
+                what:: The AWS Console shows "ELASTIC BLOCK STORE" on the left menu 
+                how:: Click "ELASTIC BLOCK STORE", "Snapshots", & copy the Snapshot ID 
+                why:: The Snapshot ID and size are required to create a new volume correctly 
+                where:: https://community.spiceworks.com/how_to/159573-how-to-restore-your-aws-ec2-instance-from-a-snapshot 
+                when:: 
+                who:: 
+
+            task:: Start to create a new volume 
+                what:: The AWS Console shows "ELASTIC BLOCK STORE" on the left menu 
+                how:: Click "ELASTIC BLOCK STORE", "Volumes", and "CREATE VOLUME" 
+                why:: A new volume (disk space) must be created to store the new instance 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish creating the volume 
+                what:: The Amazon AWS Console shows the "Create Volume" form 
+                how:: Enter the ID for "Snapshot ID", 10 for Size, click "Create Volume" 
+                why:: The size, type, and Snapshot ID should continue to be the same 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Stop the current instance 
+                what:: The AWS Console shows "INSTANCES" below on the left menu 
+                how:: Click "Instances", "Actions", "Instance State", "Stop", "Yes, Stop" 
+                why:: The old instance must be stopped in order to load a new volume 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the Volumes page 
+                what:: The AWS Console shows the stopped instance in the top area 
+                how:: Copy the stopped Instance ID, click "Volumes" on the left menu 
+                why:: The Instance ID will be used to attach the volume in a later step 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: See the Volume Description 
+                what:: The AWS Console shows the "Volumes" menu item highlighted 
+                how:: Click "Volumes", copy the current volume ID, select the volume 
+                why:: Selecting the volume by clicking on it shows the required details 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Find the mount point 
+                what:: The AWS Console shows the mount point in "Attachment Information" 
+                how:: Copy & save the mount point (ex: /dev/xvda) in the "Description" area 
+                why:: The mount point is required to attach the volume & restart the instance 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Detach the current volume 
+                what:: The AWS Console shows the "in-use" for the current volume 
+                how:: Select the in-use volume, click "Actions", "Detach Volume" 
+                why:: The current volume must be detached in order to delete it 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Delete the current volume 
+                what:: The AWS Console shows "available" for the detached volume 
+                how:: Select the detached volume, click "Actions", "Delete Volume" 
+                why:: Deleting the old volume helps keep the AWS console cleaner 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Attach the new volume 
+                what:: The AWS Console shows "available" for the new volume under "State" 
+                how:: Select the volume, click "Actions", "Attach Volume", form fields, "Attach" 
+                why:: The new filesystem (volume) must be attached to store the files & data 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Restart the Instance 
+                what:: The AWS Console shows "INSTANCES" on the left menu 
+                how:: Click "Instances", "Actions", "Instance State", "Start", wait 
+                why:: The instance must be started with the new volume to work 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Set up web hosting 
+            what:: Web hosting is the service that displays capture pages for the Module 
+            how:: Complete the process of creating & configuring a web hosting account 
+            why:: The capture pages should be hosted on a separate web hosting service 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Create a web hosting account 
+                what:: The InfinityFree home page is shown with their services 
+                how:: Scroll down, click "Sign Up Now", enter email & password 
+                why:: The Module will need a web hosting account for the page 
+                where:: https://infinityfree.net 
+                when:: 
+                who:: 
+
+            task:: Verify the email 
+                what:: The InfinityFree Verify Email Address email is in the Module email account 
+                how:: Log in the Module email account, click "Verify Email", and "Create Account" 
+                why:: The verification email is required to log into the InfinityFree account initially 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Create a Subdomain 
+                what:: The InfinityFree website shows "Create a new Hosting Account" 
+                how:: Enter the Module name for "Subdomain", click "Search Domain" 
+                why:: The server configuration requires a prefix for the website address 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Finish creating the account 
+                what:: The InfinityFree shows the "Create a new Hosting Account" page 
+                how:: Enter an Account Password, click "Create Account", save username 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Go to the control panel 
+                what:: The InfinityFree shows the "Create a new Hosting Account" page 
+                how:: Click "Open Control Panel", "I Approve", and see the control panel 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the control panel 
+                what:: The InfinityFree site shows a "client area" button on the upper right 
+                how:: Click the link, "client area", "Manage", "Show/Hide", "Control Panel" 
+                why:: 
+                where:: https://infinityfree.net 
+                when:: 
+                who:: 
+
+            task:: Create a database 
+                what:: The InfinityFree cPanel control panel shows "MySQL Databases" 
+                how:: Click "MySQL Databases", enter "money", click "Create Database" 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the MySQL credentials 
+                what:: The InfinityFree cPanel control panel shows "Current Databases" 
+                how:: Copy and save the MySQL hostname, datbase name, user & pass 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the website address 
+                what:: The InfinityFree account area shows the website address 
+                how:: Click the link, copy & save the web address under "LABEL" 
+                why:: The website address is the location that the website appears 
+                where:: https://infinityfree.net 
+                when:: 
+                who:: 
+
+        stage:: Set up analytics tracking 
+            what:: Analytics tracking is a system that reports visitor traffic details 
+            how:: Create, copy & paste the tracking code into the capture page 
+            why:: Tracking the traffic is needed for conversion rate optimization 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Browse to the analytics site 
+                what:: The Google page shows a "Set up for Free" button 
+                how:: Log into the Module email account, visit the website 
+                why:: The link points to the Google analytics setup website 
+                where:: https://analytics.google.com 
+                when:: 
+                who:: 
+
+            task:: Enter an account name 
+                what:: The Google page shows a "Create account" page 
+                how:: Click "Set up for Free", enter the Module name 
+                why:: An account must be created to contain properties 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Click the Web area 
+                what:: The Google page shows "What do you want to measure?" 
+                how:: Click "Web Measure your website", click the "Next" button 
+                why:: Selecting "Web" makes it easier to find the Global Site tag 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Complete the setup 
+                what:: The Google page shows "Property Setup", & "Property details" 
+                how:: Enter a name, capture page URL, select "Other", click "Create" 
+                why:: Entering the address of the capture page helps identify traffic 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Agree to the terms 
+                what:: The Google popup shows a "Terms of Service Agreement" popup 
+                how:: Checkmark the two "I Accept" boxes, click "I Accept" at the bottom 
+                why:: Accepting the terms of service provides access to the control panel 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the tracking code 
+                what:: The page shows "Admin" on the bottom left 
+                how:: Click "Admin", "Tracking Info", "Tracking code" 
+                why:: Each "Property" has a separate tracking code 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the tracking code 
+                what:: The Google page shows "Global Site Tag (gtag.js)" code 
+                how:: Copy the "Global Site Tag" code, save the code for later 
+                why:: This code is included in the capture page to track visitors 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Add another User 
+                what:: The Google Analytics shows "Admin" at the bottom of the left menu 
+                how:: Click "Admin", "Account User Management", "+" icon, & "Add Users" 
+                why:: Providing "Read & Analyze" access to Marketers shows them results 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Create a CAPTCHA 
+            what:: CAPTCHA is a system that determines if a visitor is a real human 
+            how:: An automated test is run from the capture page which detects bots 
+            why:: The CAPTCHA script stops spam bots from using the capture page 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Label the reCAPTCHA code 
+                what:: The Google reCAPTCHA site shows an "Admin console" button 
+                how:: Click the link, Admin console button, enter a name for the "Label" 
+                why:: Creating labels helps identify the different CAPTCHA codes in use 
+                where:: https://www.google.com/recaptcha/intro/v3.html 
+                when:: 
+                who:: 
+
+            task:: Create the reCAPTCHA keys 
+                what:: The Google reCAPTCHA page shows "Register a new site" and form 
+                how:: Select "reCAPTCHA v3", enter the capture page URL, click "SUBMIT" 
+                why:: Selecting reCAPTCHA v3 uses a new test system that is less annoying 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the reCAPTCHA keys 
+                what:: The reCAPTCHA page shows the SITE KEY and SECRET KEY 
+                how:: Click the two "COPY" key icons and save the site & secret keys 
+                why:: The SITE KEY is used to invokes the CAPTCHA system on site 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Read about the integration 
+                what:: The reCAPTCHA PAGE shows "Adding reCAPTCHA to your site" 
+                how:: Click "GO TO ANALYTICS", and read about the integration steps 
+                why:: The page defines how reCAPTCHA is added to the capture page 
+                where:: https://developers.google.com/recaptcha/docs/v3 
+                when:: 
+                who:: 
+
+        stage:: Create the capture page 
+            what:: Capture pages request a potential customer's name, email, & phone number 
+            how:: Read about how to design, set up, and track the results of each capture page 
+            why:: The capture page pre-qualifies each potential customer and collects their data 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Read about capture pages 
+                what:: There are plenty of articles and videos on how to write lead capture pages 
+                how:: Click the link, read the article, learn the pain points and customer questions 
+                why:: The capture page must have answers to the exact questions customers ask 
+                where:: https://unbounce.com/landing-pages/ultimate-lead-capture-landing-page 
+                when:: 
+                who:: 
+
+            task:: Download the code 
+                what:: A custom capture page template has been created to generate leads 
+                how:: Click the link, save the zip file, unzip the file and briefly read the code 
+                why:: The capture page code pre-qualifies leads and puts data in SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn how the form works 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1eHl8kBE694e7stdVq-kR-HJMH4wxyK9k81tBjPC9w3k/ 
+                when:: 
+                who:: 
+
+            task:: Start to create a person form 
+                what:: The SuiteCRM dashboard shows an "ALL" menu on the top row 
+                how:: Click "ALL", "Campaigns", "Create Person Form" on the left menu 
+                why:: Creating a person form configures the values for the capture page 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Drag Last Name to the right 
+                what:: The Create Person Form shows "Leads" in the pulldown field 
+                how:: Drag "Last Name" under "First Form Column", & click "NEXT" 
+                why:: Only the Last Name is required to create a capture page form 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Edit the Submit Button Label 
+                what:: The Create Person Form shows the "GENERATE FORM" button 
+                how:: Enter "Get a Free Consultation" in the "Submit Button Label" field 
+                why:: Using "Submit" in capture page buttons reduces form completions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Copy the Post URL 
+                what:: The Create Person Form shows the "GENERATE FORM" button 
+                how:: Copy the link next to "Post URL" and save it in a text file for later 
+                why:: The Post URL is required to insert Leads in the Module SuiteCRM 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the campaign 
+                what:: The Create Person Form shows the "GENERATE FORM" button 
+                how:: Click "SELECT" for "Related Campaign", and select the campaign 
+                why:: Selecting the campaign will configure the campaign_id in the form 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the Assigned to 
+                what:: The Create Person Form shows the "GENERATE FORM" button 
+                how:: Click "SELECT" for "Assigned to", & select a sales representative 
+                why:: The capture form can optionally automatically assign a Motivator 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Copy the html code 
+                what:: The Create Person Form shows the "GENERATE FORM" button 
+                how:: Click "GENERATE FORM", "SAVE WEB FORM", & copy the code 
+                why:: The HTML code contains configured values for the capture page 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Processor URL 
+                what:: The "[Processor URL]" text appears in the code of the capture page 
+                how:: Replace "[Processor URL]" with the provided processor web address 
+                why:: The processor sanitizes data, saves a backup, & creates a lead URL 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Button Text 
+                what:: The "[Button Text]" text appears in the code of the capture page 
+                how:: Replace "[Button Text]" with the "Submit Button Label" text above 
+                why:: The button text should be tested to increase the form completions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Module Alias 
+                what:: The "[Module Alias]" text appears in the code of the capture page 
+                how:: Replace "[Module Alias]" with the correct uniquely assigned alias 
+                why:: The Module Alias must be set to give credit to the Module for leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the From Email 
+                what:: The "[From Email]" text appears in the code of the capture page 
+                how:: Replace "[From Email]" with the Module Email or preferred email 
+                why:: The From Email is set as the from address in emails sent to Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Post URL 
+                what:: The "[Post URL]" text appears in the code of the capture page 
+                how:: Replace "[Post URL]" with the previously saved Post URL text 
+                why:: The Post URL defines where the form processor will post data 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Campaign ID 
+                what:: The "[Campaign ID]" text appears within the code of the capture page 
+                how:: Replace "[Campaign ID]" with the campaign_id in the person form code 
+                why:: Setting the campaign_id tells SuiteCRM how to save new inbound Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Motivator ID 
+                what:: The "[Motivator ID]" text appears within the code of the capture page 
+                how:: Replace "[Motivator ID]" with the assigned_user_id in the person form 
+                why:: The Motivator ID is used optionally to prevent round robin assignments 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the Redirect URL 
+                what:: The "[Thank You URL]" text appears within the code of the capture page 
+                how:: Replace "[Thank You URL]" with the web address of the Thank You page 
+                why:: Updating the "Thank You URL" redirects the Lead to the Thank You page 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about Sponsor IDs 
+                what:: The Sponsor ID  text appears within the code of the capture page 
+                how:: The sponsor is set using http://<capture_form_url>?s=sponsor_id 
+                why:: The Sponsor ID is used optionally to credit to a Member for a Lead 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace the reCAPTCHA 
+                what:: The "[reCAPTCHA_site_key]" text is in the code of the capture page 
+                how:: Replace "[reCAPTCHA_site_key]" with a saved reCAPTCHA site key 
+                why:: The CAPTCHA script prevents the SuiteCRM site from receiving spam 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Replace Google Analytics 
+                what:: The Global Site Tag script section appears in the capture page code 
+                how:: Replace the entire "Global Site Tag" script section in the capture page 
+                why:: Adding the script to the capture page helps track the website visitors 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Update the Thank You page 
+                what:: The Global Site Tag script section appears in the Thank you page code 
+                how:: Replace the entire "Global Site Tag" script section in the Thank You page 
+                why:: Adding the script to the Thank You page helps track the successful Leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Configure the Terms of Service 
+                what:: The capture page has a link to the Terms below the form 
+                how:: Replace "[Module]" with the name of the Module business 
+                why:: The Terms of Service is commoly required by regulations 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Upload the capture page 
+                what:: The files for the capture page is displayed from web server 
+                how:: Click the link, read the document, and follow the instructions 
+                why:: Uploading the capture page is required to display the website 
+                where:: https://docs.google.com/document/d/19cLJbLBSwd5f_6P7yannDCprrSkBl5zge7jO2Wbvlks/ 
+                when:: 
+                who:: 
+
+            task:: Test the capture page 
+                what:: The capture page shows errors for invalid inputs and stores data in SuiteCRM 
+                how:: Test the form, review the SuiteCRM, Google Analytics, and reCAPTCHA results 
+                why:: Testing the form demonstrates that all the capture page functionality works well 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Acquire an EIN 
+            what:: The EIN is an Employment Identification Number that is issued by the IRS 
+            how:: Learn about EINs and apply for an EIN using a US government website 
+            why:: The EIN is used for taxes, payment gateways and our Money system 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Start applying for an EIN 
+                what:: The IRS has a website for applying for an Employment Identification Number 
+                how:: Click the "Apply for and EIN Online" button and complete the entire application 
+                why:: Getting an EIN is the first step to creating a business entity and payment gateway 
+                where:: https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers 
+                when:: 
+                who:: 
+
+            task:: Select the S Corporation structure 
+                what:: The "S" corporate structure specifies the business legal structure 
+                how:: Select "Corporations" in the "Identity" section of the application 
+                why:: S Corporations enjoy flow through taxes and yearly tax filings 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select "Started a New Business" 
+                what:: The EIN application website asks the reason for applying 
+                how:: Select "Started a new Business" on the application form 
+                why:: A new business is created to maintain separate finances 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Authenticate the EIN 
+                what:: The application form requires an individual be associated with the EIN 
+                how:: Enter the Manager's name, SSN and select "I am the president, CEO" 
+                why:: The name specifies who is responsible for applying for the EIN account 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Complete the Addresses form 
+                what:: The application form requires a mailing address for the business 
+                how:: Enter the Module business mailing address and phone number 
+                why:: The IRS needs to know the mailing address to send regular mail 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter the state of the incorporation 
+                what:: The application form requires the state the business is incorporated in 
+                how:: Select "DELAWARE DE" for where the articles of incorporation will filed 
+                why:: Delaware has no state income tax and laws favorable for corporations 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select "No" on the details form 
+                what:: The form requires "Yes" or "No" answers to several questions 
+                how:: Select "No" in response to the questions found on the details form 
+                why:: There will be no W2 employees, vehicles, quarterly tax filings, etc 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the type of business 
+                what:: The IRS form requires an NAICS number which depicts the type of business 
+                how:: Use NAICS #541613 for "Marketing Consulting Services / Internet Marketing" 
+                why:: The Federal Statistical Agencies use the NAICS numbers to track economics 
+                where:: https://www.naics.com/what-is-a-naics-code-why-do-i-need-one/ 
+                when:: 
+                who:: 
+
+            task:: Select the business operation type 
+                what:: The form asks how the business will be operated 
+                how:: Select "Selling goods exclusively over the Internet" 
+                why:: The Module always makes sales over the Internet 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select how to receive the EIN letter 
+                what:: The form asks how the confirmation letter will be sent 
+                how:: Select "Receive letter online" on the form 
+                why:: The EIN letter will arrive faster and it is easier to store 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Store the EIN letter safely 
+                what:: The Employment Identification Number must be stored and used 
+                how:: Save the EIN pdf file on a computer and print the pdf document 
+                why:: Saving the EIN securely will avoid the EIN recovery process later 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Recover the EIN 
+                what:: There is a way to recover a lost EIN for the Module 
+                how:: Call the business and specialty tax line 800-829-4933 
+                why:: You will use the EIN when incorporating and filing taxes 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Open a payment gateway account 
+            what:: The business gateway account is used to process payments 
+            how:: Complete the registration on the payment gateways website 
+            why:: The software the Module will use works with the payment gateway 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Set up a free PayPal Express Account 
+                what:: The free PayPal Account will process business transactions 
+                how:: Select "Business", click "Get Started" 
+                why:: The PayPal Express account is free (rather than costing $30 per month) 
+                where:: https://PayPal.com 
+                when:: 
+                who:: 
+
+            task:: Enter login information 
+                what:: The PayPal Account setup form requires an email and password 
+                how:: Enter the business email and password in the form 
+                why:: The login information is required to setup the free Paypal account 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Enter personal information 
+                what:: The setup form ask for the user name, business name, etc 
+                how:: Complete the form with the users name, business name, etc 
+                why:: PayPal associates each business account with a human rep 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select Corporation for business type 
+                what:: The Corporation specifies the type of business 
+                how:: Select "Corporation" for business type 
+                why:: The Module will be using this account for its corporation 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Describe the business 
+                what:: The setup form ask to enter the product or service type and the EIN 
+                how:: Select "Direct Marketing-Inbound Teleservices Merchant", enter EIN 
+                why:: PayPal requests the type of business being conducted for compliance 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Confirm Email 
+                what:: Paypal requires confirmation of the email address 
+                how:: Log into the associated email account, confirm the email for Paypal and wait 5 minutes 
+                why:: The email you entered will be confirmed by Paypal 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Learn about the money software 
+            what:: The money software facilitates payments and refunds to and from the Module 
+            how:: The software uses an API protocol to communicate with the payment gateway 
+            why:: The functionality and security of the software will be approved by the Manager 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about the MoneyService 
+                what:: The MoneyService server securely handles payments and refunds 
+                how:: The software secures and anonymizes transactions by using aliases 
+                why:: The Module gets paid directly from the customer saving time and effort 
+                where:: https://docs.google.com/document/d/1i0deyf12Vf01ZhwgftRwYwZe00-K-dqV74po3-J6e3M 
+                when:: 
+                who:: 
+
+            task:: Consider auditing the MoneyService 
+                what:: The Manager can choose to audit the MoneyService code for security 
+                how:: The Manager hires a web developer to review the MoneyService code 
+                why:: The Manager can feel secure after the security features are confirmed 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Acquire REST API Credentials 
+            what:: The REST API credentials are the username and password used by the software 
+            how:: Log into the payment gateway website and follow steps to generate the credentials 
+            why:: The credentials authorize the software to deposit payments and retrieve refunds 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Log into the PayPal Developer site 
+                what:: The PayPal Developer site sets up online stores and credentials 
+                how:: Click the link and make sure to reach the logged in area of the site 
+                why:: The site allows you to create, edit, and manage multiple PayPal apps 
+                where:: https://developer.paypal.com/developer/applications 
+                when:: 
+                who:: 
+
+            task:: Create a PayPal App 
+                what:: A PayPal App offers a secure way to send, receive, & access transactions 
+                how:: Click "Create App", enter a name for the App Name, and click "Create App" 
+                why:: The Module must use custom automated software to facilitate transactions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Switch to the Live Credentials 
+                what:: Live Credentials is a username, password, and certificate to identify the app 
+                how:: Click "Live" in the upper right section of the page to switch to live credentials 
+                why:: Switching to live credentials allows the app to use real money in transactions 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Save the REST API Credentials 
+                what:: The REST API Credentials are the API account username and password keys 
+                how:: Click "Show", then save all the text for the "Account ID", "Client ID" and "Secret" 
+                why:: The credentials must be saved to and added to the MoneyService configuration 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Set up a web hosting service 
+            what:: The web host serves the Module website and money software 
+            how:: Create an account, upload the code, and configure the system 
+            why:: The Module will run a website and the money software for free 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Create a 000webhost account 
+                what:: The 000webhost account is a free service to display the websites for the module 
+                how:: Click the link, select "Free Sign Up", and enter the Module business email 
+                why:: The 000webhost server meets the requirements of the MoneyService software 
+                where:: https://www.000webhost.com 
+                when:: 
+                who:: 
+
+            task:: Verify the email for the 000webhost 
+                what:: The 000webhost emails a verification link to the Module business email account 
+                how:: Login the email, click the verification link, click Skip twice, enter the Module name 
+                why:: The 000webhost requires an email verification for the initial log in 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Access the Database Manager 
+                what:: The first web hosting login page will show "My Websites" and Module name 
+                how:: Log in the hosting account, click "Power Store", click "Tools", click "Database Manager" 
+                why:: The database manager must be accessed before installing the software 
+                where:: https://www.000webhost.com/members/store 
+                when:: 
+                who:: 
+
+            task:: Create a database 
+                what:: The 000webhost console shows "My databases", and "+ New Database" button 
+                how:: Click "New Database", 1. enter database name "money", 2. "root", 3. a password 
+                why:: The database credentials are set up so the software can access the database 
+                where:: https://www.youtube.com/watch?v=IgbsrCv0a_E 
+                when:: 
+                who:: 
+
+            task:: Save the database credentials 
+                what:: After creating the database, the page shows DB Name, DB User, DB Host 
+                how:: Copy the DB Name, DB User, DB Host, and save the password to a file 
+                why:: The MoneyService software configuration requires database credentials 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Set up the money software 
+            what:: The money software is installed on a web server that the Manager controls 
+            how:: A web hosting account serves the software and the systems are configured 
+            why:: The software helps the Module get paid immediately & directly by customers 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Download MoneyService 
+                what:: The MoneyService software is in a downloadable zip file 
+                how:: Click the link and "Download repository" and save the file 
+                why:: The repository has the latest version of the MoneyService 
+                where:: https://bitbucket.org/AliasAPI/moneyservice/downloads 
+                when:: 
+                who:: 
+
+            task:: Browse the File Manager 
+                what:: The first web hosting login page shows "My Websites" and Module name 
+                how:: Click "Power Store", click "Tools", click "File Manager", click "Upload files" 
+                why:: The web hosting service will run the uploaded MoneyService & database 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Configure the upload folder 
+                what:: The page at files.000webhost.com is the File Manager for the hosting account 
+                how:: Click Folder "/" icon on the left, click "Upload Files" icon, click "SELECT FILES" 
+                why:: Clicking the "/" folder uploads the private files to a more secure server location 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Upload the MoneyService software 
+                what:: A pop up window shows "Upload Files" and "Files will be uploaded to /" 
+                how:: Click "SELECT FILES", select the money.zip file, click Open, click UPLOAD 
+                why:: Uploading the money.zip file guarantees that all of the code is uploaded 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Delete the public_html folder 
+                what:: The File Manager web page shows "public_html", "tmp" and "money.zip" 
+                how:: Select the public_html folder, click the trash can (delete) icon, click "DELETE" 
+                why:: The public_html folder must be removed so the public folder can be renamed 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Extract the money.zip file 
+                what:: The File Manager web page only shows "tmp" folder and the money.zip file 
+                how:: Right click on money.zip, click "extract", rename "money" to "trash", click "EXTRACT" 
+                why:: The MoneyService software must be extracted to the "root directory" of the file server 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select the files and folders to move 
+                what:: The File Manager shows the tmp folder, trash folder, and money.zip file 
+                how:: Click "trash", click "money", select the first checkbox next to Name 
+                why:: Selecting the first checkbox will select all of the files and folders on the page 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Move the code to the root directory 
+                what:: The File Manager launches a pop-up window used to move the files 
+                how:: Click the Move icon, "Change", account name, the last "SELECT THIS", and "MOVE" 
+                why:: The files must be uploaded to the "root" (first) directory of the web hosting account 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Browse to the root directory 
+                what:: The File Manager shows "No files in this folder" 
+                how:: Click the folder "/" icon at the top left of the page 
+                why:: Browsing to the "/" folder will show the moved files 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Rename the public folder 
+                what:: The File Manager shows all the files and folders of the MoneyService software 
+                how:: Click the public folder, click rename icon, rename to public_html, click "RENAME" 
+                why:: The 000webhost server expects the default "public" directory to be "public_html" 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Configure the MoneyService 
+                what:: The MoneyService system includes a form for configuring the credentials 
+                how:: Find the MoneyService URL, MoneyService Config form, Fill in the form 
+                why:: The credentials must be configured so that the MoneyService can work 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Log into the web hosting account 
+                what:: The 000webhost web hosting account has a general control panel 
+                how:: Click the link, Login, "Power Store", "Website Settings, "General" 
+                why:: Browsing to the General Settings page locates the website address 
+                where:: https://www.000webhost.com 
+                when:: 
+                who:: 
+
+            task:: Visit the MoneyService URL 
+                what:: The 000webhost control panel shows the account General Settings 
+                how:: Click the link to the right of the "Website Name" in the second section 
+                why:: Visiting the the MoneyService link will show the software is working 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Pair the MoneyService 
+                what:: A client server is paired and authorized to work with the MoneyService 
+                how:: Email the MoneyService URL, alias, and api_pass to the Mentor & wait 
+                why:: The pairing process enables signed & encrypted server communication 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Test the MoneyService 
+                what:: The MoneyService is tested by completing a purchase with real money 
+                how:: Log into the Module PayPal account and check for a new $1 transaction 
+                why:: Completing a $1 purchase proves the MoneyService functions correctly 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Customize the Module website 
+            what:: A free business website that requires a few changes is provided 
+            how:: Replace the logo, a few graphics, and the profile of the Manager 
+            why:: Potential customers and a payment processor rep will visit the site 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/17KMb4qpsPeLGZJKK5CKrVyQsq6DanFkxgnDYrH4XpJk/ 
+                when:: 
+                who:: 
+                notes:: Website Development Template 
+
+            task:: Edit the website text 
+                what:: The Module website files contain sections marked with "Module" 
+                how:: Open the file in a text editor, use the editor to find the areas, edit 
+                why:: The website must be customized to show the Module information 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Capture page values 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Upload the website 
+                what:: The Module website is displayed on the same host as the MoneyService 
+                how:: Use the "Upload the MoneyService" directions to upload the website code 
+                why:: The Module website will use the MoneyService system when being tested 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Test the website 
+                what:: The text on the site is reviewed and all of the functionality is used 
+                how:: Have a friend review the text and test the payment system with $1 
+                why:: The site will be tested and approved by the payment gateway later 
+                where:: 
+                when:: 
+                who:: 
+
+    phase:: Raise the Revenue 
+        what:: The revenue is the small amount of money needed to pay for business expenses 
+        how:: Set up the Infrastructure, learn to use it, and make a enough sales to cover costs 
+        why:: Making sales will retain equity, avoid debt, provide capital, and prove competency 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Learn about Crowdfunding 
+            what:: Crowdfunding is the act of funding an idea by raising funds from many people 
+            how:: The Module makes sales and funds daily operations by aggregating payments 
+            why:: The capital builds businesses and funds all of the services listed in the Manual 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Avoid loans, Kickstarter, Venture Capital 
+                what:: The Module's "black financial model" always relies on sales to customers 
+                how:: Make sales and use a standardized customer journey to reward Members 
+                why:: Focusing on optimizing the sales process is more efficient than raising funds 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Learn about Ad Copywriting 
+            what:: Ad Copywriting is the creation of two or three line text advertisements 
+            how:: The ads have a promise of benefit, keywords, a call to action, and link 
+            why:: The ads are used to attract customers that the Module wants to serve 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Read about writing ad copy 
+                what:: There are plenty of free articles that provide suggestions on writing copy 
+                how:: Click the link, read the article, and provide answers to common questions 
+                why:: Customers are constantly searching for solutions to persistent pain points 
+                where:: https://copyhackers.com/2016/06/writing-facebook-ads 
+                when:: 
+                who:: 
+
+        stage:: Learn about Sales Copywriting 
+            what:: Sales Copywriting is the creation of articles that motivate members to complete steps 
+            how:: Sales copy employs testimonials, case studies, videos, and verbiage to sell services 
+            why:: The sales copy evokes emotions and helps members see the vision of the Module 
+            where:: 
+            when:: 
+            who:: 
+
+        stage:: Learn about CRO 
+            what:: Conversion Rate Optimization improves the rate that customers buy services 
+            how:: The Module uses software tools to track the metrics of marketing campaigns 
+            why:: The marketing methodologies are optimized through testing to increase sales 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Remember to be persistent 
+                what:: Optimizing sales and ad copy requires patience and persistence 
+                how:: When test results are lower than expected, remember to try again 
+                why:: Tests often have unexpected results but success comes eventually 
+                where:: https://www.crazyegg.com/blog/ab-testing-google-analytics/ 
+                when:: 
+                who:: 
+
+            task:: Learn about Google Optimize 
+                what:: Google Optimize is a free capture page optimization tool 
+                how:: Click the link, gettting started, review the docs and videos 
+                why:: The Google Optimize support documentation is very clear 
+                where:: https://support.google.com/optimize 
+                when:: 
+                who:: 
+
+            task:: Install and try Google Optimize 
+                what:: Google Optimize is a free Chrome browser plugin 
+                how:: Click the link, follow install wizard and note the icon 
+                why:: Starting Google Optimize requires clicking the icon 
+                where:: https://optimize.google.com 
+                when:: 
+                who:: 
+
+        stage:: Generate Leads 
+            what:: Lead generation motivates a potential customer to enter their contact info in a form 
+            how:: A web page pre-qualifies the prospect and they enter their name, email, and phone 
+            why:: Capturing pre-qualified leads gets legal permission to contact & offer them services 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Lead Generation 
+                what:: Lead generation identifies and attracts potential customers for the Module's services 
+                how:: Advertisements are posted on social media and prospects fill out an application form 
+                why:: Pre-qualified prospects that complete the form become quality "Leads" for the Module 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn from the feedback 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Edit and post the ad copy 
+                what:: 
+                how:: ad sends leads to capture page 
+                why:: to generate leads 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Ask for referrals 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Make 6 Sales 
+            what:: The Manager makes the initial 6 sales of the services offered by the Module 
+            how:: The Manager calls and emails the leads directly and sells the Module services 
+            why:: The Manager should experience the entire sales process before training others 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Call the Leads 
+                what:: The SuiteCRM Leads module shows the people who completed the form 
+                how:: Click "ALL", "Leads", click each Lead, and call at the time in "Description" 
+                why:: Calling Leads immediately or at their desired time increases the sales rate 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Follow-up with the Leads 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Backup the SuiteCRM database? 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: 
+
+        stage:: Pass the Test 
+            what:: The "Test" is simply completing all the tasks that are listed above this stage 
+            how:: Decide if the tasks above were too difficult and whether or not to continue 
+            why:: Those unable make it to this stage are unlikely to manage a Module profitably 
+            where:: 
+            when:: 
+            who:: 
+
+    phase:: Make the Module 
+        what:: The Module must have an EIN, a payment gateway, and be incorporated 
+        how:: Complete enough tasks to get the app approved by the payment gateway 
+        why:: Establishing the Module provides legal protection and the financial systems 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Register a domain name 
+            what:: A domain name is the web address of the Module website and company name 
+            how:: Create a domain registration account, check availability, and pay for registration 
+            why:: The Module needs a web address for customers and the payment gateway reps 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Namesilo 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.namesilo.com 
+                when:: 
+                who:: 
+                notes:: Affiliate program? 
+
+            task:: Cloudflare 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Register domain with Mentor 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Incorporate the Module 
+            what:: Incorporating establishes the legal entity and correct structure for the Module 
+            how:: Complete the incorporation forms, get a state representative, and pay the fees 
+            why:: Incorporating is required to operate legally, pay taxes, and reduce legal liability 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about the S Corporate Structure 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1IkSFdGZks66gwervCxIF8qk_OdClZbSHqKUWtHLLRB0/ 
+                when:: 
+                who:: 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://account.shareasale.com/out-viewmerchant.cfm?merchantID=93298 
+                when:: 
+                who:: 
+                notes:: Filenow.com affiliate program 
+
+        stage:: Get the app approved 
+            what:: The payment gateway reviews the functionality and business model of the app 
+            how:: Contact the payment gateway and help them through the app approval process 
+            why:: The money software gets disabled by the payment gateway if it is not approved 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Application Status is set to Open, PayPal first reviews the application from a buyer's perspective to make sure it follows the correct payments flow when utilizing the PayPal APIs. 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: In the second phase, PayPal reviews the application's business model to ensure the safety and protection of our PayPal customers. PayPal also uses this phase to ensure your application adheres to the PayPal Developers Network guidelines and terms of service. 
+
+    phase:: Manage the Money 
+        what:: Managing the money includes paying people, taxes, and maintaining a budget 
+        how:: Learn about the customer acquisition costs, commissions, taxes, and payments 
+        why:: Managing the money guarantees the Module maintains a black financial model 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Review the Financial Model 
+            what:: The "Black" financial model is a spreadsheet that shows payouts and projections 
+            how:: Study each tab of the financial model and review all of the written explanations 
+            why:: The Black financial model defines how much Motivators and Marketers get paid 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Define the expenses 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Filing Taxes, Refunds, Fees, Business Administration, Legal, Supplies / Equipment, Manager, Messenger, Motivator, 
+                Marketer 
+
+            task:: Learn the Commissions Structure 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Encourage Loyalty 
+
+            task:: Learn the refund policies 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about Break Even Campaigns 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/16CevhRao3Nc4gfjLHXyqruv-edEy_wG_vl8XUALsGz8/edit#heading=h.f3pgi2n1y93z 
+                when:: 
+                who:: 
+                notes:: Campaign Mobe-L 
+
+            task:: Review the Commission Split 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Learn about CAC 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1CtlVhu8M8_0V0iTC6F4PzLDZqaAx3E-MqW4bAPebkvw/ 
+                when:: 
+                who:: 
+
+            task:: Learn about the Taxes 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Accounting 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: accounts, software, taxes 
+
+    phase:: Learn the Leadership 
+
+        what:: Leading includes setting the company vision and culture, as well as hiring and firing 
+        how:: Establish a board of directors, mentorship program, and a system to avoid attrition 
+        why:: The Manager will be successful through hiring and retaining subject matter experts 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Define the Corporate Culture 
+            what:: The corporate culture sets the tone governing Module stakeholder relationships 
+            how:: Review different corporate culture styles and create one that the Manager prefers 
+            why:: Defining the corporate culture establishes the standards of the Module stakeholders 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about corporate culture 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1FRbpXiH6nFdnMhBQfaamgbXKLUK4bY1kzj9XAmiUqPk/ 
+                when:: 
+                who:: 
+
+        stage:: Build a Board of Directors 
+            what:: The board of directors is a group of people that jointly supervise the Module 
+            how:: Network and contact subject matter experts and recruit them for the board 
+            why:: S Corporations must have a board of directors and it helps make more profit 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Board of Directors 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.upcounsel.com/s-corp-board-of-directors 
+                when:: 
+                who:: 
+                notes:: All C and S corporations must have a board of directors. The number of directors depends on the business' size and is usually noted in the bylaws and articles of incorporation. No matter what state the business is formed in, all corporations must have a board of directors that is elected by shareholders. 
+
+            task:: Get Leadership Feedback 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.themuse.com/advice/5-smarter-ways-to-get-feedback-from-employees-that-dont-involve-a-heated-exit-interview 
+                when:: 
+                who:: 
+
+    phase:: Hire the Help 
+        what:: Hiring entails sourcing talent through service providers and freelance websites 
+        how:: Outsource all company roles including marketing, sales, and human resources 
+        why:: Outsourcing reduces bureaucracy, labor costs, liability, and helps define roles 
+        where:: On various freelance marketplaces or recruiting platforms 
+        when:: As soon as the business needs exceed current internal capacity 
+        who:: The business owner or hiring manager 
+
+        stage:: Set up video calling 
+            what:: The Module should use a video call service to facilitate meetings and screen sharing 
+            how:: Follow the directions to set up and test different features of the video calling system 
+            why:: The video calls are free, save travel time and expense, and enhances communication 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn how to use video calls 
+                what:: Google Hangouts provides video calling that supports conference calls 
+                how:: Click camera icon, enter person's email address or name, and click invite 
+                why:: Google's video calls tends to be more stable & reliable than other services 
+                where:: https://hangouts.google.com 
+                when:: 
+                who:: 
+
+            task:: Learn how to use screen sharing 
+                what:: Screen sharing displays a computer screen or app to a remote caller 
+                how:: After video call is started, click the 3 vertical dots in the top right corner 
+                why:: Screen sharing helps facilitate video tutorials & remote troubleshooting 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Limit the screen sharing to one application 
+                what:: Select a specific application to show others on the video call 
+                how:: Click share screen, select "application window" & click share 
+                why:: Screen sharing facilitates video calls that are far more private 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Set up freelance accounts 
+            what:: There are websites that allow Modules to hire and manage freelancers 
+            how:: Follow the instructions to create an account that can hire freelancers 
+            why:: Managers must delegate some tasks on the Manual to expert freelancers 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Create a Freelancer.com account 
+                what:: The Freelancer.com page lists services and has a sign up link 
+                how:: Click the link, enter email and password, enter username 
+                why:: Freelancer.com provides access to millions of freelancers 
+                where:: https://www.freelancer.com/get/nupedrew?f=give 
+                when:: 
+                who:: 
+
+            task:: Set up the Freelancer.com account 
+                what:: The Freelancer.com dashboard shows "Set up your account" on the right 
+                how:: Follow all directions in the "Set up your account" section of the dashboard 
+                why:: Completing the account setup improves customer service and site logistics 
+                where:: https://www.freelancer.com/dashboard 
+                when:: 
+                who:: 
+
+            task:: Verify email address 
+                what:: A message will appear to verify the email address 
+                how:: Go to the gmail account and verify the email address 
+                why:: You have to verify the email address so it is confirmed 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Learn about Escrow 
+            what:: An escrow account is a place a third party holds money until tasks are completed 
+            how:: Watch videos and read about how to negotiate the pay and use escrow accounts 
+            why:: Using escrow accounts dramatically reduces the risk when working with Marketers 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about escrow 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Merit-based 
+
+        stage:: Recruit Marketers 
+            what:: "Marketers" are experienced professionals that do Internet Marketing 
+            how:: Post on websites, screen, review and hire Marketers that do marketing 
+            why:: Internet marketing campaigns generate quality leads for the Motivators 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Personality recommendation INTJ / ISTJ 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: INTJ:https://www.16personalities.com/intj-personality , ISTJ: https://www.16personalities.com/istj-personality 
+
+            task:: Use the Messenger job requisition (Similar) 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Post a job on Freelancer.com 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.freelancer.com/post-project/?w=f 
+                when:: 
+                who:: 
+
+            task:: Use the Messenger Manual 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Post a job for virtual assistant/salesperson 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Select a candidate 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.forbes.com/sites/forbeshumanresourcescouncil/2017/04/25/nine-hiring-tips-to-help-you-choose-the-perfect-candidate/#7cdbf9324f60 
+                when:: 
+                who:: 
+
+            task:: Negotiate the compensation (Similar 201) 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Recruit the Motivators 
+            what:: "Motivators" are revenue-sharing sales representatives that work remotely 
+            how:: Post on websites, screen, interview, and sell Motivators on the opportunity 
+            why:: Recruiting Motivators helps the Module to maintain a black financial model 
+            where:: Any job boards or freelance websites with commission-only reps 
+            when:: Once the sales funnel is ready for additional sales manpower 
+            who:: The Sales or HR team 
+
+            task:: Learn about recruiting Motivators 
+                what:: The recruiting introduction covers the basic idea of recruiting Motivators 
+                how:: Click the link, read problems, solutions, and some useful recruiting tips 
+                why:: The document is a repository of tips related to the problems of recruiting 
+                where:: https://docs.google.com/document/d/1Ly_ji5orRWovmq_sjHK4VwIfc7H5UBHUleFWcns_69w 
+                when:: Before preparing job postings or screening candidates 
+                who:: The manager or HR staff who will oversee recruiting 
+
+            task:: Learn where to recruit Motivators 
+                what:: There is a list of marketplaces and websites for recruiting Motivators 
+                how:: Click the link, choose several sources for finding Motivators efficiently 
+                why:: The list includes the best sites to find the commission-only sales reps 
+                where:: https://docs.google.com/document/d/1fi6I-r5mBqYzIi9-vGgkL7WhJq4vYCqocKoeKna_wws 
+                when:: Prior to posting the job openings 
+                who:: The recruiter or hiring manager 
+
+            task:: Edit the Motivator job description 
+                what:: The Motivator job description is the ad for posting on job boards 
+                how:: Click the link, copy the job description, edit it to match the culture 
+                why:: The job description should be tuned to attract the best Motivators 
+                where:: https://docs.google.com/document/d/1wHyU3UF_Cer64W1Vod5Wkd0qzDnQ6tpX_RW0ne0Ms_8 
+                when:: Before posting on any website 
+                who:: The hiring manager or marketing copywriter 
+
+            task:: Post the recruitment advertisement 
+                what:: Posting the recruitment advertisement displays the job description 
+                how:: Select a few sites (to recruit Motivators) and post the job description 
+                why:: Posting the description helps attract enough candidates to interview 
+                where:: Career portals, social media groups, or any relevant platform 
+                when:: Once the final version of the job description is approved 
+                who:: The HR coordinator or manager 
+
+        stage:: Interview the candidates 
+            what:: Interviewing the candidates includes testing them in mock sales 
+            how:: Conduct 3 interviews for each candidate, score the performances 
+            why:: The interviews help show how candidates will perform daily tasks 
+            where:: Virtual calls or in-person offices, depending on location 
+            when:: As soon as applications come in and are pre-screened 
+            who:: The sales manager or dedicated interviewer 
+
+            task:: Accept Applications 
+                what:: Candidates for the Motivator role are listed in SuiteCRM 
+                how:: Log into SuiteCRM, click the Candidates module 
+                why:: 
+                where:: Within the SuiteCRM "Candidates" module 
+                when:: After the job postings go live 
+                who:: The hiring or HR team 
+                notes:: Use SuiteCRM? 
+                https://konstantin.blog/2010/sugarcrm-applicant-tracking-system/ 
+
+            task:: Schedule First Interview 
+                what:: The first Motivator interview is a group interview 
+                how:: Coordinate multiple candidates into a single session 
+                why:: 
+                where:: Virtual or in-person, depending on capacity 
+                when:: After reviewing the initial applications 
+                who:: The HR manager or assigned interviewer 
+                notes:: Participants in revenue sharing models need to be clear about how revenue is collected, measured, and distributed. The parties responsible for these processes are sometimes subjected to audits for accuracy assurance. 
+
+            task:: Conduct First Interview 
+                what:: phone, meet 
+                how:: Ask open-ended questions to assess communication and baseline sales ability 
+                why:: 
+                where:: https://docs.google.com/document/d/1KQCvl44G29rVrfClO3hS1F8P4et_2OHcsp8n8Szp5XY 
+                when:: At a scheduled time with the selected candidates 
+                who:: The interviewer or hiring manager 
+
+            task:: Schedule Second Interview 
+                what:: phone, stress test 
+                how:: Decide on an interview date/time and prepare stress-test questions 
+                why:: 
+                where:: Usually a phone or virtual call 
+                when:: After the first interview round 
+                who:: The same interviewer or a senior manager 
+
+            task:: Conduct Second Interview 
+                what:: 
+                how:: Object, reject 
+                why:: Preparation, industry knowledge, pressure, rejection 
+                where:: https://docs.google.com/document/d/1hXhGp3t3H0y-Kyv4vflIE0NIKMzdwHslGOu5kh14AqA 
+                when:: After scheduling with the candidate 
+                who:: The primary interviewer or a small panel 
+                notes:: CCA 
+                2 days later 
+
+            task:: Schedule Third Interview 
+                what:: video?, competitor analysis, stress test? 
+                how:: Confirm availability of the candidate and relevant managers 
+                why:: 
+                where:: Virtual or in-person, depending on preference 
+                when:: After passing the second interview 
+                who:: The hiring manager or final decision-maker 
+                notes:: group interviewing salespeople creates a competitive atmosphere, making your position more desirable. 
+
+            task:: Conduct Third Interview 
+                what:: 
+                how:: Ask additional scenario-based or final check questions 
+                why:: 
+                where:: https://docs.google.com/document/d/1JLjHfqfE-SO2PVVw_AHhecmFw6TN7xfSZecv6IqoALg 
+                when:: Upon scheduling with the candidate 
+                who:: The decision-making panel or manager 
+
+            task:: Score the candidates 
+                what:: 
+                how:: Disregard experience 
+                why:: 
+                where:: https://docs.google.com/document/d/1dasrwS6OugOT9BI3mbnjuBIAgvMiYHeLlwdIPIuZeNE 
+                when:: After all interview rounds 
+                who:: The interview panel or hiring manager 
+
+            task:: Select 3 candidates 
+                what:: 
+                how:: Compare top contenders and pick the best fits 
+                why:: friendly competition, less dependence, validate sales process 
+                where:: Decision meeting or internal discussion 
+                when:: Post-interview once the scoring is done 
+                who:: The hiring team or final decision-maker 
+
+            task:: Send the offer letters 
+                what:: 
+                how:: Draft or use a template with final compensation details 
+                why:: 
+                where:: Typically email or e-sign platform 
+                when:: Right after final selection 
+                who:: The HR manager 
+
+            task:: Send the rejection letters 
+                what:: 
+                how:: Use a respectful template, thank them for their time 
+                why:: 
+                where:: Typically by email 
+                when:: Immediately after final decisions 
+                who:: The HR manager 
+                notes:: Not at this time 
+
+        stage:: Onboard the Motivators 
+            what:: "Training the Motivators" includes onboarding and teaching the workflow 
+            how:: Share the orientation manual with the Motivators and let the test the CRM 
+            why:: The Motivators must be very familiar with the CRM in order to make sales 
+            where:: SuiteCRM orientation session or a shared drive with docs 
+            when:: Immediately after they accept the offer 
+            who:: The trainer or manager in charge 
+
+            task:: Brief the Motivators 
+                what:: Provide a concise overview of the company’s mission and roles 
+                how:: Present a short deck or a quick meeting to cover the highlights 
+                why:: To clarify goals, culture, and expectations from Day One 
+                where:: Virtual or in-office meeting 
+                when:: Before diving into detailed training 
+                who:: The leadership team or direct supervisor 
+                notes:: Orientation (Google onboarding remote teams) 
+                Cover corporate culture 
+
+            task:: Teach the terminology 
+                what:: 
+                how:: Provide a glossary or reference guide, do Q&A 
+                why:: 
+                where:: https://docs.google.com/document/d/1jKOFLq3GQBapNlYGZ1p8erklKoFvEtYMbY-kerZtHzA 
+                when:: Early in onboarding 
+                who:: The trainer or manager 
+                notes:: Terminology: Module, Manual (roles) 
+
+            task:: Teach the Method 
+                what:: 
+                how:: Explain the service, set client expectations lower, 
+                why:: 
+                where:: Provide a short training doc or slides 
+                when:: Right after basic orientation 
+                who:: The product lead or trainer 
+
+            task:: Teach the Compensation 
+                what:: 
+                how:: Break down tiers, percentages, examples of pay 
+                why:: 
+                where:: https://docs.google.com/document/d/1PRVrWIoqss8oC2LwsRV5qv5de8VxR842zzhvAIRoMVA 
+                when:: Prior to making their first sales calls 
+                who:: The finance manager or sales manager 
+
+            task:: Collect contact information 
+                what:: 
+                how:: Use a secure form or SuiteCRM custom fields 
+                why:: 
+                where:: Possibly the “Motivators” or “Applicants” module in SuiteCRM 
+                when:: During onboarding 
+                who:: The HR or admin staff 
+                notes:: Contact info, payment info 
+                Full name—matching the account where pay will be deposited 
+                Current address 
+                Social insurance number (SIN) 
+                Date of birth 
+                Date of hire 
+                Amounts to be paid, including wages, salaries and bonuses 
+                Pay type (salaried or hourly)—if paid hourly, the number of hours of work per pay period will be required 
+                Required deductions 
+                Banking information for direct deposit 
+
+            task:: Legal 
+                what:: 
+                how:: non-disclosure, non-compete, compensation 
+                why:: 
+                where:: Typically shared via PDF or e-sign platform 
+                when:: As soon as they come on board 
+                who:: The legal counsel or HR manager 
+                notes:: Refunds 
+                https://learn.marsdd.com/article/developing-hr-policies-and-procedures-for-your-startup/ 
+                contract: https://www.saleshacker.com/sales-compensation-plan-blueprint/ 
+                https://indzara.com/2020/03/new-employee-checklist-google-sheets-free/ 
+
+            task:: Setup Payroll 
+                what:: 
+                how:: Choose a payroll provider, add info, schedule payments 
+                why:: 
+                where:: Through an online payroll service or internal system 
+                when:: Before the first pay cycle 
+                who:: Finance or payroll administrator 
+                notes:: UUID 
+                There are reputable payroll providers with automated services to facilitate the process. 
+
+            task:: Log in as the Motivator 
+                what:: 
+                how:: 
+                why:: To see the Motivator view 
+                where:: SuiteCRM login 
+                when:: Once the Motivator user is created 
+                who:: The admin or manager verifying the environment 
+                notes:: should there be an online course for this 
+
+            task:: Introduce SuiteCRM 
+                what:: 
+                how:: Walk them through dashboards, menus, basic tasks 
+                why:: 
+                where:: In a live demonstration or training session 
+                when:: Early in the training schedule 
+                who:: The CRM admin or an experienced user 
+
+            task:: Teach SuiteCRM terminology 
+                what:: 
+                how:: Provide a short reference sheet or a quick tutorial 
+                why:: 
+                where:: SuiteCRM 
+                when:: Right after basic navigation 
+                who:: The SuiteCRM trainer or admin 
+                notes:: Terminology (targets, leads, prospects, contacts), Video 
+
+            task:: Assign a Motivator email 
+                what:: 
+                how:: Create or configure a new mailbox and integrate with SuiteCRM 
+                why:: 
+                where:: SuiteCRM 
+                when:: Once they officially join the team 
+                who:: The IT or email admin 
+                notes:: The Manager will set up NEW email accounts and integrate it with the SuiteCRM config directions 
+
+            task:: Teach the sales process 
+                what:: 
+                how:: Demonstrate lead qualification, follow-up calls, etc. 
+                why:: 
+                where:: SuiteCRM 
+                when:: Once the Motivator is comfortable with CRM basics 
+                who:: Sales manager or an experienced rep 
+                notes:: Survey https://sakasandcompany.com/sales-pre-qualification-survey/ 
+                https://sakasandcompany.com/sales-process-steps/ 
+
+            task:: Cover consultative selling 
+                what:: 
+                how:: "Good parent" tone 
+                why:: 
+                where:: SuiteCRM 
+                when:: Ongoing, with each call scenario 
+                who:: Sales trainer or manager 
+                notes:: 1. Figure out what needs to be done 
+                2. Find a way to get it done 
+                3. And make sure it actually gets done 
+
+            task:: Send the sales script 
+                what:: 
+                how:: Provide a standard call/ pitch outline 
+                why:: 
+                where:: SuiteCRM 
+                when:: Before they start contacting leads 
+                who:: The sales manager or marketing team 
+
+            task:: Provide the collateral 
+                what:: Knowledge Base 
+                how:: Collect and share relevant articles, files, and resources 
+                why:: 
+                where:: https://live-course-and-guides.pantheonsite.io/article/enabling-your-sales-team-giving-them-the-tools-to-sell/ 
+                when:: During onboarding or as needed 
+                who:: The product expert or marketing lead 
+                notes:: inside SuiteCRM? 
+
+            task:: Teach data validation 
+                what:: 
+                how:: Show them the required fields and best data practices 
+                why:: 
+                where:: SuiteCRM 
+                when:: Soon after they learn basic CRM usage 
+                who:: The CRM admin or data team 
+
+            task:: Teach the objections 
+                what:: 
+                how:: Provide scripts or role-playing scenarios 
+                why:: 
+                where:: 
+                when:: Before they handle real leads 
+                who:: The sales trainer or manager 
+                notes:: Customer success stories 
+
+            task:: Teach conversions 
+                what:: 
+                how:: Show them how to handle final negotiations, close the sale 
+                why:: 
+                where:: SuiteCRM 
+                when:: After they’ve mastered lead qualification 
+                who:: The sales manager or closers 
+
+            task:: Teach call logging 
+                what:: 
+                how:: log objections 
+                why:: 
+                where:: SuiteCRM 
+                when:: After each call is completed 
+                who:: The Motivator or rep making the call 
+
+            task:: Teach History 
+                what:: 
+                how:: Demonstrate how to filter and review the timeline 
+                why:: display all emails, calls, etc 
+                where:: SuiteCRM 
+                when:: Whenever reviewing a lead or contact 
+                who:: The rep or manager 
+
+            task:: Teach email templates 
+                what:: 
+                how:: Insert variables like Lead Name, track opens if possible 
+                why:: 
+                where:: SuiteCRM 
+                when:: Before they start emailing from CRM 
+                who:: The CRM admin or sales manager 
+
+            task:: Teach the customer referral bonus 
+                what:: 
+                how:: Outline the referral terms, provide a link or form 
+                why:: 
+                where:: 
+                when:: Once a sale is closed or a new rep joins 
+                who:: The marketing team or manager 
+                notes:: capture page configuration (track referrals) 
+
+            task:: Train sales follow-up 
+                what:: 
+                how:: Set reminders or tasks in the CRM 
+                why:: $$$ 
+                where:: https://www.youtube.com/watch?v=mtj4Sy5UHOw 
+                when:: Immediately after initial contact 
+                who:: The sales manager or senior rep 
+                notes:: Todd Falcone 
+                Make SuiteCRM send notifications with a workflow? Or just monitor logins? 
+                Notify reps of contract expiration dates, 
+
+            task:: Train getting feedback 
+                what:: 
+                how:: Provide a short feedback form or have them note key points 
+                why:: to improve marketing messaging 
+                where:: Possibly a CRM custom field or internal survey form 
+                when:: After calls or closed deals 
+                who:: The rep or marketing lead 
+                notes:: How to handle feature requests 
+                https://learn.marsdd.com/article/what-is-win-loss-research/ 
+
+            task:: Train ask for referrals 
+                what:: 
+                how:: Provide a short script, or add a standard step in calls 
+                why:: 
+                where:: 
+                when:: Whenever they close a deal or get positive feedback 
+                who:: Each Motivator 
+
+            task:: Teach the customer support process 
+                what:: 
+                how:: Show them the standard troubleshooting or escalation path 
+                why:: 
+                where:: Support 
+                when:: Once basic sales training is complete 
+                who:: The support lead or manager 
+                notes:: Custom Document 
+                SuiteCRM Tickets 
+                Support Scripts 
+                Resolution 
+
+            task:: Teach SuiteCRM Tickets? 
+                what:: 
+                how:: Demonstrate ticket creation, status updates, and closures 
+                why:: 
+                where:: Support 
+                when:: After reps master lead/opportunity modules 
+                who:: The CRM admin or support manager 
+
+            task:: Send the support scripts 
+                what:: 
+                how:: 
+                why:: relationships 
+                where:: Support 
+                when:: As soon as they need to handle customer queries 
+                who:: The support or product specialist 
+
+            task:: Review the resolutions 
+                what:: 
+                how:: Pull historical tickets and study final outcomes 
+                why:: 
+                where:: Support 
+                when:: Periodically, or when a pattern emerges 
+                who:: The support lead or manager 
+
+            task:: Teach the telephany 
+                what:: 
+                how:: Show call transferring, voicemail, and call notes 
+                why:: 
+                where:: Telephany 
+                when:: Before they handle real-time phone calls 
+                who:: IT or phone system admin 
+
+            task:: Teach video calling 
+                what:: 
+                how:: Demonstrate screen sharing, meeting setup 
+                why:: 
+                where:: Telephany 
+                when:: Early in training if they’ll do remote calls 
+                who:: The manager or designated trainer 
+                notes:: Hangouts, Zoom 
+
+            task:: Ask about support 
+                what:: 
+                how:: Provide a Slack channel, email, or open-door policy 
+                why:: 
+                where:: 
+                when:: Ongoing 
+                who:: Anyone on the team 
+                notes:: what do they need? 
+
+        stage:: Recruit Motivators 
+            what:: "Motivators" are commission-only sales representatives that work remotely 
+            how:: Post on websites, screen, interview, and sell Motivators on the opportunity 
+            why:: Working with Motivators helps the Module to maintain a black financial model 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn to recruit Motivators 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1Ly_ji5orRWovmq_sjHK4VwIfc7H5UBHUleFWcns_69w/ 
+                when:: 
+                who:: 
+                notes:: https://www.treelineinc.com/blog/how-to-hire-100-commission-sales-reps/ 
+
+            task:: Job Requisition 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.youtube.com/watch?v=bJiewdaTCc8 
+                when:: 
+                who:: 
+                notes:: Build remote sales team tips 
+
+            task:: List Who, What, When, Where, How, Why of recruiting Motivators 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Contact information (Name, Address, Phone Numbers) for all employees 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://blog.cloudtask.com/5-pitfalls-to-hiring-commission-only-sales-representatives 
+                when:: 
+                who:: 
+                notes:: 5 Pitfalls to Hiring Commission-only Sales Reps 
+
+            task:: Post Facebook 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://smallbiztrends.com/2017/05/how-to-post-a-job-on-facebook.html 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Angel.co 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://angel.co/blog/how-to-post-a-job-on-angellist 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Craigslist 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://blog.proven.com/how-to-post-a-job-on-craigslist 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Fiverr 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://sellers.fiverr.com/en/article/creating-a-gig 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Upwork 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.upwork.com/hiring/for-clients/create-contract-on-upwork/ 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Indeed 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.indeed.com/hire?aceid=&gclid=Cj0KCQjwivbsBRDsARIsADyISJ8xgUiS1Y7bxCLrBbygK4jGHxW8aXvSWWCqxwUuIdUjRY8ix7qMN4UaAl19EALw_wcB 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Simply Hired 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.simplyhired.com/post-jobs-free 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Linkedin 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://business.linkedin.com/talent-solutions/post-jobs 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post ZipRecruiter 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.ziprecruiter.com/post-a-job 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Breezy.hr 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://breezy.hr/features/advertise-jobs 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Post Unemployment Office 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.careeronestop.org/BusinessCenter/RecruitAndHire/WhereToFindCandidates/post-a-job.aspx 
+                when:: 
+                who:: 
+                notes:: AFFILIATE LINK!!! ??? 
+
+            task:: Use the Motivator Ad 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.simplyhired.com/search?q=commission+only-+sales+representative&job=PYTOp_-m-3GymDsQg10WWM3IFpvhuVRH_FYkD53CuXZGukrn3ml92g 
+                when:: 
+                who:: 
+                notes:: Phone Sales Only, State of the Art CRM, Clear Pain Point, No experience necessary??, Remote Only, Commissions on Semi-Automated Upsales, Generous Commissions, Autonomy, Opportunity - Guru Campaigns 
+
+            task:: Conduct Interview 1 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1hXhGp3t3H0y-Kyv4vflIE0NIKMzdwHslGOu5kh14AqA/ 
+                when:: 
+                who:: 
+
+            task:: Conduct Interview 2 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Conduct Interview 3 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.16personalities.com/free-personality-test 
+                when:: 
+                who:: 
+
+            task:: Personality type survey 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1fDQ5ogJmjLTWGvWND4Rsc_ki5djsvzj1PO3q5rU5gUo/ 
+                when:: 
+                who:: 
+
+            task:: Select Several Candidates 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use the Motivator Agreement 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1k1uTRbYw6Yua4uBaTlU6GxaMJB1uXwqsrJvvoyTXNdo/ 
+                when:: 
+                who:: 
+                notes:: "Commissioned Sales Agent" agreement example 
+
+            task:: Use the Motivator Manual 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: Should there be a separate Manual for Motivators?, Or, do we simply have ONE Manual?, Sales Collateral ??? 
+
+    phase:: Manage the Marketing 
+        what:: "Manage the Marketing" is hiring service providers to run marketing campaigns 
+        how:: Learn about each marketing technique and hire service providers to do the work 
+        why:: Hiring providers allows the Module to offer a comprehensive marketing services 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Start the Marketers 
+            what:: "Starting the Marketers" includes onboarding them and starting their work 
+            how:: Share the orientation manual and the capture pages with the Marketers 
+            why:: The Marketers must start generating leads while using the capture pages 
+            where:: 
+            when:: 
+            who:: 
+
+        stage:: Facilitate Data Entry Campaigns 
+            what:: Data Entry Campaigns generate leads from ads posted in online forums 
+            how:: Text ads are manually or automatically posted in social media and forums 
+            why:: The cost of data entry labor is far less expensive than marketing services 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Post a Data Entry Job 
+                what:: The data entry job description link is posted on a freelance job portal 
+                how:: Click the link, "File", "Make a copy", edit the copy, post the copy's link 
+                why:: 
+                where:: https://docs.google.com/document/d/1b9rmYyDpUwRmDG0Aitb0tBOIvhkdhCADzM9UdGDkZ64 
+                when:: 
+                who:: 
+
+            task:: Use Data Entry Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1Y4aGkbPWfHjv5DXcrFhi2gAy4__BQmrMHzWrpWLyyV8/ 
+                when:: 
+                who:: 
+
+            task:: Post Data Entry job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1G0vYzZ_RvPzj2bclu8pzjH2L0wqjdrljUuYXjHrVddg/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate DCC 
+            what:: Data Collection Campaigns build data by web scraping and manual entry 
+            how:: Automated software systems or people search the Internet and collect data 
+            why:: Collecting and processing data is less expensive than hiring marketing teams 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Data Collection Campaigns 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use DCC Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1kQD4nBvNtU35uddfzrxK-STy7V3OSI9Kn9rHvqj3kv0 
+                when:: 
+                who:: 
+                notes:: https://www.umbel.com/blog/big-data/5-simple-steps-launch-data-collection-campaign/ 
+
+            task:: Post DCC job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1Qe409j9zETi8JdlF78sKY4C-P9fMezcGuH5LO7fzTm8/ 
+                when:: 
+                who:: 
+                notes:: spreadsheet 
+
+        stage:: Facilitate SMM Campaigns 
+            what:: Social Media Management monitors and builds the brand on social media 
+            how:: Social media accounts are created and content is posted to attract new members 
+            why:: Most Internet users frequent social media sites and interact in social media groups 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Social Media Management 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Social Media Management Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/11QdIUxhUJXjQkr8XG895HO5BmCimyAGYZTMXFER1E0s/ 
+                when:: 
+                who:: 
+
+            task:: Post Social Media Management job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1z157AVmryWcR-dJ1Qtix0MZi1Lv5wkpeSvkVwHOfo_8/ 
+                when:: 
+                who:: 
+                notes:: https://sproutsocial.com/insights/social-media-marketing-basics/ 
+
+        stage:: Facilitate PPA Campaigns 
+            what:: Pay Per Acquisition is a pricing model where we pay when customers complete tasks 
+            how:: The Module pays a Cost Per Acquisition (CPA) each time a customer completes a task 
+            why:: PPA guarantees that visitors complete specific a task like paying to become a member 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about PPA 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: PPA requires extra effort to see positive results. The silver lining to all of this? It’s free! There is zero risk in trying PPA. If you generate a ton of clicks, but can't convert a single visitor, you aren't out a single dime. 
+
+            task:: Use PPA Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1lIYeEJ_DkvtQ8zRWooke0vUHZvvtIsiAj6n1ic0h5Uk/ 
+                when:: 
+                who:: 
+
+            task:: Post PPA job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/13cDSuoQYf4tdD2fG9ipr8CrGt-nsT4WcK_57M24L2f0/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate PPL Campaigns 
+            what:: Pay Per Lead is a pricing model where advertisers pay for leads to new customers 
+            how:: A Cost Per Lead (CPL) fee is charged for each qualified lead provided to the Module 
+            why:: PPL identifies individuals who are very likely to be interested in and pay for services 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about PPL 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.marketingterms.com/dictionary/pay_per_lead/ 
+                when:: 
+                who:: 
+
+            task:: Use PPL Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1-k-ZcPtRnHV2pHxOSco8dM5WmbtiaCCMIyUIq2WDkD8/ 
+                when:: 
+                who:: 
+                notes:: https://www.smartbugmedia.com/blog/9-steps-for-a-successful-cpl-campaign 
+
+            task:: Post PPL job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/14ohVtVRluJCMQZfT3BozxzBonFsUTFFPIXg7qgeArbM/ 
+                when:: 
+                who:: 
+                notes:: https://www.smartbugmedia.com/blog/9-steps-for-a-successful-cpl-campaign 
+
+        stage:: Facilitate PPC Campaigns 
+            what:: Pay Per Click pays a web publisher a fee each time a visitor clicks a Module ad 
+            how:: A Cost Per Click (CPC) fee is charged each time visitors click the ads on websites 
+            why:: PPC allows the Module to compete for traffic related to highly sought after keywords 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about PPC 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://www.marketingterms.com/dictionary/pay_per_click/ 
+                when:: 
+                who:: 
+
+            task:: Use PPC Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1ZmKQQ3DsWQ8TPvQaN_miqa2qztTLCXwfuOMgjv6XNXA/ 
+                when:: 
+                who:: 
+
+            task:: Post PPC job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1ChE4lOMfrMVU1194dK-AkQE5NKEuAfiKQSPPcko3wDA/ 
+                when:: 
+                who:: 
+                notes:: https://www.process.st/checklist/ppc-daily-campaign-review-checklist/#campaign-overview 
+
+        stage:: Facilitate PPM Campaigns 
+            what:: Pay Per iMpression is a pricing model where advertisers pay for the display of ads 
+            how:: A Cost Per Thousand (CPM) fee is charged when the ad is displayed 1000 times 
+            why:: PPM helps increase online visibility, build brand image, and create recognition 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about PPM 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://trackmaven.com/marketing-dictionary/cost-per-impression/ 
+                when:: 
+                who:: 
+
+            task:: Use PPM Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1tkH5nwojfrGr1uQQHmt2SyblWFeGZdwRAyxm00Olkk4/ 
+                when:: 
+                who:: 
+
+            task:: Post PPM job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/15pOYjU_sFc7oOCiUaqoMmS3hlfFvhpPZUzcfv_sB6dE/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Banner Campaigns 
+            what:: A banner ad is an image placed on a website that looks like a billboard 
+            how:: A graphic containing ad copy is created using standard display sizes 
+            why:: Banner ads can contain animated graphics that are more eye catching 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Banner Advertising 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Banner Advertising Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1OB-y2zQSiF8lHl7KFiv6LoBgpZvewIT3v1lL1HUOJck/ 
+                when:: 
+                who:: 
+
+            task:: Post Banner Advertising job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1NjxYV5K5xkYvRMKxXPfjw4fV-63HTcE4Wsm83UjhsiY/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Mobile Marketing Campaigns 
+            what:: Mobile Advertisements appear on mobile devices such as smartphones and tablets 
+            how:: Text ads and banner ads are placed inside mobile applications and websites 
+            why:: Mobile Marketing reaches a broader market and includes those without laptops 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Mobile Marketing 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Mobile Marketing Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1oRCI-0Nc3m0SpFed24_X_sbf5PpvFF7T49Xk7jDDXEs/ 
+                when:: 
+                who:: 
+
+            task:: Post Mobile Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1ZUqM_W-oif4ZhHB4aCGlJ6Li87UFNuzYW7Vx4GzA1QI/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate SEO Campaigns 
+            what:: Search Engine Optimization gets high placements on the search engine results pages 
+            how:: Various techniques are employed to promote webpages to search engines 
+            why:: Having high rankings in search engines helps visitors who are searching find us easily 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Search Engine Optimization 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use SEO Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/15q1C1dClW25DWm2kNT--iG21cvJQsHN4DXjBebsI8aw/ 
+                when:: 
+                who:: 
+
+            task:: Post SEO job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/12o2VhaOTu9jXa1db_uxJAYvELnQF77a99HMni4_FeRo/ 
+                when:: 
+                who:: 
+
+        stage:: Develop Digital Marketing assets 
+            what:: Digital Marketing is the creation and use of videos, images, and infographics 
+            how:: Graphic artists, copywriters, and video producers develop attractive digital media 
+            why:: Digital graphics are easier for viewers to consume because it requires less reading 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Digital Marketing 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Digital Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1nbUfDw6ojJx6GaJ7aKjouNt3vjBEwvxn34m9LNuSy2c/ 
+                when:: 
+                who:: 
+
+            task:: Post Digital Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1HhmvqGS7Oumnh5z1LQGjWrOmbqeDDMfC4AfDMz3TMco/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Referral Marketing Campaigns 
+            what:: Referral Marketing primarily uses word of mouth advertising to recruit new customers 
+            how:: All customers are encouraged to refer family, friends, and associates to the Module 
+            why:: Referral Marketing is the most efficient way to reach an individual's personal network 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Referral Marketing 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Referral Marketing Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1GWw2OkSGqp0n0dy0fJek5gE9sWEixqCAAmOcRowFITY/ 
+                when:: 
+                who:: 
+                notes:: https://www.allbusiness.com/8-tips-smarter-referral-marketing-17563-1.html 
+
+            task:: Post Referral Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1PFLJOPkY_d1T-7cAiHESwct-wQ9l-_Hpwp-ckN0Pf1g/ 
+                when:: 
+                who:: 
+                notes:: https://www.allbusiness.com/8-tips-smarter-referral-marketing-17563-1.html 
+
+        stage:: Facilitate Link Marketing Campaigns 
+            what:: Link Marketing is placing some html code (called a web link) on various websites 
+            how:: The service provider will post Module website links on websites, blogs, and forums 
+            why:: Visitors click links to the Module's website which captures leads for new members 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about link marketing 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+                notes:: https://www.fiverr.com/search/gigs?query=backlinks&source=top-bar&search_in=everywhere&search-autocomplete-original-term=backlinks 
+
+            task:: Use link marketing Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1g9jcVwk3d3pxIz9YE_nEyRC0OxyWivy878o5ff0nFmM/ 
+                when:: 
+                who:: 
+
+            task:: Post link marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1rAfLGcSkkbXQbBo9j6ozARsn27FOnSzhjnmeaeQ7bY8/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate ORM Campaigns 
+            what:: Online Reputation Management monitors and responds to comments on the Internet 
+            how:: The service provider will find and respond to comments about the Module on forums 
+            why:: Erroneous or bad reviews of the Module are corrected to protect the brand reputation 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Reputation Management 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Reputation Management Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1djw8VdlOU6YsI4thHLHET1Xia7j90FbP70z3S1bH1yY/ 
+                when:: 
+                who:: 
+
+            task:: Post Reputation Management job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/15layjE5Ip4G6Ims8P1LsjjLx23G3xZUSK4Y799Gsyp0/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate OVM Campaigns 
+            what:: Online Visibility Management manages the overall brand image across the Internet 
+            how:: Content, comments, and discussions are monitored and updated across the web 
+            why:: Managing visibility helps the people best served by the Module become customers 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Online Visibility Management 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use OVM Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1wM2b9lLnEyWpYs4XIQ1UOtpr66sHCj3Z6UZpjnTjS4g/ 
+                when:: 
+                who:: 
+
+            task:: Post OVM job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1Vbk0uGJHhh2F8kW73PNK_N566V-IV5Yb2DqWRFg90Tg/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Content Marketing Campaigns 
+            what:: Articles and videos are displayed to stimulate interest in Module services 
+            how:: The articles are shared in related blogs, newsletters, and industry forums 
+            why:: Viewers find useful content that is placed within related websites more valuable 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Content Marketing 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Content Marketing Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1TFjjAnZK0F6wCAmihhPPmfEmd2t3ydtEc2haf4srnvo/ 
+                when:: 
+                who:: 
+
+            task:: Post Content Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1EGxq3wKZ2upAXIW094lds-PgdC6K1cKBkud58h8bxds/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Earned Media Campaigns 
+            what:: Earned media is free publicity gained through promotional efforts 
+            how:: Bloggers, reviewers, and other influencers share information organically 
+            why:: Earned media costs less and more trusted than paid advertisements 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Earned Media 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+            task:: Use Earned Media Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1Sm7tLRoIywL81AnYue33CEw6p1Haz4jZ6Ko3x3g3Bjw/ 
+                when:: 
+                who:: 
+
+            task:: Post Earned Media job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1EGxq3wKZ2upAXIW094lds-PgdC6K1cKBkud58h8bxds/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Public Relations Campaigns 
+            what:: Public Relations manages the publicity and promotional campaigns for the Module 
+            how:: Full feature articles are submitted to respectable media outlets for publication 
+            why:: PR tells the story of the Module, creates buzz, and serves as the initial branding 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Public Relations 
+                WHAT 
+                how:: 
+                why:: 
+                where:: https://www.youtube.com/watch?v=8uRh4XYa__M 
+                when:: 
+                who:: 
+
+            task:: Use Public Relations Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1dZ_5dG93prdm1rS3PZvmK1vb78qOctm_XdJAC3wM_NM/ 
+                when:: 
+                who:: 
+
+            task:: Post Public Relations job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1-PukgLHQX9Wd3rTc7kONt9BuagESPoz3S2UIo4OWIUE/ 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Offline Marketing Campaign 
+            what:: Offline Marketing uses traditional media channels to build awareness of the services 
+            how:: Advertisements are run using radio, billboards, events, and guerilla marketing 
+            why:: Running offline advertisements reinforces the online branding done in local areas 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Offline Marketing 
+                WHAT 
+                how:: 
+                why:: 
+                where:: https://appinstitute.com/offline-marketing/ 
+                when:: 
+                who:: 
+
+            task:: Use The Offline Marketing Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1OY8hmFlHVGI4YUI2ZoZ4NmJtQYpHdTa1YeE_OaOj_4A 
+                when:: 
+                who:: 
+
+            task:: Post an Offline Marketing job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1-eZ2a4jS8GfSMykm2Wp1R0s9XnzBYcK40JC3JMcWRVI 
+                when:: 
+                who:: 
+
+        stage:: Facilitate Computational Advertising 
+            what:: Computational Advertising increases profit using computer, social, & data science 
+            how:: Data scientists analyze the results of multivariate tests and deep-level analysis 
+            why:: Artificial Intelligence processes data faster and helps predict buying behaviors 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about Computational Advertising 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://kk.org/ct2/computational-advertising/ 
+                when:: 
+                who:: 
+
+            task:: Use Computational Advertising Template 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/spreadsheets/d/1cOg40JCSrCJNqO6dLQkCZRbg9t2rcjZ_8d0fD0bZ2r4/ 
+                when:: 
+                who:: 
+
+            task:: Post Computational Advertising job 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1lJpU1uwo8uSscEFU39X77ojSshFexZGGRdkhlXW7RRo/ 
+                when:: 
+                who:: 
+
+    phase:: Start the Sales 
+        what:: "Start the sales" is the basic process of posting ads and converting sales 
+        how:: Start the Messenger generating leads and the Motivator to making sales 
+        why:: Starting with a basic sales process allows time for learning and is low cost 
+        where:: Via the chosen lead-gen channels (social, paid ads, etc.) 
+        when:: After reps and messaging are ready 
+        who:: The manager who coordinates marketing and the Motivators 
+
+        stage:: Start the Motivators 
+            what:: "Starting the Motivators" includes onboarding them and starting their work 
+            how:: Share the orientation manual with the Motivators and let the test the CRM 
+            why:: The Motivators must be very familiar with the CRM in order to make sales 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Train the Motivators 
+                what:: 
+                how:: 
+                why:: 
+                where:: https://docs.google.com/document/d/1q2SC2NrQD-tTtN3Mbpg_a2koO-su-RbQK0PyzU1RTk8/ 
+                when:: 
+                who:: 
+
+        stage:: Manage the Motivators 
+            what:: 
+            how:: Track KPI metrics, do one-on-ones, and ongoing training 
+            why:: 
+            where:: Combination of SuiteCRM dashboards and team meetings 
+            when:: Daily or weekly check-ins 
+            who:: The sales manager 
+
+            task:: Roleplay calls 
+                what:: 
+                how:: Shadow 
+                why:: 
+                where:: Mock call sessions or training environment 
+                when:: Before or during ramp-up 
+                who:: Senior reps or managers 
+
+            task:: Manage the morale 
+                what:: 
+                how:: feedback, culture, dealing with rejection, attrition, recognition 
+                why:: mission-driven 
+                where:: Weekly team huddles or morale-building activities 
+                when:: Continuously 
+                who:: The manager or team lead 
+                notes:: Mentorship 
+                Meetings 
+                Morale 
+                It’s as simple as asking, “what motivates you?” to your sales reps. 
+                Anticipate that not every sales rep will make it and that employees will turn over. 
+                https://www.workamajig.com/blog/virtual-team-building-activities 
+
+            task:: Manage the performance 
+                what:: 
+                how:: Ask them to study to improve Cover Closed Won percentage, Upselling KPIs 
+                why:: 
+                where:: CRM dashboards or analytics tools 
+                when:: Weekly or monthly 
+                who:: The sales manager or data analyst 
+                notes:: Leaderboard 
+                Incentives 
+                Surveys 
+                find the best people in 
+                these markets and learn from them. 
+                Step 4: The final step is to develop a sales culture. As a sales manager, you are in a prime position to influence the culture of your team, mostly by how you behave as a manager. In short, your behaviour must signal that you endorse excellence and that you hold your team accountable; this will breed the type of culture that serves you best. 
+                The endorsement of excellence is best communicated by allocating most of your time and effort to mentoring those of your sales team who are performing the best, since they most likely have the characteristics to excel. To some, this may sound counterintuitive since sales staff who are underperforming are more likely to ask for help. However, high performing members of your sales team need to and want to be challenged and because they are more valuable to your company than underperformers, they should be your priority. 
+
+            task:: Host meetings 
+                what:: 
+                how:: Individual or group, share sales education, collaborate, what info do Motivators want? 
+                why:: improve 
+                where:: Zoom calls or office conference 
+                when:: Weekly or as needed 
+                who:: The manager or team lead 
+                notes:: use Hangouts 
+
+            task:: Encourage recording calls 
+                what:: 
+                how:: from desk , 
+                why:: for review 
+                where:: Inside your telephony system or CRM 
+                when:: Ongoing basis for training 
+                who:: Each rep, with manager’s support 
+
+            task:: Learn about termination 
+                what:: 
+                how:: culture fit, quota (based on Closed Won percentage),  attitude, performance 
+                why:: fire quickly, protect morale 
+                where:: Internal HR policy or legal guidelines 
+                when:: If a rep is underperforming or violating policy 
+                who:: The manager, with HR or legal involvement 
+                notes:: disable account access 
+                exit interview 
+
+            task:: Ask for reviews 
+                what:: 
+                how:: Provide quick review forms or verbally request feedback 
+                why:: 
+                where:: Possibly an internal survey system or email 
+                when:: Periodically or after major milestones 
+                who:: The manager or admin staff 
+                notes:: Showcase: 
+                Core company values 
+                Testimonials of how your employees are living your values 
+                Success stories of personal growth, promotion, or role expansion 
+                Stories of how your employees are active in their local communities 
+                Employee awards and recognition 
+                Blogs written by employees about their professional engagement 
+
+            task:: Recruit more Motivators 
+                what:: 
+                how:: Always be recruiting, follow-up 
+                why:: fire quickly, so that have a list of highly qualified candidates when needed 
+                where:: Ongoing job postings, networking, referrals 
+                when:: Once the current team is at capacity or underperforming 
+                who:: HR or hiring manager 
+
+        stage:: Upsell the Members 
+            what:: Potential customers that pay a Membership fee become Members 
+            how:: Encourage the Members to complete the steps in the sales funnel 
+            why:: The Module makes money more easily by selling existing Members 
+            where:: 
+            when:: 
+            who:: 
+
+            task:: Learn about upselling 
+                what:: 
+                how:: 
+                why:: 
+                where:: 
+                when:: 
+                who:: 
+
+        stage:: Pay the Team 
+            what:: The Manager calculates pay and pays each Marketer & Motivator 
+            how:: Send electronic payments to the Marketers and Motivators on time 
+            why:: Paying the Marketers and Motivators on time helps maintain morale 
+            where:: 
+            when:: 
+            who:: 
+
+        stage:: Provide Feedback 
+            what:: Feedback is the written suggestions on how to improve this Manual 
+            how:: Send emails describing experiences and give tips for improvements 
+            why:: The feedback helps the Manual evolve and improves Module support 
+            where:: 
+            when:: 
+            who:: 
+
+    phase:: Maintain the Module 
+        what:: Maintaining is replacing and retaining resources and maintaining the budget 
+        how:: Monitor the customer acquisition costs and continually improve performance 
+        why:: Replacing resources will maintain and increase the profitability of the Module 
+        where:: 
+        when:: 
+        who:: 
+
+        stage:: Create the ATS 
+            what:: The Applicant Tracking System facilitates the process of recruiting and onboarding 
+            how:: Define the system requirements, gather field specifications, and implement in SuiteCRM 
+            why:: Ensures a standardized and trackable approach for managing applicants 
+            where:: Within SuiteCRM administration 
+            when:: As soon as you are ready to formalize your hiring process 
+            who:: The HR Manager or designated ATS Administrator 
+
+            task:: Browse to the Module Builder 
+                what:: The upper right corner of the dashboard shows the username under a profile icon 
+                how:: Click username, "Admin", "Module Builder", "New Package", hover over the fields 
+                why:: To create and configure new custom modules or packages 
+                where:: SuiteCRM > Admin > Module Builder 
+                when:: Once you are logged in as an Administrator 
+                who:: The SuiteCRM Administrator 
+
+            task:: Create a package 
+                what:: The Module Builder shows a form for creating a package that will contain a module 
+                how:: Enter "ApplicantTrackingSystem" for "Package Name", "ATS" for "Key", click "SAVE" 
+                why:: A package groups one or more custom modules under one namespace 
+                where:: Still within the Module Builder 
+                when:: Right after deciding to build a custom module 
+                who:: The SuiteCRM Administrator or Dev user 
+
+            task:: Create a module 
+                what:: The Module Builder shows the completed package form and the "New Module" icon 
+                how:: Click "New Module", enter "Applicants" for "Module Name" and "Label", click "person" 
+                why:: A new module will store the applicant records 
+                where:: Inside the "ApplicantTrackingSystem" package in Module Builder 
+                when:: Immediately after the package is created 
+                who:: The SuiteCRM Administrator 
+
+            task:: Save the module 
+                what:: The Module Builder shows the completed form and the "person" icon highlighted 
+                how:: Hover over the "Importing" checkbox, read the page, check the box, click "SAVE" 
+                why:: To confirm the module creation and enable data importing 
+                where:: In the Module Builder environment 
+                when:: Before exiting the Module Builder wizard 
+                who:: The SuiteCRM Administrator 
+
+            task:: Create a custom field 
+                what:: SuiteCRM displays "Module Builder >  ApplicantTrackingSystem > Applicants" 
+                how:: Click "VIEW FIELDS", "Close", "ADD FIELD", select "TextArea" for "Data Type" 
+                why:: To capture longer text input such as interview notes 
+                where:: Inside the new "Applicants" module in Module Builder 
+                when:: After creating the Applicants module 
+                who:: The Administrator or Developer in charge of the ATS 
+
+            task:: Save the custom field 
+                what:: Creates or updates the database schema for the new field 
+                how:: Click "SAVE", "Close", and see "interview_1" listed as a field 
+                why:: So the field is permanently added to the module 
+                where:: Still in "Module Builder >  ApplicantTrackingSystem > Applicants > Fields" 
+                when:: Right after defining the field properties 
+                who:: The SuiteCRM Administrator 
+
+            task:: Compensation Plan 
+                what:: A document describing how pay and incentives are structured 
+                how:: Review or modify the plan as needed to match roles and budgets 
+                why:: To maintain transparency and fairness in compensation 
+                where:: https://docs.google.com/document/d/1PRVrWIoqss8oC2LwsRV5qv5de8VxR842zzhvAIRoMVA 
+                when:: Before hiring or promoting anyone 
+                who:: Finance team or business owner 
+
+            task:: Sales Hiring Playbook 
+                what:: A guide for effective sales hiring strategies 
+                how:: Read the playbook and incorporate best practices into your process 
+                why:: Reduces mistakes and streamlines the sales recruitment process 
+                where:: https://drive.google.com/file/d/1x3gDuEFQv5sgr2u4RfGiH80v37LwWitx 
+                when:: Before posting the job or screening candidates 
+                who:: Hiring Manager or Sales Director 
