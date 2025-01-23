@@ -1,6 +1,3 @@
-This is just a test! Yay again!
-where:: https://github.com/codecartelcodes/ModuleManual/blob/main/docs/test_file.md
-
 
 project:: ModuleManual <br>
 &nbsp;&nbsp;&nbsp; what:: The Module Manual includes business admin, marketing, sales, and customer support  <br>
