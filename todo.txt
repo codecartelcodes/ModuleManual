@@ -1,0 +1,223 @@
+
+
+
+PMBOK Process List
+    The Project Management Body of Knowledge (PMBOK) Guide outlines 47 processes distributed across 10 knowledge areas and 5 process groups. These processes are essential for project management success and are detailed in the PMBOK Guide 5th edition. Here is a brief overview of the processes and their distribution:
+
+    Project Integration Management: 6 processes
+    Project Scope Management: 5 processes
+    Project Schedule Management: 6 processes
+    Project Cost Management: 4 processes
+    Project Quality Management: 3 processes
+    Project Resource Management: 4 processes
+    Project Communications Management: 3 processes
+    Project Risk Management: 6 processes
+    Project Procurement Management: 4 processes
+    Project Stakeholder Management: 4 processes
+    The processes are categorized into the following process groups:
+
+    Initiating: 2 processes
+    Planning: 24 processes
+    Executing: 10 processes
+    Monitoring and Controlling: 12 processes
+    Closing: 1 process
+    For memorization, it's recommended to focus on key words such as "Plan," "Estimate," "Perform," "Develop," "Control," "Identify," "Define," "Manage," "Validate," and "Close," as these words can help you associate each process with its corresponding process group and knowledge area.
+
+    According to the PMBOK Guide, there are five process groups for every project life cycle: the initiating process group, planning process group, executing process group, monitoring and controlling process group, and lastly, the closing process group.
+
+    https://www.knowledgehut.com/blog/project-management/processes-of-pmp
+    https://www.reddit.com/r/pmp/comments/110mj1f/the_49_processes_chart
+
+Business Formation Documents
+Articles of Incorporation
+Articles of Organization
+A Business Plan
+Founders Agreement
+Employment Contract Agreement
+Non-Disclosure agreement (NDA)
+Intellectual Property Assignment Agreement
+Non-Compete Agreements 
+Advisor Agreement
+Partnership Agreement
+LLC Operating Agreement
+Buy/Sell Agreement
+Employee Handbook
+Bylaws
+Terms of Service Agreement and Privacy Policy
+Cookies Policy
+Stock/Membership Interest Purchase Agreement
+Subscription Agreement
+    - https://www.govdocfiling.com/blog/legal-documents-for-startups
+
+
+1. Legal and Compliance Documents
+Founders Agreement: Defines roles, equity distribution, and conflict resolution among co-founders1.
+
+Non-Disclosure Agreements (NDAs): Protects sensitive business information shared with third parties1.
+
+Intellectual Property (IP) Agreements: Secures ownership of patents, copyrights, trademarks, or proprietary technologies1.
+
+Terms of Service & Privacy Policy: Essential for online platforms to comply with legal standards and protect users1.
+
+Operating Agreement (for LLCs): Outlines management structure and member responsibilities1.
+
+Employee Contracts & Handbook: Covers employment terms, policies, and company culture1.
+
+Regulatory Compliance Checklist: Ensures adherence to industry-specific laws and regulations1.
+
+2. Advanced Business Planning
+Revenue Model: Details how the business will generate income, including pricing strategies and revenue streams8.
+
+Customer Segmentation Analysis: Identifies target customer groups to refine marketing efforts9.
+
+Desirability-Feasibility-Viability Framework: Evaluates the product's market fit, practicality, and long-term sustainability6.
+
+3. Financial Planning
+Detailed Financial Projections: Includes cash flow statements, balance sheets, income projections, and break-even analysis25.
+
+Investor Pitch Deck: A concise presentation for funding pitches covering the problem, solution, market opportunity, traction, and financials.
+
+Cap Table: Tracks equity ownership among founders, investors, and employees.
+
+4. Marketing and Sales Strategy
+Go-to-Market (GTM) Strategy: Outlines how the product will be launched into the market effectively.
+
+Customer Acquisition Cost (CAC) & Lifetime Value (LTV) Metrics: Helps evaluate marketing efficiency.
+
+Content Marketing Plan: Defines a strategy for blogs, videos, social media posts, etc., to attract customers.
+
+5. Risk Management
+Risk Assessment Document: Identifies potential risks (financial, operational, legal) and mitigation strategies.
+
+Business Continuity Plan: Ensures operations can continue during disruptions.
+
+6. Operational Readiness
+Standard Operating Procedures (SOPs): Detailed workflows for daily operations.
+
+Supply Chain Management Plan: Manages procurement processes and supplier relationships.
+
+7. Growth and Scaling
+Partnership Agreements: Defines terms with strategic partners or suppliers35.
+
+Expansion Plan: Details steps for scaling into new markets or geographies.
+
+Draft marketing materials
+    Brochure
+
+Prompt to generate markdown (.md) files
+
+Review Waterfall project management
+    Add the PMBOK as needed
+    Add the Risk Analysis
+        predict and plan for potential risks
+
+project:: ModuleManual development
+
+    Add deveralable documents
+
+        Add Business Canvas stage
+
+        Add a Business Plan stage
+
+            Add an Executive Summary stage
+                A high-level overview of the business, including its mission, vision, and objectives.
+                Add a Mission statement task
+                It's often best to write the executive summary last so that you have a complete understanding 
+                of your plan and can effectively summarize it.
+                Define the USP (unique selling proposal)
+
+            Add a Leadership profile
+                Introduce your company leaders and their qualifications and responsibilities within your business
+Resumes of company management and other stakeholders
+
+            Add a Company Description stage
+               Details about the company, including its name, legal structure, location, and history.
+
+            Add a Products or Services stage
+                Features
+                Competitive Advantage
+                Moat
+                Pricing plans for your company's services
+
+            Add a Operations & Management stage
+                Organizational structure and key team members
+                Roles and responsibilities within the company  
+                perational workflow and supply chain details
+
+            Add a Market Research & Analysis stage
+
+                Add a Comprehensive Competitor Analysis stage
+                    Collect customer reviews online
+
+                    Add a Ad Collection stage
+
+                    Add a SWOT Analysis stage
+
+                    Add a Marketing Plan stage
+                        Advertising, social media, and branding strategies
+
+                    Customer Attibutes
+                        Define the demographics of the potential customers
+                        Define their location(s)
+                        Define the Pain Points (experienced by the potential customers)
+                        Add a Customer Journey stage
+                        Discover where the target market spends time (social media / physical)
+                        Define the most prominent needs of your target market 
+                        Explain how your products or services meet these needs
+
+            Add a Sales Strategy stage
+                How you retain customers.  
+                Sales channels (e.g., online, retail, partnerships).  
+                Reasons for your target audience to purchase from your company versus your competition
+                List what documents should be provided to Sales associates (and make they exist)
+                    Review the Sales Playbook
+
+            Add a Legal Research phase
+                Deliverable Documents Disclaimer 
+                Agreements
+                Insurance
+                Regulatory
+                Terms of Service  
+
+            Add a Financial Model stage
+                Current revenue
+
+            Add a Customer Avatar stage
+
+            Add a Funding Stage
+                Grants
+                Loans
+
+            Add the ATDC Report card stage
+                Add the metrics
+
+    Add a Financial Reporting phase
+        Design the Financial Reporting
+            Include metrics for selling the business
+        Add a Set up and Configure GNUCash stage?
+            Generate Financial Reports
+            Building Business Credit
+            Taxes
+            Accounting
+            Define a straightforward way to track progress as a company grows
+
+    Add Formal Customer Discovery stage
+        Read the Mom Test (and prompt the tips)
+        after CRM setup
+        Run the Customer Discovery surveys from SuiteCRM
+            Collect the competitor customer contact data 
+            Import the contacts into SuiteCRM
+            Create the survey questions (based on the pain points)
+            Run the Surveys from SuiteCRM
+                gather firsthand information from potential customers about their problems, needs, and experiences
+                ask questions that elicit truthful, unbiased responses. 
+                    Reviews may be skewed towards extremely positive or negative experiences
+                focus on understanding the customer's problems and "jobs to be done" 
+                    rather than specific product features 
+                explore the broader context of customer needs and behaviors
+                discover emerging needs and future trends
+ 
+    Add ModuleManual Services pricing
+
+    Add a Branding stage
+
