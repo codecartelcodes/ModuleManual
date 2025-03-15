@@ -4191,11 +4191,12 @@ project:: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who:: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; notes:: Should there be a separate Manual for Motivators?, Or, do we simply have ONE Manual?, Sales Collateral ??? <br>
 
+<a id="marketing"></a> 
 &nbsp;&nbsp;&nbsp; phase:: Manage the Marketing <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; what:: "Manage the Marketing" is hiring service providers to run marketing campaigns <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; how:: Learn about each marketing technique and hire service providers to do the work <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; why:: Hiring providers allows the Module to offer a comprehensive marketing services <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where:: <a id="marketing"></a> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; where:: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; when:: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who:: <br>
 
