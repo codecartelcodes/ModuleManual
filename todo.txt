@@ -1,5 +1,19 @@
 
+call:: Simon Strandgaard about MicroManager 
+    👋 Hi, I’m Simon Strandgaard aka @neoneye
+    👀 I’m interested in programming
+    🌱 I’m experimenting with AI and math
+    💞️ I’m looking to collaborate on AI projects
+    📫 How to reach me: neoneye@gmail.com
+    https://github.com/neoneye/PlanExe/blob/main/src/plan/project_plan.py 
+    https://github.com/neoneye/PlanExe/tree/main !
 
+
+
+
+Automated SEO example:
+    https://www.reddit.com/r/LLMDevs/comments/1kigp51/spent_9400000000_openai_tokens_in_april_here_is/
+    https://www.babylovegrowth.ai/
 
 PMBOK Process List
     The Project Management Body of Knowledge (PMBOK) Guide outlines 47 processes distributed across 10 knowledge areas and 5 process groups. These processes are essential for project management success and are detailed in the PMBOK Guide 5th edition. Here is a brief overview of the processes and their distribution:
