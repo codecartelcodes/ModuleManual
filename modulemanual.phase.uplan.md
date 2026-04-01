@@ -5,6 +5,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Review the Overview <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The stages within this phase provide an overview of the business opportunity <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Please read all rows and click the links in the links column to see the resources <br>
@@ -12,6 +13,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Research the Method <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Research searches for and aggregates data for a business plan <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Prompt a deep research LLM to complete the tasks in this stage <br>
@@ -19,6 +21,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: ape_research_llm <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Start the Systems <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The infrastructure is composed of several automated systems and documents <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Complete all of the stages between "Start the Systems" and "Raise the funds" <br>
@@ -26,6 +29,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Raise the Revenue <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The revenue is the small amount of money needed to pay for business expenses <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Set up the Infrastructure, learn to use it, and make a enough sales to cover costs <br>
@@ -33,6 +37,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Make the Module <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The Module must have an EIN, a payment gateway, and be incorporated <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Complete enough tasks to get the app approved by the payment gateway <br>
@@ -40,6 +45,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Manage the Money <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Managing the money includes paying people, taxes, and maintaining a budget <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Learn about the customer acquisition costs, commissions, taxes, and payments <br>
@@ -47,6 +53,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Learn the Leadership <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Leading includes setting the company vision and culture, as well as hiring and firing <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Establish a board of directors, mentorship program, and a system to avoid attrition <br>
@@ -54,6 +61,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Hire the Help <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Hiring entails sourcing talent through service providers and freelance websites <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Outsource all company roles including marketing, sales, and human resources <br>
@@ -61,6 +69,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: On various freelance marketplaces or recruiting platforms <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: As soon as the business needs exceed current internal capacity <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: The business owner or hiring manager <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Manage the Marketing <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: "Manage the Marketing" is hiring service providers to run marketing campaigns <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Learn about each marketing technique and hire service providers to do the work <br>
@@ -68,6 +77,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Start the Sales <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: "Start the sales" is the basic process of posting ads and converting sales <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Start the Messenger generating leads and the Motivator to making sales <br>
@@ -75,6 +85,7 @@ project: ModuleManual <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: Via the chosen lead-gen channels (social, paid ads, etc.) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: After reps and messaging are ready <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: The manager who coordinates marketing and the Motivators <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;phase: Maintain the Module <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Maintaining is replacing and retaining resources and maintaining the budget <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Monitor the customer acquisition costs and continually improve performance <br>
