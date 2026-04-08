@@ -1,8 +1,7 @@
-Persona
-   Persona Page
-# Customer Persona / Target Avatar Template
+# **Customer Persona / Target Avatar Template**
 
-## 1. Persona Overview
+## **1. Persona Overview**
+
 - **Persona Title / Name:**  
   Give your persona a memorable, descriptive title.  
   *Example: “Sarah – The Busy Working Mom.”*
@@ -17,7 +16,8 @@ Persona
 
 ---
 
-## 2. Demographic Snapshot
+## **2. Demographic Snapshot**
+
 - **Age Range / Life Stage:**  
   Outline age or phase of life that best represents the persona.  
   *Example: 30–45 years old; mid-career professionals managing family responsibilities.*
@@ -36,7 +36,8 @@ Persona
 
 ---
 
-## 3. Motivations & Goals
+## **3. Motivations & Goals**
+
 - **Core Aspirations:**  
   Explain what success or progress looks like to them.  
   *Example: Optimize time, increase balance, and improve quality of life.*
@@ -45,10 +46,10 @@ Persona
   Identify what guides their decision-making.  
   *Example: Efficiency, trust, reliability, and simplicity.*
 
-
 ---
 
-## 5. Buying Behavior
+## **4. Buying Behavior**
+
 - **Purchase Triggers:**  
   List what motivates their purchasing decisions.  
   *Example: Word-of-mouth recommendations, perceived reliability, ease of use.*
@@ -63,7 +64,8 @@ Persona
 
 ---
 
-## 6. Messaging Insights
+## **5. Messaging Insights**
+
 - **Tone / Communication Style:**  
   Define how to communicate effectively with this persona.  
   *Example: Friendly, supportive, and direct.*
@@ -72,7 +74,10 @@ Persona
   Identify language or themes that resonate most.  
   *Example: “Save time for what matters most.”*
 
-## 2. Target Audience Alignment
+---
+
+## **6. Target Audience Alignment**
+
 - **Customer Segments:**  
   Identify the specific audience groups aligned with your marketing focus.  
   *Example: Health-conscious millennials and independent fitness studios.*
@@ -83,7 +88,8 @@ Persona
 
 ---
 
-## 7. Persona Summary Statement
+## **7. Persona Summary Statement**
+
 - **Concise Description:**  
   Write one short paragraph summarizing the persona’s identity, needs, and desired outcomes.  
   *Example: Sarah represents the modern professional balancing multiple demands. She values efficiency and trust, seeking simple, effective tools that help reclaim her time and reduce stress.*
@@ -92,4 +98,3 @@ Persona
 
 > **Prompt Use Note:**  
 > Use this template to define your customer personas before generating the business plan. Each section should include 1–3 clear sentences that show empathy, data-driven insight, and how this audience connects to the business vision.
-

@@ -1,44 +1,97 @@
-# **The Black Financial Model**
+# The Black Financial Model
 
-A “black financial model” is a financial formula that facilitates daily operations and avoids “going into the red” *at all costs*. That includes avoiding loans, paying salaries, and 
+A **“black financial model”** is a financial formula designed to facilitate daily operations and avoid “going into the red” *at all costs*. This includes avoiding loans, paying salaries unnecessarily, and overextending resources.
 
-**Income \- Cost \= Profit**  
-“Costs” is broadly defined to include everything it takes to start a business and facilitate daily operations. Costs include time, effort, knowledge, lines of computer code, money, equity, and any other overhead that could inhibit profitable daily operations.
+---
 
-**Cut Costs at all Cost**  
-While developing the model, *every cost* is critically challenged:
+## Core Principle
 
-* Is an office required, or can everyone work remotely?  
-* Is initial funding required, or can daily operations be funded simply by making sales?  
-* Is it necessary to pay salaries or will a commission-only model work?  
-* Is it necessary to write custom code, or is open source code available?
+**Income − Cost = Profit**  
 
-For example, pose the question   
-“How many lines of new code will it take to make a million dollars?  
-If the number is over 10,000, for example, then the idea is likely relatively inefficient.
+- "Costs" is broadly defined to include everything required to start a business and run daily operations: time, effort, knowledge, lines of code, money, equity, and any other overhead that could inhibit profitable operations.
 
-**Bootstrap**  
-The black financial model relies on “bootstrapping” the startup rather than spending the time, effort, and money to raise funds from venture capitalists. Bootstrapping is using cash savings, avoiding all loans, and making sales to cover operations costs. Proceeds from initial sales are *always* used to pay for more marketing and sales commissions. Sales Cures Everything.
+---
 
-**Customer Acquisition Cost**  
-The cost of generating leads and acquiring future customers must be built into the price of the service. In other words, each sale should have enough margin to cover the cost of making the next sale.
+## Cut Costs at All Costs
 
-**Antifragility**  
-“Everyone has a plan until they get punched in the face.” \- Mike Tyson  
-“[Antifragility](https://www.resultist.com/blog/is-your-revenue-strategy-antifragile)” allows companies and systems to benefit from disruptions, failures, stressors, attacks, shocks, volatility, and distractions. Contingency plans are built into the system, model, and code. The systems are developed in an effort to eliminate the need for customer support or training. The code is designed so that it can be re-used in case a specific business model fails.
+Every cost is critically evaluated:
 
-**Avoid Loans**  
-Do not borrow. The interest from a business loan accrues regardless of whether or not the business makes sales.
+- Is an office necessary, or can everyone work remotely?  
+- Is initial funding required, or can daily operations be funded by sales?  
+- Is paying salaries essential, or could a commission-only model work?  
+- Is custom code required, or is open source available?
 
-**Avoid Employees**  
-Avoid paying salaries and the paperwork and compliance requirements of having employees. It is possible for the future costs related to having employees to exceed the future revenue they create. This is “running in the red”.
+**Example Question:**  
+> “How many lines of new code will it take to make a million dollars?”  
+> If over 10,000 lines, the idea is likely inefficient.
 
-**Avoid Investors**  
-A lot of time can be spent raising funds. That is time better spent making sales. Moreover, when you raise funds, you can lose equity. It’s important to note that getting funding is not guaranteed. For example, less than 1% of businesses get funding from venture capitalists. \[[source](https://hbr.org/2013/05/six-myths-about-venture-capitalists)\] And less than 1% of the funding (from the 1% of businesses that get funded) is invested in venture founded by people of color. \[[source](https://www.forbes.com/sites/forbesnonprofitcouncil/2018/02/15/founders-and-venture-capital-racism-is-costing-us-billions/#5959203f2e4a)\] Developing a financial model that relies on sales is strategically smart.
+---
 
-**Profit Margin**  
-The profits are made from upselling existing customers. The profit margin should be over 90%. That means the cost of operating the business and providing the service must be at or below 10%. Having a high profit margin means the company can afford to give away free service (and absorb all costs related to refunds). The financial model should pay more commissions for upsells to incentivize sales representatives (Motivators) to maintain and support existing customers (and it helps reduce attrition).
+## Bootstrap
 
-**Financial Transactions**  
-The [MoneyService](https://bitbucket.org/AliasAPI/moneyservice/src/master/) software should be used to transfer payments from customers directly to each service provider. MoneyService also handles refunds. Using an S-Corporation (with flow through taxes) and the MoneyService dramatically reduces tax liabilities.
+- Rely on **bootstrapping** rather than raising venture capital.  
+- Use cash savings, avoid loans, and make sales to cover operational costs.  
+- Proceeds from initial sales are **always reinvested** into marketing and sales commissions.  
 
+> **Sales Cures Everything.**
+
+---
+
+## Customer Acquisition Cost (CAC)
+
+- Include the cost of generating leads and acquiring future customers in your pricing.  
+- Each sale should generate enough margin to cover the cost of acquiring the next sale.
+
+---
+
+## Antifragility
+
+> “Everyone has a plan until they get punched in the face.” – Mike Tyson  
+
+- [Antifragility](https://www.resultist.com/blog/is-your-revenue-strategy-antifragile) ensures systems benefit from disruptions, failures, shocks, and volatility.  
+- Contingency plans are built into the system, model, and code.  
+- Systems are developed to **eliminate the need for customer support or training**.  
+- Code is designed to be reusable if a business model fails.
+
+---
+
+## Avoid Loans
+
+- Do not borrow. Interest accrues regardless of sales.
+
+---
+
+## Avoid Employees
+
+- Avoid salaries and compliance burdens.  
+- Future costs of employees can exceed their revenue contribution—this is “running in the red.”
+
+---
+
+## Avoid Investors
+
+- Fundraising consumes valuable time better spent making sales.  
+- Raising funds can dilute equity and is not guaranteed.  
+
+> Less than 1% of businesses receive VC funding.  
+> [HBR Source](https://hbr.org/2013/05/six-myths-about-venture-capitalists)  
+> Less than 1% of VC funding goes to founders of color.  
+> [Forbes Source](https://www.forbes.com/sites/forbesnonprofitcouncil/2018/02/15/founders-and-venture-capital-racism-is-costing-us-billions/#5959203f2e4a)
+
+- A sales-driven financial model is strategically smarter.
+
+---
+
+## Profit Margin
+
+- Profits come primarily from **upselling existing customers**.  
+- Target **profit margins > 90%**, keeping operational costs ≤ 10%.  
+- High margins allow giving free service and absorbing refunds.  
+- Pay higher commissions for upsells to incentivize sales reps (Motivators) and reduce customer attrition.
+
+---
+
+## Financial Transactions
+
+- Use [MoneyService](https://bitbucket.org/AliasAPI/moneyservice/src/master/) for direct payments and refunds.  
+- Combine with an **S-Corporation (flow-through taxes)** to reduce tax liabilities.

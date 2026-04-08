@@ -1,28 +1,48 @@
-WHAT: There are basic requirements a Manger must have to own a Module  
-HOW: Click the link to the right, read the document about the requirements  
-WHY: The Manager learns whether they are willing to manage a Module
+# Module Manager Requirements
 
-Remote Only
+## WHAT
+- There are **basic requirements** a Manager must have to own a Module.
 
-Entrepreneurial Attitude  
-Management  
-Confidence   
-Intelligence (IT)
+## HOW
+- Click the link to the right and **read the document** about the requirements.
 
-MoneyService  
-	PayPal Approval Process
+## WHY
+- The Manager learns whether they are **willing and capable** of managing a Module.
 
-Business Bank account (later)  
-	EIN  
-Incorporate  
-Credit
+---
 
-Read  
-	Willingness  
-	Learn
+## Work Context
+- **Remote Only**
 
-Pass the Test  
-	vet
+## Core Traits
+- **Entrepreneurial Attitude**  
+- **Management Skills**  
+- **Confidence**  
+- **Intelligence (IT)**
 
-Business Owner \+ Finance Manager \+ Marketing Manager \+ Sales Manager \+ Project Manager \= Manager  
-	Outsourced 
+---
+
+## Financial Requirements
+- **MoneyService:** PayPal approval process  
+- **Business Bank Account** (later)  
+  - EIN  
+  - Incorporation  
+  - Credit
+
+---
+
+## Learning & Vetting
+- **Read:** Willingness to learn  
+- **Pass the Test:** Vetting process
+
+---
+
+## Manager Composition
+- **Roles Combined:**  
+  - Business Owner  
+  - Finance Manager  
+  - Marketing Manager  
+  - Sales Manager  
+  - Project Manager  
+
+- **Outcome:** Outsourced → Manager

@@ -292,20 +292,6 @@ Program Page
 
 
 
-Comply with my tool standards
-MUST be related to AppSec, DevSecOps, quality assurance, ???
-MUST be fully-automated with no human in the loop
-MUST work with a (single) file\_path (even if that means using the parent directory)
-MUST be open source?
-MUST be free (so that we do not incur monthly overhead when not using it)
-MUST be able to added to my procedural pipeline
-CLI tool? API?
-MUST be airgapped after the initial install
-
-Linters before static analyzers
-Static analyzers run concurrently (for speed)
-
-
 
 
 
