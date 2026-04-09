@@ -1,95 +1,95 @@
-project: ModuleManual <br>
-&nbsp;&nbsp;what: The Module Manual includes business admin, marketing, sales, and customer support <br>
-&nbsp;&nbsp;how: All phases, stages, and tasks are written with what, how, why, where, when, who <br>
-&nbsp;&nbsp;why: <br>
-&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;who: <br>
+project: ModuleManual
+  what: The Module Manual includes business admin, marketing, sales, and customer support
+  how: All phases, stages, and tasks are written with what, how, why, where, when, who
+  why:
+  where:
+  when:
+  who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Review the Overview <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The stages within this phase provide an overview of the business opportunity <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Please read all rows and click the links in the links column to see the resources <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Learn how to start and manage a Module and generate over a million in revenue <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Review the Overview
+      what: The stages within this phase provide an overview of the business opportunity
+      how: Please read all rows and click the links in the links column to see the resources
+      why: Learn how to start and manage a Module and generate over a million in revenue
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Research the Method <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Research searches for and aggregates data for a business plan <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Prompt a deep research LLM to complete the tasks in this stage <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: The data helps the LLM develop the MicroScanner software suite <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: ape_research_llm <br>
+    phase: Research the Method
+      what: Research searches for and aggregates data for a business plan
+      how: Prompt a deep research LLM to complete the tasks in this stage
+      why: The data helps the LLM develop the MicroScanner software suite
+      where:
+      when:
+      who: ape_research_llm
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Start the Systems <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The infrastructure is composed of several automated systems and documents <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Complete all of the stages between "Start the Systems" and "Raise the funds" <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: The infrastructure provides the support that the Module needs at very low costs <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Start the Systems
+      what: The infrastructure is composed of several automated systems and documents
+      how: Complete all of the stages between "Start the Systems" and "Raise the funds"
+      why: The infrastructure provides the support that the Module needs at very low costs
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Raise the Revenue <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The revenue is the small amount of money needed to pay for business expenses <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Set up the Infrastructure, learn to use it, and make a enough sales to cover costs <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Making sales will retain equity, avoid debt, provide capital, and prove competency <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Raise the Revenue
+      what: The revenue is the small amount of money needed to pay for business expenses
+      how: Set up the Infrastructure, learn to use it, and make a enough sales to cover costs
+      why: Making sales will retain equity, avoid debt, provide capital, and prove competency
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Make the Module <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: The Module must have an EIN, a payment gateway, and be incorporated <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Complete enough tasks to get the app approved by the payment gateway <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Establishing the Module provides legal protection and the financial systems <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Make the Module
+      what: The Module must have an EIN, a payment gateway, and be incorporated
+      how: Complete enough tasks to get the app approved by the payment gateway
+      why: Establishing the Module provides legal protection and the financial systems
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Manage the Money <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Managing the money includes paying people, taxes, and maintaining a budget <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Learn about the customer acquisition costs, commissions, taxes, and payments <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Managing the money guarantees the Module maintains a black financial model <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Manage the Money
+      what: Managing the money includes paying people, taxes, and maintaining a budget
+      how: Learn about the customer acquisition costs, commissions, taxes, and payments
+      why: Managing the money guarantees the Module maintains a black financial model
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Learn the Leadership <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Leading includes setting the company vision and culture, as well as hiring and firing <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Establish a board of directors, mentorship program, and a system to avoid attrition <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: The Manager will be successful through hiring and retaining subject matter experts <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Learn the Leadership
+      what: Leading includes setting the company vision and culture, as well as hiring and firing
+      how: Establish a board of directors, mentorship program, and a system to avoid attrition
+      why: The Manager will be successful through hiring and retaining subject matter experts
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Hire the Help <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Hiring entails sourcing talent through service providers and freelance websites <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Outsource all company roles including marketing, sales, and human resources <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Outsourcing reduces bureaucracy, labor costs, liability, and helps define roles <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: On various freelance marketplaces or recruiting platforms <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: As soon as the business needs exceed current internal capacity <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: The business owner or hiring manager <br>
+    phase: Hire the Help
+      what: Hiring entails sourcing talent through service providers and freelance websites
+      how: Outsource all company roles including marketing, sales, and human resources
+      why: Outsourcing reduces bureaucracy, labor costs, liability, and helps define roles
+      where: On various freelance marketplaces or recruiting platforms
+      when: As soon as the business needs exceed current internal capacity
+      who: The business owner or hiring manager
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Manage the Marketing <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: "Manage the Marketing" is hiring service providers to run marketing campaigns <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Learn about each marketing technique and hire service providers to do the work <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Hiring providers allows the Module to offer a comprehensive marketing services <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Manage the Marketing
+      what: "Manage the Marketing" is hiring service providers to run marketing campaigns
+      how: Learn about each marketing technique and hire service providers to do the work
+      why: Hiring providers allows the Module to offer a comprehensive marketing services
+      where:
+      when:
+      who:
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Start the Sales <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: "Start the sales" is the basic process of posting ads and converting sales <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Start the Messenger generating leads and the Motivator to making sales <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Starting with a basic sales process allows time for learning and is low cost <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: Via the chosen lead-gen channels (social, paid ads, etc.) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: After reps and messaging are ready <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: The manager who coordinates marketing and the Motivators <br>
+    phase: Start the Sales
+      what: "Start the sales" is the basic process of posting ads and converting sales
+      how: Start the Messenger generating leads and the Motivator to making sales
+      why: Starting with a basic sales process allows time for learning and is low cost
+      where: Via the chosen lead-gen channels (social, paid ads, etc.)
+      when: After reps and messaging are ready
+      who: The manager who coordinates marketing and the Motivators
 
-&nbsp;&nbsp;&nbsp;&nbsp;phase: Maintain the Module <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;what: Maintaining is replacing and retaining resources and maintaining the budget <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;how: Monitor the customer acquisition costs and continually improve performance <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;why: Replacing resources will maintain and increase the profitability of the Module <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;when: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who: <br>
+    phase: Maintain the Module
+      what: Maintaining is replacing and retaining resources and maintaining the budget
+      how: Monitor the customer acquisition costs and continually improve performance
+      why: Replacing resources will maintain and increase the profitability of the Module
+      where:
+      when:
+      who:
