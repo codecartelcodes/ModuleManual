@@ -1,67 +1,109 @@
 # Proceed Page Template  
-(Call to Action – End Your Pitch with Clarity & Urgency)
+(Capital Strategy & Scale Execution)
 
-Proceed Overview  
-{{1‑line hook that recaps the opportunity and creates momentum: "This is the moment. This is the team. This is the market. Let's make it happen."}}
+## Call to Action
 
-***
+**Primary Ask:**  
+{{Specific action: Lead this round / Join as investor / Strategic compute partner}}
 
-## The Ask (Clear & Specific)
+**Why Now:**  
+{{Time-sensitive catalyst: traction, market shift, technical breakthrough}}
 
-**We're Raising:**  
-{{${X}M at ${Y}M pre‑money valuation (or SAFE/cap terms).}}  
+---
 
-**What We Need From You:**  
-{{Choose ONE based on audience:}}  
-- **Investors:** {{Join our round. Minimum check: ${{Z}}K. Reply "YES" or book 15min here: [calendly link].}}  
-- **Partners:** {{Pilot with us. Sign LOI by [date]. Free proof‑of‑concept for first 3 partners.}}  
-- **Customers:** {{Start free trial today. Book demo: [link]. First 10 get 50% off year 1.}}  
-- **Talent:** {{Join us. Roles open: [list]. Apply here: [link]. Equity + impact.}}  
+## Access to H100 (If Applicable)
 
-***
+**Compute Requirement:**  
+{{Training / Fine-tuning / Inference at scale}}
 
-## Next Steps (Make It Dead Simple)
+**Why H100-Class Infrastructure:**  
+{{Performance gain, latency reduction, defensibility}}
 
-**If You're In:**  
-1. {{Reply "I'm in" or click [YES button/link].}}  
-2. {{15min call this week to discuss terms/structure.}}  
-3. {{Term sheet / LOI within 48hrs.}}  
+**Estimated Usage Plan:**  
+{{Cluster size, projected hours, cost estimate}}
 
-**Timeline:**  
-- {{Round closes [specific date – e.g., "March 31"].}}  
-- {{First close already [X]% committed.}}  
+**Fallback Plan:**  
+{{Cloud credits / phased scaling / partnerships}}
 
-***
+---
 
-## Why Now (Create FOMO)
+## Funding Ask
 
-**Market Momentum:**  
-{{Regulation / tech shift / competitor moves / customer demand that makes delay costly.}}  
+**Amount Raising:**  
+${{Total raise}}
 
-**Traction Proof:**  
-- {{Patrons: [X] paying customers, [Y]% MoM growth.}}  
-- {{Pipeline: [Z] waitlisted, [N] inbound RFPs this month.}}  
+**Instrument:**  
+{{SAFE / Priced round}}
 
-**Team Execution:**  
-{{Recent win that proves we ship fast: "[milestone] in [X weeks]."}}  
+**Valuation / Cap:**  
+${{If applicable}}
 
-***
+**Runway Target:**  
+{{12–24 months}}
 
-## The Vision (Paint the Picture – MOST CRITICAL SECTION)
+---
 
-**In 3 Years:**  
-{{We own [X]% of [SAM/$Y billion market]. ARR = [$Z M]. Team = [N] people.}}  
+## What This Round Unlocks
 
-**Your Role:**  
-{{"Your investment / partnership / early adoption makes this real. Be part of the team that [solves massive problem / creates category / 10X's market]."}}  
+- {{Product milestone (v1 launch / enterprise-ready build)}}
+- {{Revenue milestone ($X ARR / X paying customers)}}
+- {{Technical milestone (model performance, scalability)}}
+- {{Team milestone (critical hires)}}
 
-**Final Hook:**  
-{{Bold, memorable close: "The best returns come from betting on obvious problems with non‑obvious solutions. This is it. Let's proceed."}}  
+---
 
-***
+## Use of Funds
 
-**Contact:** {{Name | [email] | [phone] | [calendly/demo link]}}
+| Category | % Allocation | Outcome |
+|----------|-------------|---------|
+| Technology / Product | {{%}} | {{Core build, infrastructure, IP}} |
+| Marketing / Growth | {{%}} | {{Customer acquisition, GTM}} |
+| Team | {{%}} | {{Key hires}} |
+| Operations / Legal | {{%}} | {{Compliance, overhead}} |
+| Runway Buffer | {{%}} | {{Contingency}} |
 
-```
-[Large YES / JOIN / DEMO button would go here]
-```
+---
+
+## Target Round Type
+
+**Stage:**  
+{{Pre-seed / Seed / Series A}}
+
+**Investor Profile:**  
+{{Angels / Seed funds / AI-focused VCs / Strategic corporates}}
+
+**Check Size Range:**  
+${{Min}} – ${{Max}}
+
+**Lead Investor Required:**  
+{{Yes / No}}
+
+---
+
+## Exit Opportunities
+
+### M&A
+{{Likely acquirers + strategic rationale}}
+
+### IPO
+{{Revenue scale + market conditions required}}
+
+### Strategic Buyers
+{{Who benefits most from owning this asset and why}}
+
+---
+
+## Investor Return Logic
+
+**Ownership Offered:**  
+{{%}}
+
+**Projected Exit Valuation:**  
+${{Conservative / Base / Upside}}
+
+**Target Return Multiple:**  
+{{Xx}}
+
+---
+
+Focus on capital efficiency, milestone clarity, and credible venture-scale outcomes.
