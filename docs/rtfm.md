@@ -1,15 +1,12 @@
-RTFM
+# RTFM – Read The Full Manual
 
-Earn as you Learn  
-	I found myself teaching marketing concepts to full service marketing agencies  
-so the Manual is written as though the reader does not know each concept 
+## Earn as You Learn
+I found myself teaching marketing concepts to full-service marketing agencies,  
+so the Manual is written as though the reader does **not** already know each concept.
 
-Repository of Answers
+## Repository of Answers
+- **We** are responsible for writing.  
+- **You** are responsible for reading.  
 
-We are responsible for writing. You for reading.
-
-More efficient.  
-	“Row 55” rather than “this document” or “this timestamp in a video”
-
-	How do we navigate? Line Numbers?
-
+This approach is more efficient:  
+> Reference by “Row 55” rather than “this document” or “this timestamp in a video.”

@@ -1,12 +1,15 @@
+# Key Concepts
 
+## Most Important
+- **Manager Competency:** Can the Manager complete the tasks to the **“Pass the Test”** stage.
 
-Most Important:  
-Manager competency: Can the Manager complete the tasks to the “Pass the Test” stage
+## Manual Purpose
+- The manual is designed to **test skills**, serve as **part of the interview process**, and help **lead from experience**.
 
-The Manual is designed to test . . . part of the interview process . . . lead from experience
+## System Overview
+- **Members pay Modules.**  
+- **Modules market the Machine.**  
+- **The Machine serves the Members.**
 
-Members pay Modules. Modules Market the Machine. The Machine serves the Members.
-
-
-
-local LLM automation
+## Technology
+- **Local LLM Automation**

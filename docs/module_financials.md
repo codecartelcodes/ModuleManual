@@ -1,78 +1,77 @@
-# **Learn the Bookkeeping**
+# Learn the Bookkeeping
+
+## Transaction Table
 
 | Payer | Payee | Transaction ID | Fee | Amount | DateTime | Type | Label |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-|  |  | Modules must electronic transactions? |  |  | Validation | for reports | ModuleManager Marketer Motivator Misc |
+|  |  | Modules must be electronic transactions? |  |  | Validation | For reports | Module / Manager / Marketer / Motivator / Misc |
 
-**WARNING**: How many rows is manageable? Import to MySQL?
+**WARNING:**  
+- How many rows are manageable?  
+- Should we import into MySQL?  
 
-Is this sheet an “input only “ idea?  
-Do we force electronic transactions?
+**Questions:**  
+- Is this sheet “input only”?  
+- Do we force electronic transactions?
 
-Tips:  
-Electronic transactions because of the record and copy & paste. no human error  
-Upwork terms of service says No Paypal . . . OR Pay Upwork with PayPal ???  
-	BUT Payee / Payer will be problem  
-MAYBE AUTOMATED CANNOT WORK BECAUSE PAYER PAYEE?  
-	It’s OK: The Manager, Marketer, Motivator are going to be emails.  
-	All Member transactions will be UUID
+---
 
-# PayPal Sync API
+## Tips for Electronic Transactions
 
-Use the PayPal Sync API to get the history of transactions for a PayPal account. For more information about the API, see the [PayPal Sync API Integration Guide](https://developer.paypal.com/docs/integration/direct/sync/).
+- Use electronic transactions for record-keeping, easy copy & paste, and reduced human error.  
+- **Upwork Terms of Service**:  
+  - No PayPal? OR Pay Upwork with PayPal?  
+- **Payer / Payee issues:**  
+  - Automated workflows may be tricky if Payer/Payee is ambiguous.  
+  - Solution: Manager, Marketer, Motivator can be emails; Member transactions use UUID.
 
-[https://developer.paypal.com/docs/api/sync/v1/](https://developer.paypal.com/docs/api/sync/v1/)
+---
 
-* It takes a maximum of three hours for executed transactions to appear in the list transactions call.  
-* This call lists transaction for the previous three years.
+## PayPal Sync API
 
-**transaction\_status**
+- Use the [PayPal Sync API](https://developer.paypal.com/docs/integration/direct/sync/) to retrieve transaction history.  
+- Documentation: [https://developer.paypal.com/docs/api/sync/v1/](https://developer.paypal.com/docs/api/sync/v1/)  
 
-**HOW:**  
-	**Manual transactions are added  separately . . . but should be the exception.**
+**Notes:**  
+- Transactions take up to 3 hours to appear in the API.  
+- Call returns transactions for the previous 3 years.  
 
-Payee
+**transaction_status** – tracked per transaction.
 
-Payer
+---
 
-Transaction ID  
-	PayPal Transaction id
+## HOW TO HANDLE TRANSACTIONS
 
-Fee  
-	because it adds up over time and out of balance
+- Manual transactions are added separately; should be the **exception**, not the rule.  
+- Fields:  
 
-Amount   
-	positive for Module income and negative for Module payout
+| Field | Notes |
+|-------|------|
+| **Payee** | Module, Manager, Marketer, Motivator, etc. |
+| **Payer** | Member UUID or email |
+| **Transaction ID** | PayPal transaction ID |
+| **Fee** | Record to avoid out-of-balance totals |
+| **Amount** | Positive = Module income; Negative = Module payout |
+| **DateTime** | YYYY-MM-DD HH:MM:SS, 24-hour format |
+| **Type** | Refunds, payments, etc. |
+| **Label** | Members = subset of Module (automated), Misc = everything else (incorporation, domain, etc.) |
 
-Datetime  
-	Must be in the YYYY-MM-DD HH:MM:SS  
-	Learn 24 hour / military time
+**WHY THIS MATTERS:**  
+- Free → aligns with the **Black Financial Model**  
+- Flexible → allows pivot tables beyond traditional bookkeeping software  
+- Frontend → data entry system designed for **you to understand**
 
-Type  
-	Reports that show refunds must use Type
+---
 
-Label  
-	Members are subset of “Module” and is automated .   
-Customer payments & refunds
+## Logistics / Workflow
 
-Misc \- is everything else. There is not much else.  
-Incorporating, Domain name, and no tangible assets  
-**WHY:**  
-	Free \- Black financial model  
-	Flexible \- More so than bookkeeping software because of pivot tables  
-	Frontend \- We wanted a Frontend data entry system that YOU understand now
+1. Grab transactions from PayPal for the last 30 days.  
+2. Grab the entire spreadsheet of historical transactions.  
+3. Handle manual entries carefully:  
+   - If a manual entry is missing a payment, it can be added later.  
+4. Update MoneyService database to include manual PayPal transactions.  
+5. Update Gateway MySQL database **only for Member + Module transactions**.  
+6. Ensure all transactions can be pulled from MoneyService for reporting.
 
-Logistics:  
-	Grab the transactions for the last 30 days from PayPal  
-	Grab the entire spreadsheet  
-		What happens when Manual entry does not have manual payment?  
-			The payment can be added later  
-	Update the MoneyService database because there are Manual PayPal transactions  
-	Update the Gateway MySQL database as required ?  
-		No. We only want Member+Module transactions in the gateway database  
-		But, make it so that all transactions can be pulled from MoneyService  
-	  
-MAYBE AUTOMATED CANNOT WORK BECAUSE PAYER PAYEE?  
-	
-
-	
+**NOTE:**  
+- Automation may fail if Payer / Payee is ambiguous; email-based identifiers and UUIDs mitigate this.

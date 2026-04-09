@@ -1,11 +1,11 @@
-# Pain Points / Problem Definition Template
+# **Pain Points / Problem Definition Template**
 
-## 1. Problem Overview
+## **1. Problem Overview**
 - **Core Problem Statement:**  
   Describe the core issue your target audience faces in one sentence.  
   *Example: Small businesses lose revenue because booking systems fail to capture repeat customers.*
 
-## 3. Impact of the Problem
+## **2. Impact of the Problem**
 - **Consequences / Cost of Inaction:**  
   Quantify or describe direct effects on time, money, or efficiency.  
   *Example: Trainers lose an average of 20% recurring revenue due to scheduling errors.*
@@ -14,7 +14,7 @@
   Why does this matter beyond metrics?  
   *Example: Frustration, burnout, limited business growth opportunities.*
 
-## 5. Root Causes
+## **3. Root Causes**
 - **Underlying Factors Driving the Pain:**  
   Identify systemic, behavioral, or technical causes.  
   *Example: Fragmented tools, non-tech-savvy users, no automation.*
@@ -22,9 +22,6 @@
 - **Potential for Disruption:**  
   One sentence explaining why solving this problem creates significant value.  
   *Example: Streamlining client operations can unlock a $5B underserved market.*
-
-
-
 
 ---
 
